@@ -1,12 +1,13 @@
 ---
-Name: Eva Alonso Ortiz
-Title: Dr
+Name: Naomi L. Gaggi
+Title: PhD Candidate
 Pronouns: She/her
-Job: Research scientist
-Affiliation: Polytechnique Montreal, Department of Electrical Engineering
-ShortBio: Eva Alonso Ortiz Eva is a postdoc working in the @PolyNeuro lab, developing imaging methods for spinal cord MRI. In her spare time she bikes, skates and kayaks along the Rideau canal next to her home, followed by a good pint of local craft beer!
-Website: https://www.evaalonsoortiz.com/
-Twitter: EvaAlonsoOrtiz
-Github: evaalonsoortiz
+Job: Graduate Research Assistant
+Affiliation: City University of New York (CUNY) Graduate Center and CUNY School of Medicine, Department of Neuroscience
+Short Bio: Naomi L. Gaggi is a PhD candidate working in the Clinical Neuroimaging Lab under the mentorship of Dr. Junghoon Kim. Her dissertation is focusing on using noninvasive brain stimulation methods and magnetic resonance imaging in moderate-severe traumatic brain injury patients to study changes in cerebral blood flow. In her spare time, she enjoys practicing yoga and being a dog mom to her mini Pomeranian, Fred.
+Website: https://NaomiGaggi.Wordpress.com
+Website: NaomiGaggi.Wordpress.com
+Twitter: NaomiGaggi
+GitHub: NaomiGaggi
 layout: speaker_page
 ---
