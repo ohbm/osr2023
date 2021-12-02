@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Contact
+title: Contact Us
 ---
 
 We invite you to contact us using any of the methods below.
 
 <img align="left" src="../img/email-logo.svg" alt="email" width="3.5%">&nbsp;Email: <ohbmopenscience@gmail.com>
 <br>  
-<img align="left" src="../img/twitter-logo.svg" alt="twitter" width="3.5%">&nbsp;Twitter: <a href="https://twitter.com/OhbmOpen">@OhbmOpen</a> #OHBM2021 #OSR
+<img align="left" src="../img/twitter-logo.svg" alt="twitter" width="3.5%">&nbsp;Twitter: <a href="https://twitter.com/OhbmOpen">@OhbmOpen</a> #OHBM2022 #OSR
 <br>  
 <img align="left" src="../img/github-logo.svg" alt="github" width="3.5%">&nbsp;GitHub: <a href="https://github.com/ohbm/osr2021">@ohbm</a>
 <br>  
