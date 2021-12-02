@@ -283,8 +283,8 @@ collections:
     id_key: Name
     layout: speaker_page
 
-  team:
+  volunteers:
     output: true
-    source: team.csv
+    source: volunteers.csv
     id_key: Name
     layout: speaker_page
