@@ -4,7 +4,7 @@
 title: OSR Home
 
 # Short description of your site
-description: Open Science Room 2021
+description: Open Science Room 2022
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -29,11 +29,12 @@ navbar-links:
   Register: "register"
   Accessibility: "access"
   Volunteering: 
-    - volunteer: "volunteer"
-    - Volunteers: "volunteers"
+    - Get involved!: "volunteer"
+    - Team: "team"
   Code of Conduct: "osr_coc"
   # Sponsors: "sponsors"
   FAQ: "faq"
+  Contact Us: "contact"
   
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -282,8 +283,8 @@ collections:
     id_key: Name
     layout: speaker_page
 
-  volunteers:
+  team:
     output: true
-    source: volunteers.csv
+    source: team.csv
     id_key: Name
     layout: speaker_page
