@@ -85,8 +85,8 @@ You can join the team for next year by running for election into the OS-SIG, or 
 ### Who has sponsored the OSR?
 The OSR has been made possible this year by the generous support of [Canadian Open Neuroscience Platform](https://conp-pcno.github.io/), [Courtois NeuroMod](https://www.cneuromod.ca/), [the International Neuroinformatics Coordinating Facility (INCF)](https://www.incf.org/), [OHBM Australian Chapter](https://ohbmaustralia.wordpress.com), [OpenNeuro](https://openneuro.org/), [Quebec Bio-Imaging Network](http://www.rbiq-qbin.qc.ca), [Unifying Neuroscience and Artificial Intelligence - Quebec](https://sites.google.com/view/unique-neuro-ai/home?authuser=0) and [The Wellcome Centre for Integrative Neuroimaging](https://www.win.ox.ac.uk/). Thank you to all our sponsors, for helping us work towards our vision for an inclusive, world class OSR. -->
 
-  Out current sponsonrs can be found on the main page.
-<!--img align="center" src="../img/sponsor-logos/logos-all-updated.png" alt="sponsor-logos" width="100%">
+<!--   Out current sponsonrs can be found on the main page. -->
+<!--img align="center" src="../img/sponsor-logos/logos-all-updated.png" alt="sponsor-logos" width="100%">-->
 
 <!-- <img align="left" src="../img/sponsor-logos/conp_logo.png" alt="neurolibre" width="25%">
 <img align="left" src="../img/sponsor-logos/cneuromod_logo.svg" alt="cneuromod" width="25%">
