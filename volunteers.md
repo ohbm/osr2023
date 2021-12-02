@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Volunteers
+title: Team
 ---
 
 The OSR team was elected as part of the [OHBM Open Science Special Interest Group](https://ossig.netlify.app/#OSSIG_team) (OS-SIG).
