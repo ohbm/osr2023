@@ -33,7 +33,7 @@ We are open to [submissions for emergent sessions](submit.md) throughout the mee
 
 <div id='whovisit'></div><br>
 ### Who can participate in the OSR?
-Anyone can participate in the OSR! Our content is scheduled to minimise clashes with live material being presented in the main meeting, and our content will be repeated three times every 24 hours at different timezones (The americas, Europ, and Asia) so you can join at a time convenient for you.
+Anyone can participate in the OSR! Our content is scheduled to minimise clashes with live material being presented in the main meeting, and our content will be repeated twice times every 24 hours at different timezones (Americas/Europe, and Europe/Asia) so you can join at a time convenient for you.
 
 **You must register for the OSR to obtain the details to connect to the discussions.** Registration for the OSR is included with the main meeting if you are attending the full <a href="https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=3958">OHMB program</a>. Details for how to join the OSR will be provided in the OHBM meeting virtual platform.
 
@@ -41,7 +41,7 @@ You can also [register](register.md) for the OSR at [zero-cost](access.md/#zero-
 
 <div id='attend'></div><br>
 ### Do I have to travel to participate in the OSR?
-Short answer - No! This year we will be virtual only, and you can attend from anywhere with an internet connection and access to a web browser.
+This year as OHBM, we will be hybrid. You can attend any OSSIG event either in Glasgow or from anywhere with an internet connection and access to a web browser.
 
 <div id='when'></div><br>
 ### When will I know if I have been accepted to present in the OSR?
@@ -67,13 +67,13 @@ For Code of conducts violations: please refer to the contacts in the <a href="ht
 
 <div id='virtual'></div><br>
 ### How will the virtual OSR differ from the in-person OSR?
-We'd like for them to be as similar as possible! Consistent to the OSR in 2020, we have created a space for talks, spaces for chat and networking, the ability to ask questions from speakers, and a chance for one-to-one or one-to-many support from the community.
+We'd like for them to be as similar as possible! Consistent to the OSR in previous years, we have created a space for talks, spaces for chat and networking, the ability to ask questions from speakers, and a chance for one-to-one or one-to-many support from the community.
 
 There have been a few format changes from the main meeting to reduce the load and compensate for the understanding that attention spans will be divided when attending online. The scheduled talks will be a maximum duration, and there will be comfortable breaks throughout the day. We will also make greater use of polls and audience interaction tools to keep you engaged, and there will be live chat happening alongside talks. There will also be "on-demand" material which you can watch whenever it is convenient for you.
 
-<div id='time-zones'></div><br>
+<!-- <div id='time-zones'></div><br>
 ### How will you handle time zone differences of attendees?
-We have structured our content to be repeated across three [timezones] over 24 hours. The program of prerecorded talks will run for 2 hours 30 minutes per day, and we have scheduled it to fit into a 09:00 - 17:00 day for most regions within each time zone. Emergent and social sessions will be held at the beginning and end of each day, so they should be convenient for the start or end of the day in each hub depending on where you are located. Take a look at our [schedule](schedule.html) to find the time of broadcasts in your time zone, and view activities in your local time zone.
+We have structured our content to be repeated across two [timezones] over 24 hours. The program of prerecorded talks will run for 2 hours 30 minutes per day, and we have scheduled it to fit into a 09:00 - 17:00 day for most regions within each time zone. Emergent and social sessions will be held at the beginning and end of each day, so they should be convenient for the start or end of the day in each hub depending on where you are located. Take a look at our [schedule](schedule.html) to find the time of broadcasts in your time zone, and view activities in your local time zone. -->
 
 <div id='contributors'></div><br>
 ### Who has contributed to the OSR?
