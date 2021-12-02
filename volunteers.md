@@ -3,7 +3,7 @@ layout: page
 title: Volunteers
 ---
 
-The core OSR team were elected as part of the [OHBM Open Science Special Interest Group](https://ossig.netlify.app/#OSSIG_team) (OS-SIG).
+The OSR team was elected as part of the [OHBM Open Science Special Interest Group](https://ossig.netlify.app/#OSSIG_team) (OS-SIG).
 
 
 <br>
@@ -12,17 +12,17 @@ The core OSR team were elected as part of the [OHBM Open Science Special Interes
 <table class="people">
     <tr class="people">
         <td class="people">
-            <a style="display:block; color:#05323F" href="../team_eva_alonso_ortiz">
+            <a style="display:block; color:#05323F" href="../team_roza_gunes_bayrak">
             <aside>
             <header>
-                <img src="../img/team/eva_alonso_ortiz.jpg" style="height:200px; border-radius:50%;">
-                <h3>Eva Alonso Ortiz</h3>
-                <h4>OSR Co-chair</h4>
-                <h6>Department of Electrical Engineering, Polytechnique Montreal</h6>
+                <img src="../img/team/roza.jpg" style="height:200px; border-radius:50%;">
+                <h3>Roza Gunes Bayrak</h3>
+                <h4>OSR Chair</h4>
+                <h6>Department of Computer Science, Vanderbilt University</h6>
                 <h4>
-                <a target="_blank" href="https://twitter.com/EvaAlonsoOrtiz"><i class="fa fa-twitter fa-2x" style="position: relative; top: 0px;text-indent:0px;  vertical-align: middle; margin-left:4px; margin-right:4px;"></i></a>
-                <a target="_blank" href="https://github.com/evaalonsoortiz"><i class="fa fa-github fa-2x" style="position: relative; top: 0px; text-indent:0px; vertical-align: middle; margin-left:4px; margin-right:4px;"></i></a>
-                <a target="_blank" href="https://www.evaalonsoortiz.com/"><i class="fa fa-external-link-square fa-2x" style="position: relative; top: 0px;text-indent:0px;  vertical-align: middle; margin-left:4px; margin-right:4px;"></i></a>
+                <a target="_blank" href="https://twitter.com/redgreenblues"><i class="fa fa-twitter fa-2x" style="position: relative; top: 0px;text-indent:0px;  vertical-align: middle; margin-left:4px; margin-right:4px;"></i></a>
+                <a target="_blank" href="https://github.com/rgbayrak"><i class="fa fa-github fa-2x" style="position: relative; top: 0px; text-indent:0px; vertical-align: middle; margin-left:4px; margin-right:4px;"></i></a>
+                <a target="_blank" href="https://rgbayrak.github.io/"><i class="fa fa-external-link-square fa-2x" style="position: relative; top: 0px;text-indent:0px;  vertical-align: middle; margin-left:4px; margin-right:4px;"></i></a>
                 </h4>
                 <br>
             </header>
@@ -30,17 +30,35 @@ The core OSR team were elected as part of the [OHBM Open Science Special Interes
             </a>
         </td>
         <td class="people">
-            <a style="display:block; color:#05323F" href="../team_gabriel_gonzalez_escamilla">
+            <a style="display:block; color:#05323F" href="../team_naomi_gaggi">
             <aside>
             <header>
-                <img src="../img/team/gabriel_gonzalez_escamilla.jpg" style="height:200px; border-radius:50%;">
-                <h3>Gabriel González Escamilla</h3>
-                <h4>OSR Co-chair</h4>
-                <h6>Department of Neurology, University medical center of the Johannes Gutenberg University Mainz, Mainz</h6>
+                <img src="../img/team/naomi.jpg" style="height:200px; border-radius:50%;">
+                <h3>Naomi Gaggi</h3>
+                <h4>OSR Deputy Chair</h4>
+                <h6>City University of New York (CUNY) Graduate Center & CUNY School of Medicine at City College</h6>
                 <h4>
-                <a target="_blank" href="https://twitter.com/NeuroGabriel"><i class="fa fa-twitter fa-2x" style="position: relative; top: 0px;text-indent:0px;  vertical-align: middle; margin-left:4px; margin-right:4px;"></i></a>
-                <a target="_blank" href="https://github.com/GGonEsc"><i class="fa fa-github fa-2x" style="position: relative; top: 0px; text-indent:0px; vertical-align: middle; margin-left:4px; margin-right:4px;"></i></a>
-                <a target="_blank" href="https://multimodalneuroimaging.wordpress.com/about/"><i class="fa fa-external-link-square fa-2x" style="position: relative; top: 0px;text-indent:0px;  vertical-align: middle; margin-left:4px; margin-right:4px;"></i></a>
+                <a target="_blank" href="https://twitter.com/NaomiGaggi"><i class="fa fa-twitter fa-2x" style="position: relative; top: 0px;text-indent:0px;  vertical-align: middle; margin-left:4px; margin-right:4px;"></i></a>
+                <a target="_blank" href="https://github.com/NaomiGaggi"><i class="fa fa-github fa-2x" style="position: relative; top: 0px; text-indent:0px; vertical-align: middle; margin-left:4px; margin-right:4px;"></i></a>
+                <a target="_blank" href="https://NaomiGaggi.Wordpress.com"><i class="fa fa-external-link-square fa-2x" style="position: relative; top: 0px;text-indent:0px;  vertical-align: middle; margin-left:4px; margin-right:4px;"></i></a>
+                </h4>
+                <br>
+            </header>
+            </aside>
+            </a>
+        </td>
+        <td class="people">
+            <a style="display:block; color:#05323F" href="../team_priya_suppiah">
+            <aside>
+            <header>
+                <img src="../img/team/naomi.jpg" style="height:200px; border-radius:50%;">
+                <h3>Subapriya Suppiah</h3>
+                <h4>OSR Chair Elect</h4>
+                <h6>Universiti Putra Malaysia, Department of Radiology</h6>
+                <h4>
+                <a target="_blank" href="https://twitter.com/SubapriyaSuppi1"><i class="fa fa-twitter fa-2x" style="position: relative; top: 0px;text-indent:0px;  vertical-align: middle; margin-left:4px; margin-right:4px;"></i></a>
+                <a target="_blank" href="https://github.com/Drpriyasiva"><i class="fa fa-github fa-2x" style="position: relative; top: 0px; text-indent:0px; vertical-align: middle; margin-left:4px; margin-right:4px;"></i></a>
+                <a target="_blank" href="https://www.linkedin.com/in/subapriya-suppiah-93375b8b/"><i class="fa fa-external-link-square fa-2x" style="position: relative; top: 0px;text-indent:0px;  vertical-align: middle; margin-left:4px; margin-right:4px;"></i></a>
                 </h4>
                 <br>
             </header>
@@ -63,8 +81,7 @@ Have a look at their contact links and bios below, and give them a virtual high-
 </p>
 <br>
 
-
-<html>
+<!-- <html>
 
 {% assign volunteers = site.volunteers %}
 
@@ -113,4 +130,4 @@ Have a look at their contact links and bios below, and give them a virtual high-
 {% endfor %}
 </table>
 
-</html>
+</html> -->
