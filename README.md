@@ -8,7 +8,7 @@ Below we provide basic info and links to more information.
 
 ### Who are we?
 
-We are part of the [Open Science Special Interest Group](https://ossig.netlify.com/) (OSSIG) of the [Organization for Human Brain Mapping](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=3267&pageid=1).
+We are part of the <a href="https://ossig.netlify.com/" target="_blank">Open Science Special Interest Group</a>(OSSIG) of the <a href="https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=3267&pageid=1" target="_blank">Organization for Human Brain Mapping</a>.
 
 ### What are we doing?
 
@@ -16,11 +16,11 @@ We are organising, among other events, the Open Science Room at the <a href="htt
 
 ### Get involved
 
-All information is available on [our website](https://ohbm.github.io/osr2022).
+All information is available on <a href="https://ohbm.github.io/osr2022" target="_blank">our website</a>.
 
 ### Contact us
 
-Feel free to [reach out to us](https://ohbm.github.io/osr2021/contact/)!
+Feel free to <a href="https://ohbm.github.io/osr2021/contact/" target="_blank">reach out to us</a>!
 
 
 ---
