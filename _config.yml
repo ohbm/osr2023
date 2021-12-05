@@ -21,19 +21,19 @@ description: Open Science Room 2022
 # List of links in the navigation bar. Strings should match .md filenames
 navbar-links:
   About Us:
-    - OSR Session Formats:
+    - OSR Session Formats: "formats"
     - Code of Conduct: "osr_coc"
     - Accessibility: "access"
     - People Behind OSR: "volunteers"
     - # Sponsors: "sponsors"
     - FAQ: "faq"
   Program: "formats"
-    - Educationals: 
-    - Panel Sessions:
-    - Emergent Sessions: 
+    - Educationals: "working"
+    - Panel Sessions: "working"
+    - Emergent Sessions: "working"
   Register: "register"
   Volunteering: 
-    - Opportunities: 
+    - Opportunities: "working"
     - Get involved!: "volunteer"
   Contact Us: "contact"
 
