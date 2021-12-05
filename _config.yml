@@ -20,22 +20,22 @@ description: Open Science Room 2022
 
 # List of links in the navigation bar. Strings should match .md filenames
 navbar-links:
-  Program:
-    - Schedule: "schedule"
-    # - Speakers: "speakers"
-    - Formats: "formats"
-    - Submit: "submit"
-    # - Review: "review"
+  About Us:
+    - OSR Session Formats:
+    - Code of Conduct: "osr_coc"
+    - Accessibility: "access"
+    - People Behind OSR: "volunteers"
+    - # Sponsors: "sponsors"
+    - FAQ: "faq"
+  Program: "formats"
+    - Educationals: 
+    - Panel Sessions:
+    - Emergent Sessions: 
   Register: "register"
-  Accessibility: "access"
   Volunteering: 
+    - Opportunities: 
     - Get involved!: "volunteer"
-    - Team: "volunteers"
-  Code of Conduct: "osr_coc"
-  # Sponsors: "sponsors"
-  FAQ: "faq"
   Contact Us: "contact"
-  
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -276,15 +276,15 @@ paginate_path: "/news/page:num/"
 plugins:
   - pagemaster
 
-collections:
-  speakers:
-    output: true
-    source: speakers.csv
-    id_key: Name
-    layout: speaker_page
+# collections:
+#   speakers:
+#     output: true
+#     source: speakers.csv
+#     id_key: Name
+#     layout: speaker_page
 
-  volunteers:
-    output: true
-    source: volunteers.csv
-    id_key: Name
-    layout: speaker_page
+#   volunteers:
+#     output: true
+#     source: volunteers.csv
+#     id_key: Name
+#     layout: speaker_page
