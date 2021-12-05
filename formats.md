@@ -22,7 +22,6 @@ As for the main OHBM conference, this years OSR will happen across in hybrid for
 </p>
 <div id='panel'></div>
 <p align="justify">**Panel discussions** will be live and feature a host that will moderate a predetermined topic of discussion among a panel of speakers. Questions from the audience are encouraged (via chat feature) and will be transmitted to the panel by the host throughout the session.</p>
-<p align="justify">Panel discussions are pre-defined sessions on the following topics: </p>
 
 <div id='emergent'></div>
 <p align="justify">**Emergent sessions** are [bookable](/submit.md){:target="_blank"} during the meeting for times allocated for emergent sessions. Emergent sessions can be booked by any OHBM or OSR registered participant at any point in the meeting, while there is space in the schedule. Submitted emergent requests will be briefly reviewed by the OSR team for appropriate content, and details communicated regarding how to book a slot in our schedule. We will be on hand to manage the hosting and broadcast of your session on your behalf, and help your participants join the conversation.</p>
