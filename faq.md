@@ -23,7 +23,7 @@ title: FAQ
 
 <div id='what'></div><br>
 ### What is the OSR?
-The Open Science Room (OSR) is a conference within a conference, at the <a href="https://www.humanbrainmapping.org/">Organisation for Human Brain Mapping</a> (OHBM) annual meeting. The meeting this year will be held on a hybrid platform opening on June - virtually and in Glasgow, Scottland. The OSR hosts discussions around advances in neuroimaging, with a specific interest in open research practices.
+The Open Science Room (OSR) is a conference within a conference, at the <a href="https://www.humanbrainmapping.org/">Organization for Human Brain Mapping</a> (OHBM) annual meeting. The meeting this year will be held on a hybrid platform opening on June - virtually (from anywhere in the world) and in Glasgow, Scottland! The OSR hosts discussions around advances in neuroimaging, with a specific interest in open research practices.
 
 <div id='whopresent'></div><br>
 ### Who will be presenting in the OSR?
