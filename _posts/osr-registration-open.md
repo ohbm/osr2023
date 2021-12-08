@@ -6,8 +6,8 @@ social-links: true
 show-avatar: true
 ---
 
-Hi folks! We're excited to announce that you can now [**register for free**](https://ohbm.github.io/osr2021/register/) for the virtual OHBM Open Science Room (OSR),
-happening ** --insert Date-- **.
+Hi folks! We're excited to announce that you can now [**register for free**](https://ohbm.github.io/osr2021/register/) for the hybrid OHBM Open Science Room (OSR),
+happening June 19 - June 23 2022.
 
 ### 1. Zero-cost registration
 
