@@ -12,7 +12,7 @@ We have two exciting announcements!
 
 ### 1. The call for OSR talks is now open! 
 
-We have opened the call for educational talks (+ demos) and panel discussions in this year's virtual Open Science Room at the [*virtual* annual meeting of the OHBM](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=3267&pageid=1).
+We have opened the call for educational talks (+ demos) and panel discussions in this year's hybrid Open Science Room at the [*virtual* annual meeting of the OHBM](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=3267&pageid=1).
 This year, presentations and discussions will focus on three main themes:
 - Open Workflows
 - Open Data 2.0
