@@ -12,7 +12,7 @@ We are part of the <a href="https://ossig.netlify.com/">Open Science Special Int
 
 ### What are we doing?
 
-We are organising, among other events, the Open Science Room at the <a href="https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=4114" target="_blank">hybrid 2022 meeting of the OHBM</a>.
+We are organizing, among other events, the Open Science Room at the <a href="https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=4114" target="_blank">hybrid 2022 meeting of the OHBM</a>.
 
 ### Get involved
 
