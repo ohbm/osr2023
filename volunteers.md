@@ -15,7 +15,7 @@ The core OSR team was elected as part of the [OHBM Open Science Special Interest
             <a style="display:block; color:#05323F" href="../team_roza_gunes_bayrak">
             <aside>
             <header>
-                <img src="../img/team/roza_gunes_bayrak.jpg" style="height:100px; border-radius:50%;">
+                <img src="../img/team/roza_gunes_bayrak.jpg" style="height:200px; border-radius:50%;">
                 <h3>Roza Gunes Bayrak</h3>
                 <h4>OSR Chair</h4>
                 <h6>Department of Computer Science, Vanderbilt University</h6>
@@ -29,11 +29,13 @@ The core OSR team was elected as part of the [OHBM Open Science Special Interest
             </aside>
             </a>
         </td>
+    </tr>
+    <tr class="people">
         <td class="people">
             <a style="display:block; color:#05323F" href="../team_naomi_gaggi">
             <aside>
             <header>
-                <img src="../img/team/naomi_gaggi.jpg" style="height:100px; border-radius:50%;">
+                <img src="../img/team/naomi_gaggi.jpg" style="height:200px; border-radius:50%;">
                 <h3>Naomi Gaggi</h3>
                 <h4>OSR Deputy Chair</h4>
                 <h6>City University of New York (CUNY) Graduate Center & CUNY School of Medicine at City College</h6>
@@ -71,7 +73,7 @@ The core OSR team was elected as part of the [OHBM Open Science Special Interest
             <a style="display:block; color:#05323F" href="../team_janine_bijsterbosch">
             <aside>
             <header>
-                <img src="../img/team/janine_bijsterbosch.jpg" style="height:100px; border-radius:50%;">
+                <img src="../img/team/janine_bijsterbosch.jpg" style="height:200px; border-radius:50%;">
                 <h3>Janine Bijsterbosch</h3>
                 <h4>OSSIG Chair</h4>
                 <h6>Department of Radiology, Washington University Medical School, Washington University</h6>
@@ -87,7 +89,7 @@ The core OSR team was elected as part of the [OHBM Open Science Special Interest
             <a style="display:block; color:#05323F" href="../team_stephanie_noble">
             <aside>
             <header>
-                <img src="../img/team/stephanie_noble.jpg" style="height:100px; border-radius:50%;">
+                <img src="../img/team/stephanie_noble.jpg" style="height:200px; border-radius:50%;">
                 <h3>Stephanie Noble</h3>
                 <h4>OSSIG Inclusivity Officer</h4>
                 <h6>Department of Radiology & Biomedical Imaging, Yale University</h6>
@@ -99,6 +101,7 @@ The core OSR team was elected as part of the [OHBM Open Science Special Interest
             </aside>
             </a>
         </td>
+    </tr>
 </table>
 
 
@@ -116,7 +119,7 @@ Have a look at their contact links and bios below, and give them a virtual high-
 
 {% assign volunteers = site.volunteers %}
 
-{% assign n_rows = volunteers.size | divided_by:3 %}
+{% assign n_rows = volunteers.size | divided_by:2 %}
 <table class="people">
 {% for row in (0..n_rows) %}
     <tr class="people">
