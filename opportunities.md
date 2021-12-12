@@ -57,6 +57,8 @@ Time commitment: 1-2 hours  <br>
 Tasks <br>
 Tweet announcements for each session taking place during the OSR. <br>
 
+---
+
 **Technical Video Editing Support**
 Core skills: any video editing software (ex: iMovie) <br>
 Dates: 19/6 - 23/6 <br>
@@ -66,6 +68,8 @@ Tasks <br>
 Review/watch videos to ensure they meet the appropriate standards/guidelines. <br>
 Upload videos to Youtube and Douyu, create auto-subtitles, ensure subtitles match the audio.  <br>
 Stitch pre-recorded videos together with a slice advertising our sponsors between the two videos. <br>
+
+---
 
 **Social Event Planning**
 Core skills: gathertown (for the online component) <br>
@@ -78,6 +82,7 @@ Coordinate with the social media volunteer to advertise the event. <br>
 Coordinate with the website volunteer to put the event on the website schedule. <br>
 Monitor compliance with the code of conduct during the event. <br>
 
+---
 
 **OSR Registration Communication**
 Core skills: microsoft forms <br>
@@ -86,6 +91,8 @@ Number of volunteers: 1  <br>
 Time commitment: 1-2 hours  <br>
 Tasks <br>
 Monitor ongoing registrations and send the relevant login info the the registrants. <br>
+
+---
 
 **YouTube/Douyu Channel Streaming Management**
 Timezone: America/Europe and America/Asia <br>
