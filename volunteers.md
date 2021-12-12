@@ -3,7 +3,7 @@ layout: page
 title: Team
 ---
 
-The OSR team was elected as part of the [OHBM Open Science Special Interest Group](https://ossig.netlify.app/#OSSIG_team) (OS-SIG).
+The core OSR team was elected as part of the [OHBM Open Science Special Interest Group](https://ossig.netlify.app/#OSSIG_team) (OS-SIG).
 
 
 <br>
@@ -15,7 +15,7 @@ The OSR team was elected as part of the [OHBM Open Science Special Interest Grou
             <a style="display:block; color:#05323F" href="../team_roza_gunes_bayrak">
             <aside>
             <header>
-                <img src="../img/team/roza.jpg" style="height:200px; border-radius:50%;">
+                <img src="../img/team/roza_gunes_bayrak.jpg" style="height:100px; border-radius:50%;">
                 <h3>Roza Gunes Bayrak</h3>
                 <h4>OSR Chair</h4>
                 <h6>Department of Computer Science, Vanderbilt University</h6>
@@ -33,7 +33,7 @@ The OSR team was elected as part of the [OHBM Open Science Special Interest Grou
             <a style="display:block; color:#05323F" href="../team_naomi_gaggi">
             <aside>
             <header>
-                <img src="../img/team/naomi.jpg" style="height:200px; border-radius:50%;">
+                <img src="../img/team/naomi_gaggi.jpg" style="height:100px; border-radius:50%;">
                 <h3>Naomi Gaggi</h3>
                 <h4>OSR Deputy Chair</h4>
                 <h6>City University of New York (CUNY) Graduate Center & CUNY School of Medicine at City College</h6>
@@ -51,10 +51,10 @@ The OSR team was elected as part of the [OHBM Open Science Special Interest Grou
             <a style="display:block; color:#05323F" href="../team_priya_suppiah">
             <aside>
             <header>
-                <img src="../img/team/naomi.jpg" style="height:200px; border-radius:50%;">
+                <img src="../img/team/subapriya_suppiah.jpg" style="height:200px; border-radius:50%;">
                 <h3>Subapriya Suppiah</h3>
                 <h4>OSR Chair Elect</h4>
-                <h6>Universiti Putra Malaysia, Department of Radiology</h6>
+                <h6>Department of Radiology, Universiti Putra Malaysia</h6>
                 <h4>
                 <a target="_blank" href="https://twitter.com/SubapriyaSuppi1"><i class="fa fa-twitter fa-2x" style="position: relative; top: 0px;text-indent:0px;  vertical-align: middle; margin-left:4px; margin-right:4px;"></i></a>
                 <a target="_blank" href="https://github.com/Drpriyasiva"><i class="fa fa-github fa-2x" style="position: relative; top: 0px; text-indent:0px; vertical-align: middle; margin-left:4px; margin-right:4px;"></i></a>
@@ -66,9 +66,40 @@ The OSR team was elected as part of the [OHBM Open Science Special Interest Grou
             </a>
         </td>
     </tr>
+    <tr class="people">
+        <td class="people">
+            <a style="display:block; color:#05323F" href="../team_janine_bijsterbosch">
+            <aside>
+            <header>
+                <img src="../img/team/janine_bijsterbosch.jpg" style="height:100px; border-radius:50%;">
+                <h3>Janine Bijsterbosch</h3>
+                <h4>OSSIG Chair</h4>
+                <h6>Department of Radiology, Washington University Medical School, Washington University</h6>
+                <h4>
+                <a target="_blank" href="https://twitter.com/PersonomicsLab"><i class="fa fa-twitter fa-2x" style="position: relative; top: 0px;text-indent:0px;  vertical-align: middle; margin-left:4px; margin-right:4px;"></i></a>
+                </h4>
+                <br>
+            </header>
+            </aside>
+            </a>
+        </td>
+        <td class="people">
+            <a style="display:block; color:#05323F" href="../team_stephanie_noble">
+            <aside>
+            <header>
+                <img src="../img/team/stephanie_noble.jpg" style="height:100px; border-radius:50%;">
+                <h3>Stephanie Noble</h3>
+                <h4>OSSIG Inclusivity Officer</h4>
+                <h6>Department of Radiology & Biomedical Imaging, Yale University</h6>
+                <h4>
+                <a target="_blank" href="https://twitter.com/sNeuroble"><i class="fa fa-twitter fa-2x" style="position: relative; top: 0px;text-indent:0px;  vertical-align: middle; margin-left:4px; margin-right:4px;"></i></a>
+                </h4>
+                <br>
+            </header>
+            </aside>
+            </a>
+        </td>
 </table>
-
-
 
 
 ### A special thanks to our volunteers!
