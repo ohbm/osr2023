@@ -32,7 +32,7 @@ navbar-links:
     - Emergent Sessions: "working"
   Register: "register"
   Volunteering: 
-    - Opportunities: "working"
+    - Opportunities: "opportunities"
     - Get involved!: "volunteer"
   Contact Us: "contact"
 
