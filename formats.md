@@ -4,12 +4,9 @@ title: OSR session formats
 ---
 
 OSR sessions will have one of the following formats:
-
-[<img align="center" src="../img/osr_themes_eao_geg.svg" alt="formats">](#emergent)
-
-- [Educational sessions](#educational)
-- [Panel discussions](#panel)
-- [Emergent sessions](#emergent)
+[<img align="center" src="../img/educational_geg.svg" alt="OSR-Ed">](#educational)
+[<img align="center" src="../img/panel_geg.svg" alt="Panel">](#panel)
+[<img align="center" src="../img/emergent_geg.svg" alt="Emergent">](#emergent)
 
 {::options parse_block_html="true" /}
 <p align="justify">
