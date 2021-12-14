@@ -28,8 +28,19 @@ As for the main OHBM conference, this years OSR will happen across in hybrid for
 <div id='panel'></div>
 
 
-<p align="justify"> **Panel discussions** are discussions amongst selected speakers and OSR attendees about various relevant topics, spaning across all aspects of open science practices.
-In the 2022 OSR, we aim to address new and emerging topics in the discipline, along with big picture issues in open science. The OSR Pannel Sessions are also a space to meet and interact with invited pannelists about a multitude of topics. Since this year's OSR is hybrid, we aim to create in-person and virtual sessions, which will be 'live' and re-broadcasted to support everyone in making real connections with other attendees and panelists.</p>
+<p align="justify"> What are panel sessions?</p>
+
+<p align="justify"> Panel Sessions are discussions amongst selected speakers and OSR attendees about various relevant topics, spaning across all aspects of open science practices.
+In the 2022 OSR, we aim to address new and emerging topics in the discipline, along with big picture issues in open science. The OSR Pannel Sessions are also a space to meet 
+and interact with invited pannelists about a multitude of topics. Since this year's OSR is hybrid, we aim to create in-person and virtual sessions, which will be 'live' and re-broadcasted
+to support everyone in making real connections with other attendees and panelists.</p>
+
+<p align="justify">What is the format of panel sessions?</p>
+<p align="justify">Panel discussions will feature a host that will moderate a predetermined topic of discussion among a panel of speakers.
+Speakers will be selected based on relevancy to the chosen panel topic. Panels typically involve 5 speakers per panel.
+Questions from the audience are encouraged (via chat feature if virtual) and will be transmitted to the panel by the host throughout the session.</p>
+
+<p align="justify">Previous Panel Sessions:</p>
 
 <div id='emergent'></div>
 
