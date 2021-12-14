@@ -4,9 +4,9 @@ title: OSR session formats
 ---
 
 OSR sessions will have one of the following formats:
-[<img align="center" src="../img/educational_geg.svg" alt="OSR-Ed">](#educational)
-[<img align="center" src="../img/panel_geg.svg" alt="Panel">](#panel)
-[<img align="center" src="../img/emergent_geg.svg" alt="Emergent">](#emergent)
+[<img align="left" src="../img/educational_geg.svg" height="100" alt="OSR-Ed">](#educational)
+[<img align="center" src="../img/panel_geg.svg" height="100" alt="Panel">](#panel)
+[<img align="right" src="../img/emergent_geg.svg" height="100" alt="Emergent">](#emergent)
 
 {::options parse_block_html="true" /}
 <p align="justify">
