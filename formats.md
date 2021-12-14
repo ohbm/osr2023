@@ -31,9 +31,9 @@ In the 2022 OSR, we aim to address new and emerging topics in the discipline, al
 <div id='emergent'></div>
 
 
-<p align="justify">**Emergent sessions** are [bookable](/submit.md){:target="_blank"} during the meeting for times allocated for emergent sessions. Emergent sessions can be booked by any OHBM or OSR registered participant at any point in the meeting, while there is space in the schedule. Submitted emergent requests will be briefly reviewed by the OSR team for appropriate content, and details communicated regarding how to book a slot in our schedule. We will be on hand to manage the hosting and broadcast of your session on your behalf, and help your participants join the conversation.</p>
+<p align="justify">**Emergent sessions** are [bookable](/submit.md){:target="_blank"}. Educational sessions are guides and 'how-tos'for open science-related topics, spanning from novice-level introductions to coding to advanced-level pipeline implementations.</p>
 <p align="justify">Emergent sessions may last from 15 minutes to one hour. The duration will be set by the participant organiser, or it will run for as long as the conversation is flowing.</p>
-<p align="justify">Emergent sessions can be framed as conversations held in an open format among peers. These sessions may be used to invite contributions to collaborative projects, hold an open forum to discuss a development in existing projects, hold a panel discussion, or basically anything you would like!</p>
-<p align="justify">All emergent sessions will be recorded (unless we have specific reason to think this would inhibit discussion) and made available for viewing on Crowdcast straight after the event. Links to this “spontaneously” recorded material will be shared with registered participants.
+<p align="justify"> Educational Sessions are pre-recorded and broadcast for everyone, anytime, and in any time zone! The educational sessions will forever live on Youtube and DoYou. You can also leave questions on the video posts and speakers will be encouraged to get back to you.</p>
+<p align="justify">Take our quiz to find which Educational Sessions are tailored to you!
 </p>
 {::options parse_block_html="false" /}
