@@ -5,7 +5,7 @@ title: OSR session formats
 
 OSR sessions will have one of the following formats:
 
-<img align="center" src="../img/osr_themes_eao_geg.svg" alt="formats">
+[<img align="center" src="../img/osr_themes_eao_geg.svg" alt="formats">](#emergent)
 
 - [Educational sessions](#educational)
 - [Panel discussions](#panel)
