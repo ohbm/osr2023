@@ -29,10 +29,6 @@ The core OSR team was elected as part of the [OHBM Open Science Special Interest
             </aside>
             </a>
         </td>
-    </tr>
-</table>
-<table class="people">
-    <tr class="people">
         <td class="people">
             <a style="display:block; color:#05323F" href="../team_naomi_gaggi">
             <aside>
@@ -70,6 +66,8 @@ The core OSR team was elected as part of the [OHBM Open Science Special Interest
             </a>
         </td>
     </tr>
+</table>
+<table class="people">
     <tr class="people">
         <td class="people">
             <a style="display:block; color:#05323F" href="../team_janine_bijsterbosch">
