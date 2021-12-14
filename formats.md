@@ -26,9 +26,7 @@ As for the main OHBM conference, this years OSR will happen across in hybrid for
 
 
 <p align="justify"> **Panel discussions** are discussions amongst selected speakers and OSR attendees about various relevant topics, spaning across all aspects of open science practices.
-In the 2022 OSR, we aim to address new and emerging topics in the discipline, along with big picture issues in open science. The OSR Pannel Sessions are also a space to meet 
-and interact with invited pannelists about a multitude of topics. Since this year's OSR is hybrid, we aim to create in-person and virtual sessions, which will be 'live' and re-broadcasted
-to support everyone in making real connections with other attendees and panelists.
+In the 2022 OSR, we aim to address new and emerging topics in the discipline, along with big picture issues in open science. The OSR Pannel Sessions are also a space to meet and interact with invited pannelists about a multitude of topics. Since this year's OSR is hybrid, we aim to create in-person and virtual sessions, which will be 'live' and re-broadcasted to support everyone in making real connections with other attendees and panelists.</p>
 
 <div id='emergent'></div>
 
