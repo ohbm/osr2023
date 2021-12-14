@@ -21,7 +21,7 @@ As for the main OHBM conference, this years OSR will happen across in hybrid for
 
 <p align="justify">**What are Educational Sessions?**</p>
 
-<p align="justify">Educational sessions are guides and 'how-tos'for open science-related topics, spanning from novice-level introductions to coding to advanced-level pipeline implementations.</p>
+<p align="justify">Educational Sessions are guides and 'how-tos'for open science-related topics, spanning from novice-level introductions to coding to advanced-level pipeline implementations.</p>
 
 <p align="justify">**How can I view Educational Sessions?**</p>
 <p align="justify"> Educational Sessions are pre-recorded and broadcast for everyone, anytime, and in any time zone! The educational sessions will forever live on Youtube and DoYou. You can also leave questions on the video posts and speakers will be encouraged to get back to you.</p>
@@ -32,14 +32,14 @@ As for the main OHBM conference, this years OSR will happen across in hybrid for
 <div id='panel'></div>
 
 
-<p align="justify">**What are panel sessions?**</p>
+<p align="justify">**What are Panel Sessions?**</p>
 <p align="justify"> Panel Sessions are discussions amongst selected speakers and OSR attendees about various relevant topics, spaning across all aspects of open science practices.
 In the 2022 OSR, we aim to address new and emerging topics in the discipline, along with big picture issues in open science. The OSR Pannel Sessions are also a space to meet 
 and interact with invited pannelists about a multitude of topics. Since this year's OSR is hybrid, we aim to create in-person and virtual sessions, which will be 'live' and re-broadcasted
 to support everyone in making real connections with other attendees and panelists.</p>
 
-<p align="justify">**What is the format of panel sessions?**</p>
-<p align="justify">Panel discussions will feature a host that will moderate a predetermined topic of discussion among a panel of speakers.
+<p align="justify">**What is the format of Panel Sessions?**</p>
+<p align="justify">Panel Sessions will feature a host that will moderate a predetermined topic of discussion among a panel of speakers.
 Speakers will be selected based on relevancy to the chosen panel topic. Panels typically involve 5 speakers per panel.
 Questions from the audience are encouraged (via chat feature if virtual) and will be transmitted to the panel by the host throughout the session.</p>
 
@@ -49,18 +49,18 @@ Questions from the audience are encouraged (via chat feature if virtual) and wil
 <div id='emergent'></div>
 
   
-<p align="justify">**What are emergent sessions?**</p>
-<p align="justify"> Emergent Sessions are spontaneous and interactive hot topic talks hosted by OSR attendees. Emergent sessions may last from 15 minutes to one hour. The duration will be set by the participant organiser, or it will run for as long as the conversation is flowing. Emergent sessions can be framed as conversations held in an open format among peers. These sessions may be used to invite contributions to collaborative projects,hold an open forum to discuss a development in existing projects, hold a panel discussion, or basically anything you would like!</p>
+<p align="justify">**What are Emergent Sessions?**</p>
+<p align="justify"> Emergent Sessions are spontaneous and interactive hot topic talks hosted by OSR attendees. Emergent sessions may last from 15 minutes to one hour. The duration will be set by the participant organizer, or it will run for as long as the conversation is flowing. Emergent Sessions can be framed as conversations held in an open format among peers. These sessions may be used to invite contributions to collaborative projects,hold an open forum to discuss a development in existing projects, hold a panel discussion, or basically anything you would like!</p>
 
-<p align="justify">**Emergent sessions** are [bookable](/submit.md){:target="_blank"}.</p> 
+<p align="justify">**Emergent Sessions** are [bookable](/submit.md){:target="_blank"}.</p> 
 
-<p align="justify">**How do I host an emergent session?**</p>
-<p align="justify"> Emergent sessions are bookable during the meeting for times allocated for emergent sessions. 
-Emergent sessions can be booked by any OHBM or OSR registered participant at any point in the meeting, while there is space in the schedule. 
-Submitted emergent requests will be briefly reviewed by the OSR team for appropriate content, and details communicated regarding how to book a slot in our schedule. We will be on hand to manage the hosting and broadcast of your session on your behalf, and help your participants join the conversation.</p>
+<p align="justify">**How do I host an Emergent Session?**</p>
+<p align="justify"> Emergent Sessions are bookable during the meeting for times allocated for Emergent Sessions. 
+Emergent Sessions can be booked by any OHBM or OSR registered participant at any point in the meeting, while there is space in the schedule. 
+Submitted Emergent requests will be briefly reviewed by the OSR team for appropriate content, and details communicated regarding how to book a slot in our schedule. We will be on hand to manage the hosting and broadcast of your session on your behalf, and help your participants join the conversation.</p>
  
-<p align="justify">**How can I attend emergent sessions if I am a virtual attendee?**</p>
-<p align="justify"> All emergent sessions will be live streamed and recorded (unless we have specific reason to think this would inhibit discussion). The recorded sessions will be made available for viewing on Crowdcast straight after the event. Links to this “spontaneously” recorded material will be shared with registered participants.</p>
+<p align="justify">**How can I attend Emergent Sessions if I am a virtual attendee?**</p>
+<p align="justify"> All Emergent Sessions will be live streamed and recorded (unless we have specific reason to think this would inhibit discussion). The recorded sessions will be made available for viewing on Crowdcast straight after the event. Links to this “spontaneously” recorded material will be shared with registered participants.</p>
 
 
 <p align="justify">**Examples of Emergent Sessions:**</p>
