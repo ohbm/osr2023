@@ -52,13 +52,11 @@ Questions from the audience are encouraged (via chat feature if virtual) and wil
 <p align="justify"> Emergent Sessions are spontaneous and interactive hot topic talks hosted by OSR attendees. Emergent sessions may last from 15 minutes to one hour. The duration will be set by the participant organiser, or it will run for as long as the conversation is flowing. Emergent sessions can be framed as conversations held in an open format among peers. These sessions may be used to invite contributions to collaborative projects,hold an open forum to discuss a development in existing projects, hold a panel discussion, or basically anything you would like!</p>
 
 <p align="justify">**Emergent sessions** are [bookable](/submit.md){:target="_blank"}.</p> 
-<palign="justify">
-</p> 
+
 <p align="justify">**How do I host an emergent session?**</p>
 <p align="justify"> Emergent sessions are bookable during the meeting for times allocated for emergent sessions. 
 Emergent sessions can be booked by any OHBM or OSR registered participant at any point in the meeting, while there is space in the schedule. 
-Submitted emergent requests will be briefly reviewed by the OSR team for appropriate content, and details communicated regarding how to book a slot in our schedule. 
-We will be on hand to manage the hosting and broadcast of your session on your behalf, and help your participants join the conversation.</p>
+Submitted emergent requests will be briefly reviewed by the OSR team for appropriate content, and details communicated regarding how to book a slot in our schedule. We will be on hand to manage the hosting and broadcast of your session on your behalf, and help your participants join the conversation.</p>
  
 <p align="justify">**How can I attend emergent sessions if I am a virtual attendee?**</p>
 <p align="justify"> All emergent sessions will be live streamed and recorded (unless we have specific reason to think this would inhibit discussion). The recorded sessions will be made available for viewing on Crowdcast straight after the event. Links to this “spontaneously” recorded material will be shared with registered participants.</p>
