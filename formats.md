@@ -1,9 +1,9 @@
 ---
 layout: page
-title: OSR session formats
+title: OSR Session Formats
 ---
 
-OSR sessions will have one of the following formats: 
+OSR will have one of the following formats: 
 
 [<img align="left" src="../img/educational_geg.svg" height="200" alt="OSR-Ed">](#educational)
 [<img align="center" src="../img/panel_geg.svg" height="200" alt="Panel">](#panel)
