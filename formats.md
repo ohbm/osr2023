@@ -20,6 +20,7 @@ As for the main OHBM conference, this years OSR will happen across in hybrid for
 {::options parse_block_html="true" /}
 
 <p align="justify">**What are Educational Sessions?**</p>
+
 <p align="justify">Educational sessions are guides and 'how-tos'for open science-related topics, spanning from novice-level introductions to coding to advanced-level pipeline implementations.</p>
 
 <p align="justify">**How can I view Educational Sessions?**</p>
