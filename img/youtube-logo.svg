@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    id="Layer_1"
    x="0px"
@@ -16,10 +9,17 @@
    sodipodi:docname="youtube-logo.svg"
    width="300"
    height="300"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"><metadata
+   inkscape:version="1.1.1 (c3084ef, 2021-09-22)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"><metadata
    id="metadata45"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
    id="defs43" /><sodipodi:namedview
    pagecolor="#ffffff"
    bordercolor="#666666"
@@ -29,30 +29,31 @@
    guidetolerance="10"
    inkscape:pageopacity="1"
    inkscape:pageshadow="2"
-   inkscape:window-width="1920"
-   inkscape:window-height="1017"
+   inkscape:window-width="1680"
+   inkscape:window-height="949"
    id="namedview41"
    showgrid="false"
-   inkscape:zoom="0.63410154"
-   inkscape:cx="34.270507"
-   inkscape:cy="264.21646"
-   inkscape:window-x="-8"
-   inkscape:window-y="-8"
-   inkscape:window-maximized="1"
+   inkscape:zoom="1.4092723"
+   inkscape:cx="98.987255"
+   inkscape:cy="127.3707"
+   inkscape:window-x="0"
+   inkscape:window-y="25"
+   inkscape:window-maximized="0"
    inkscape:current-layer="Layer_1"
-   inkscape:document-rotation="0" />
+   inkscape:document-rotation="0"
+   inkscape:pagecheckerboard="0" />
 <circle
-   style="fill:#d0534a;stroke-width:0.628236;fill-opacity:1"
+   style="fill:#666ac2;stroke-width:0.628236;fill-opacity:1"
    cx="150.54329"
    cy="150.54329"
    r="148.87059"
    id="circle2" />
 <path
-   style="fill:#d0534a;stroke-width:0.628236;fill-opacity:1"
+   style="fill:#666ac2;stroke-width:0.628236;fill-opacity:1"
    d="m 255.8055,45.259718 c 58.1376,58.142622 58.14263,152.405682 0,210.548302 -58.13759,58.13759 -152.40567,58.14011 -210.548295,0 z"
    id="path4" />
 <path
-   style="fill:#af4e4a;stroke-width:0.628236;fill-opacity:1"
+   style="fill:#484cb3;stroke-width:0.628236;fill-opacity:1"
    d="m 296.42097,180.35938 -73.68079,-73.67827 -86.89887,9.89409 -52.563886,81.37667 98.219686,98.21717 c 57.74746,-12.21605 103.14694,-57.89509 114.92386,-115.80966 z"
    id="path6" />
 <path
