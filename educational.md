@@ -16,5 +16,5 @@ title: OSR-Ed
 
 ## Open Code
 
-<a href="https://www.youtube.com/watch?v=zh_WFv0uk7w&list=PLVso6Qs8PLCiciMyxyqxCzp38G5tEhdy6&index=1&ab_channel=OHBMOpenScienceSIG" target=”_blank”>Version Control</a>
+<a href="https://www.youtube.com/watch?v=zh_WFv0uk7w&list=PLVso6Qs8PLCiciMyxyqxCzp38G5tEhdy6&index=1&ab_channel=OHBMOpenScienceSIG" target=”_blank”>Version Control</a> </br>
 <a href="https://www.youtube.com/watch?v=gfPP2pQ8Rms&list=PLVso6Qs8PLCiciMyxyqxCzp38G5tEhdy6&index=2&ab_channel=OHBMOpenScienceSIG" target=”_blank”>How to write good code</a>
