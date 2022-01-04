@@ -15,11 +15,15 @@ As for the main OHBM conference, this years OSR will happen across in hybrid for
 </p>
 {::options parse_block_html="false" /}
 
----
+--- 
+
+{::options parse_block_html="true" /}
 
 <div id='educational'></div>
 
-{::options parse_block_html="true" /}
+
+
+
 
 <p align="justify">**What are Educational Sessions?**</p>
 
@@ -33,6 +37,10 @@ As for the main OHBM conference, this years OSR will happen across in hybrid for
  ---
 
 <div id='panel'></div>
+
+
+
+
 
 <p align="justify">**What are Panel Sessions?**</p>
 <p align="justify"> Panel Sessions are discussions amongst selected speakers and OSR attendees about various relevant topics, spaning across all aspects of open science practices.
@@ -50,6 +58,11 @@ Questions from the audience are encouraged (via chat feature if virtual) and wil
 ---
 
 <div id='emergent'></div>
+
+
+
+
+
   
 <p align="justify">**What are Emergent Sessions?**</p>
 <p align="justify"> Emergent Sessions are spontaneous and interactive hot topic talks hosted by OSR attendees. Emergent sessions may last from 15 minutes to one hour. The duration will be set by the participant organizer, or it will run for as long as the conversation is flowing. Emergent Sessions can be framed as conversations held in an open format among peers. These sessions may be used to invite contributions to collaborative projects,hold an open forum to discuss a development in existing projects, hold a panel discussion, or basically anything you would like!</p>
