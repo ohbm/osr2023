@@ -35,6 +35,5 @@ title: OSR-Ed
 
 <a href="https://youtu.be/HwpYh39lPHs" target="_blank">Data visualization</a><br/>
 <a href="https://youtu.be/W91kvzU0Cec" target="_blank">Organize a figure</a><br/>
-<a href="https://youtu.be/K9hVAr5fvJg" target="_blank">The benefits of BIDS</a><br/>
 
 ---
