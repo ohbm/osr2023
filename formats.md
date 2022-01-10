@@ -11,7 +11,7 @@ OSR will have one of the following formats:
 
 {::options parse_block_html="true" /}
 <p align="justify">
-As for the main OHBM conference, this years OSR will happen across in hybrid format.
+As for the main OHBM conference, this year's OSR will happen across in hybrid format.
 </p>
 {::options parse_block_html="false" /}
 
@@ -20,27 +20,25 @@ As for the main OHBM conference, this years OSR will happen across in hybrid for
 {::options parse_block_html="true" /}
 
 <div id='educational'></div>
-
-
-
-
+<br/>
+<br/>
+<br/>
+<br/>
 
 <p align="justify">**What are Educational Sessions?**</p>
 
-<p align="justify">Educational Sessions are guides and 'how-tos'for open science-related topics, spanning from novice-level introductions to coding to advanced-level pipeline implementations.</p>
+<p align="justify">Educational Sessions are guides and 'how-tos' for open science-related topics, spanning from novice-level introductions to coding to advanced-level pipeline implementations.</p>
 
 <p align="justify">**How can I view Educational Sessions?**</p>
-<p align="justify"> Educational Sessions are pre-recorded and broadcast for everyone, anytime, and in any time zone! The educational sessions will forever live on Youtube and DoYou. You can also leave questions on the video posts and speakers will be encouraged to get back to you.</p>
- 
-<p align="justify">**Take our quiz to find which Educational Sessions are tailored to you!**</p>
- 
+<p align="justify"> Educational Sessions are pre-recorded and broadcast for everyone, anytime, and in any time zone! The educational sessions will forever live on Youtube and DouYu. You can also leave questions on the video posts and speakers will be encouraged to get back to you.</p>
+  
  ---
 
 <div id='panel'></div>
-
-
-
-
+<br/>
+<br/>
+<br/>
+<br/>
 
 <p align="justify">**What are Panel Sessions?**</p>
 <p align="justify"> Panel Sessions are discussions amongst selected speakers and OSR attendees about various relevant topics, spaning across all aspects of open science practices.
@@ -53,16 +51,15 @@ to support everyone in making real connections with other attendees and panelist
 Speakers will be selected based on relevancy to the chosen panel topic. Panels typically involve 5 speakers per panel.
 Questions from the audience are encouraged (via chat feature if virtual) and will be transmitted to the panel by the host throughout the session.</p>
 
-<p align="justify">**Previous Panel Sessions:**</p>
+<!-- <p align="justify">**Previous Panel Sessions:**</p> -->
 
 ---
 
 <div id='emergent'></div>
-
-
-
-
-
+<br/>
+<br/>
+<br/>
+<br/>
   
 <p align="justify">**What are Emergent Sessions?**</p>
 <p align="justify"> Emergent Sessions are spontaneous and interactive hot topic talks hosted by OSR attendees. Emergent sessions may last from 15 minutes to one hour. The duration will be set by the participant organizer, or it will run for as long as the conversation is flowing. Emergent Sessions can be framed as conversations held in an open format among peers. These sessions may be used to invite contributions to collaborative projects,hold an open forum to discuss a development in existing projects, hold a panel discussion, or basically anything you would like!</p>
@@ -78,7 +75,7 @@ Submitted Emergent requests will be briefly reviewed by the OSR team for appropr
 <p align="justify"> All Emergent Sessions will be live streamed and recorded (unless we have specific reason to think this would inhibit discussion). The recorded sessions will be made available for viewing on Crowdcast straight after the event. Links to this “spontaneously” recorded material will be shared with registered participants.</p>
 
 
-<p align="justify">**Examples of Emergent Sessions:**</p>
+<!-- <p align="justify">**Examples of Emergent Sessions:**</p> -->
 
 
 {::options parse_block_html="false" /}
