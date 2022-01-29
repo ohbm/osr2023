@@ -27,7 +27,7 @@ navbar-links:
     - Volunteers: "volunteers"
     # - Sponsors: "sponsors"
   Program:
-    - OSR-Ed: "educational"
+    - Educational: "educational"
     - Panel Sessions: "working"
     - Emergent Sessions: "working"
   Register: "register"
