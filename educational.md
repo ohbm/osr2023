@@ -15,7 +15,8 @@ title: Open Science 101
 ## Open Data
 <a href="" target="_blank">FAIR Data<a/><br/>
 <a href="https://youtu.be/K9hVAr5fvJg" target="_blank">The benefits of BIDS</a><br/>
-Resources<br/>
+
+>> Resources<br/>
 <a href='https://pubmed.ncbi.nlm.nih.gov/33288916/' target='_blank'>A hitchhiker's guide to working with large, open-source neuroimaging datasets<a/><br/>
   
 ---
