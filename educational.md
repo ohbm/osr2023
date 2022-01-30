@@ -37,10 +37,10 @@ title: Open Science 101
 <a href="https://youtu.be/gfPP2pQ8Rms" target="_blank">Code Testing</a><br/>
 
 #### Toolboxes<br/>
-<a href="https://www.nipreps.org/" target="_blank">NeuroImaging PREProcessing toolS (NiPreps) includes fMRIPrep, dMRIPrep, sMRIPrep, and more</a><br/> 
-<a href="https://qsiprep.readthedocs.io/en/latest/" target="_blank">Diffusion MRI preprocessing (qsiprep)</a><br/>
-<a href="https://nipype.readthedocs.io/en/latest/" target="_blank">An interface to facilitate interaction between neuroimaging software within a single workflow, Nipype</a><br/>
-<a href="https://tedana.readthedocs.io/en/stable/" target="_blank">TE Dependent ANAlysis (tedana)</a><br/>
+>> <a href="https://www.nipreps.org/" target="_blank">NeuroImaging PREProcessing toolS (NiPreps) includes fMRIPrep, dMRIPrep, sMRIPrep, and more</a><br/> 
+>> <a href="https://qsiprep.readthedocs.io/en/latest/" target="_blank">Diffusion MRI preprocessing (qsiprep)</a><br/>
+>> <a href="https://nipype.readthedocs.io/en/latest/" target="_blank">An interface to facilitate interaction between neuroimaging software within a single workflow, Nipype</a><br/>
+>> <a href="https://tedana.readthedocs.io/en/stable/" target="_blank">TE Dependent ANAlysis (tedana)</a><br/>
   
 ---
   
