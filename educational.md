@@ -6,7 +6,6 @@ title: Open Science 101
 <a href="" target="_blank"></a><br/>
 ---
 ## Open Access
-Open publishing **
 <a href="https://youtu.be/_JTPtyPrMLM" target="_blank">Project Free Our Knowledge</a><br/>
 <a href="https://youtu.be/Ov8Go6OecUA" target="_blank">Preregistration</a><br/>
 ---
