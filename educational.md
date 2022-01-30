@@ -59,7 +59,9 @@ title: Open Science 101
 <a href="https://youtu.be/x_MsPvgetxw" target="_blank">Threats to research integrity</a><br/>
 <a href="https://youtu.be/tufAPd1NITQ" target="_blank">Questionable research practices!</a><br/>
 <a href="https://youtu.be/UzS2Q_hrNV8" target="_blank">Dissemination problems</a><br/>
+  
 ---
+  
 ## Research Culture
 #### Equality, Diversity, Inclusivity (EDI)<br/>
 <a href="https://youtu.be/RRwuOs0BA4I" target="_blank">Towards Global Inclusivity in Open Science</a><br/>
