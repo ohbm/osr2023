@@ -6,8 +6,12 @@ title: Open Science 101
 <a href="" target="_blank"></a><br/>
 
 ## Open Access<br/>
+#### Open Publishing
 <a href="https://youtu.be/_JTPtyPrMLM" target="_blank">Project Free Our Knowledge</a><br/>
 <a href="https://youtu.be/Ov8Go6OecUA" target="_blank">Preregistration</a><br/>
+Preprint
+#### Open Conference
+
 
 ---
 
@@ -15,7 +19,7 @@ title: Open Science 101
 <a href="" target="_blank">FAIR Data<a/><br/>
 <a href="https://youtu.be/K9hVAr5fvJg" target="_blank">The benefits of BIDS</a><br/>
 
->> Resources<br/>
+> Resources<br/>
 <a href='https://pubmed.ncbi.nlm.nih.gov/33288916/' target='_blank'>A hitchhiker's guide to working with large, open-source neuroimaging datasets<a/><br/>
   
 ---
@@ -27,7 +31,7 @@ title: Open Science 101
 <a href="https://youtu.be/pc3YOZUG3lQ" target="_blank">Containers for science</a><br/>
   
 #### Reusable Code
-<a href="https://youtu.be/AWfrlKTLkqw" target="_blank">#Matlab / #Octave : divide and conquer m-scripts</a><br/>
+<a href="https://youtu.be/AWfrlKTLkqw" target="_blank">#Matlab / #Octave: divide and conquer m-scripts</a><br/>
 
 #### Code Quality
 <a href="https://youtu.be/gfPP2pQ8Rms" target="_blank">How to write good code</a><br/>
@@ -35,21 +39,20 @@ title: Open Science 101
 #### Code Testing
 <a href="https://youtu.be/gfPP2pQ8Rms" target="_blank">Code Testing</a><br/>
 
->> #### Toolboxes
-<a href="https://www.nipreps.org/" target="_blank">NeuroImaging PREProcessing toolS (NiPreps) includes fMRIPrep, dMRIPrep, sMRIPrep, and more</a><br/>
-  
-<a href="https://qsiprep.readthedocs.io/en/latest/" target="_blank">Diffusion MRI preprocessing (qsiprep)</a><br/>
-  
-<a href="https://nipype.readthedocs.io/en/latest/" target="_blank">An interface to facilitate interaction between neuroimaging software within a single workflow, Nipype</a><br/>
-  
-<a href="https://tedana.readthedocs.io/en/stable/" target="_blank">TE Dependent ANAlysis (tedana)</a><br/>
-  
+#### Existing Resources<br/>
+<ul> 
+<li><a href="https://www.nipreps.org/" target="_blank">NeuroImaging PREProcessing toolS (NiPreps) includes fMRIPrep, dMRIPrep, sMRIPrep, and more</a></li>
+<li><a href="https://qsiprep.readthedocs.io/en/latest/" target="_blank">Diffusion MRI preprocessing (qsiprep)</a></li>
+<li><a href="https://nipype.readthedocs.io/en/latest/" target="_blank">An interface to facilitate interaction between neuroimaging software within a single workflow, Nipype</a></li>
+<li><a href="https://tedana.readthedocs.io/en/stable/" target="_blank">TE Dependent ANAlysis (tedana)</a></li>
+</ul>
+
 ---
   
-## Reproducibility<br/>
+## Reproducibility
 #### Workflows
 <a href="https://youtu.be/tk2eZSrM8oA" target="_blank">Reproducible Workflows (The Turing Way)</a><br/>
-<a href="https://youtu.be/dSOQgyuL51U" target="_blank">Transparent MRI workflows: From scanner to publication</a><br/>
+<a href="https://youtu.be/dSOQgyuL51U" target="_blank">Transparent MRI workflows: From scanner to publication</a></br>
   
 #### Visualization
 <a href="https://youtu.be/HwpYh39lPHs" target="_blank">Data visualization</a><br/>
