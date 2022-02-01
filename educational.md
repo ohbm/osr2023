@@ -21,7 +21,7 @@ Preprint
 
 #### Resources<br/>
 <ul> 
-<li><a href='https://pubmed.ncbi.nlm.nih.gov/33288916/' target='_blank'>A hitchhiker's guide to working with large, open-source neuroimaging datasets<a/><br/>
+<li><a href='https://pubmed.ncbi.nlm.nih.gov/33288916/' target='_blank'>A hitchhiker's guide to working with large, open-source neuroimaging datasets<a/></li>
 </ul>  
   
 ---
