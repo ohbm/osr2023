@@ -19,8 +19,10 @@ Preprint
 <a href="" target="_blank">FAIR Data<a/><br/>
 <a href="https://youtu.be/K9hVAr5fvJg" target="_blank">The benefits of BIDS</a><br/>
 
-> Resources<br/>
-<a href='https://pubmed.ncbi.nlm.nih.gov/33288916/' target='_blank'>A hitchhiker's guide to working with large, open-source neuroimaging datasets<a/><br/>
+#### Resources<br/>
+<ul> 
+<li><a href='https://pubmed.ncbi.nlm.nih.gov/33288916/' target='_blank'>A hitchhiker's guide to working with large, open-source neuroimaging datasets<a/><br/>
+</ul>  
   
 ---
   
@@ -52,7 +54,7 @@ Preprint
 ## Reproducibility
 #### Workflows
 <a href="https://youtu.be/tk2eZSrM8oA" target="_blank">Reproducible Workflows (The Turing Way)</a><br/>
-<a href="https://youtu.be/dSOQgyuL51U" target="_blank">Transparent MRI workflows: From scanner to publication</a></br>
+<a href="https://youtu.be/dSOQgyuL51U" target="_blank">Transparent MRI workflows: From scanner to publication</a>
   
 #### Visualization
 <a href="https://youtu.be/HwpYh39lPHs" target="_blank">Data visualization</a><br/>
@@ -69,7 +71,7 @@ Preprint
   
 ## Research Culture<br/>
   
-#### Equality, Diversity, Inclusivity (EDI)
+#### Diversity, Equity, and Inclusion (DEI)
 <a href="https://youtu.be/RRwuOs0BA4I" target="_blank">Towards Global Inclusivity in Open Science</a><br/>
   
 #### Collaboration
