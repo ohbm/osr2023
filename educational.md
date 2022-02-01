@@ -56,6 +56,8 @@ Preprint
 <a href="https://youtu.be/tk2eZSrM8oA" target="_blank">Reproducible Workflows (The Turing Way)</a><br/>
 <a href="https://youtu.be/dSOQgyuL51U" target="_blank">Transparent MRI workflows: From scanner to publication</a>
   
+#### Checklists
+<a href="https://www.cs.mcgill.ca/~jpineau/ReproducibilityChecklist.pdf" target="_blank">Machine Learning Reproduciblity Checklist</a><br/>
 #### Visualization
 <a href="https://youtu.be/HwpYh39lPHs" target="_blank">Data visualization</a><br/>
 <a href="https://youtu.be/W91kvzU0Cec" target="_blank">How to organize a figure!</a><br/>
