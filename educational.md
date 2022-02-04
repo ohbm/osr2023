@@ -8,7 +8,7 @@ title: Open Science 101
 ## Open Access<br/>
 #### Open Publishing
 <a href="https://youtu.be/_JTPtyPrMLM" target="_blank">Project Free Our Knowledge</a><br/>
-<a href="https://youtu.be/Ov8Go6OecUA" target="_blank">Preregistration</a><br/>
+<a href="https://www.pnas.org/content/115/11/2600" target="_blank">Preregistration</a> <a href="https://youtu.be/Ov8Go6OecUA" target="_blank">Preregistration Template</a><br/>
 Preprint
 #### Open Conference
 
