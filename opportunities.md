@@ -5,11 +5,18 @@ title: Volunteering Opportunities
 
 ## Roles
 
+**General Volunteering** <br>
+Dates: Throughout the year <br>
+
+<ins>Tasks</ins>
+* Helping the core planning team with miscellaneous tasks 
+
+---
+
 **Website Design** <br>
-Core skills: crowdcast, manage the chat and keep an eye on code of conduct <br>
+Core skills: JavaScript <br>
 Dates: 01/03 - 01/05 <br>
-Time commitment: 1-3 hours  <br>
-Skills: JavaScript
+Time commitment: 1-3 hours <br>
 
 <ins>Tasks</ins>
 
@@ -20,7 +27,7 @@ Skills: JavaScript
 
 **Panel Session Managers** <br>
 Core skills: crowdcast, manage the chat and keep an eye on code of conduct <br>
-Dates: 19/6 - 23/6 <br>
+Dates: 19/06 - 23/06 <br>
 Time commitment: 1-3 hours  <br>
 
 <ins>Tasks</ins>
@@ -35,7 +42,7 @@ Panel sessions: live + rebroadcast recording <br>
 
 **Emergent Session Managers** <br>
 Core skills: crowdcast, keep an eye on code of conduct, website skills <br>
-Dates: 19/6 - 23/6 <br>
+Dates: 19/06 - 23/06 <br>
 Time commitment: 1-3 hours <br>
 
 <ins>Tasks</ins>
@@ -86,7 +93,7 @@ Time commitment: 1-2 hours  <br>
 
 **OSR Registration Communication** <br>
 Core skills: microsoft forms <br>
-Dates 13/6 - 23/6 <br>
+Dates: 13/06 - 23/06 <br>
 Time commitment: 1-2 hours  <br>
 
 <ins>Tasks</ins>
@@ -96,7 +103,7 @@ Time commitment: 1-2 hours  <br>
 
 **YouTube/Douyu Channel Streaming Management** <br>
 Core skills: youtube, douyu <br>
-Dates 19/6 - 23/6 <br>
+Dates: 19/06 - 23/06 <br>
 Number of volunteers: 2 (1 must be in-person) <br>
 Time commitment: 1-2 hours  <br>
 
