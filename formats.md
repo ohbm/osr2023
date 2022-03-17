@@ -5,7 +5,7 @@ title: OSR Session Formats
 
 OSR will have one of the following formats: 
 
-[<img align="left" src="../img/educational_geg.svg" height="250" alt="Educational">](#educational)
+[<img align="left" src="../img/educational_geg.svg" height="250" alt="OSR-Ed">](#educational)
 [<img align="center" src="../img/panel_geg.svg" height="250" alt="Panel">](#panel)
 [<img align="right" src="../img/emergent_geg.svg" height="250" alt="Emergent">](#emergent)
 
@@ -50,8 +50,7 @@ to support everyone in making real connections with other attendees and panelist
 Speakers will be selected based on relevancy to the chosen panel topic. Panels typically involve 5 speakers per panel.
 Questions from the audience are encouraged (via chat feature if virtual) and will be transmitted to the panel by the host throughout the session.</p>
 
-
-<iframe width="420" height="315" src="https://youtu.be/xSGlsht4eHw" frameborder="0" allowfullscreen></iframe>
+{% include youtubePlayer.html id=page.xSGlsht4eHw %}
 
 <br/>
 <br/>
