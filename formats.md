@@ -5,7 +5,7 @@ title: OSR Session Formats
 
 OSR will have one of the following formats: 
 
-[<img align="left" src="../img/educational_geg.svg" height="250" alt="OSR-Ed">](#educational)
+[<img align="left" src="../img/educational_geg.svg" height="250" alt="Educational">](#educational)
 [<img align="center" src="../img/panel_geg.svg" height="250" alt="Panel">](#panel)
 [<img align="right" src="../img/emergent_geg.svg" height="250" alt="Emergent">](#emergent)
 
@@ -22,8 +22,6 @@ As for the main OHBM conference, this year's OSR will happen across in hybrid fo
 <div id='educational'></div>
 <br/>
 <br/>
-<br/>
-<br/>
 
 <p align="justify">**What are Educational Sessions?**</p>
 
@@ -32,11 +30,12 @@ As for the main OHBM conference, this year's OSR will happen across in hybrid fo
 <p align="justify">**How can I view Educational Sessions?**</p>
 <p align="justify"> Educational Sessions are pre-recorded and broadcast for everyone, anytime, and in any time zone! The educational sessions will forever live on Youtube and DouYu. You can also leave questions on the video posts and speakers will be encouraged to get back to you.</p>
   
- ---
+<br/>
+<br/>
+
+---
 
 <div id='panel'></div>
-<br/>
-<br/>
 <br/>
 <br/>
 
@@ -51,13 +50,15 @@ to support everyone in making real connections with other attendees and panelist
 Speakers will be selected based on relevancy to the chosen panel topic. Panels typically involve 5 speakers per panel.
 Questions from the audience are encouraged (via chat feature if virtual) and will be transmitted to the panel by the host throughout the session.</p>
 
-<!-- <p align="justify">**Previous Panel Sessions:**</p> -->
+
+<iframe width="420" height="315" src="https://youtu.be/xSGlsht4eHw" frameborder="0" allowfullscreen></iframe>
+
+<br/>
+<br/>
 
 ---
 
 <div id='emergent'></div>
-<br/>
-<br/>
 <br/>
 <br/>
   
