@@ -50,7 +50,7 @@ to support everyone in making real connections with other attendees and panelist
 Speakers will be selected based on relevancy to the chosen panel topic. Panels typically involve 5 speakers per panel.
 Questions from the audience are encouraged (via chat feature if virtual) and will be transmitted to the panel by the host throughout the session.</p>
 
-{% include youtubePlayer.html id=page.xSGlsht4eHw %}
+{% include youtubePlayer.html id="xSGlsht4eHw" %}
 
 <br/>
 <br/>
