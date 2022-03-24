@@ -1182,3 +1182,23 @@ time.start-time, time.end-time {
 .schedule-landing li:hover { border-color: transparent; background-color: #05323F; color: #fff;}
 
 /* SCHEDULE END */
+
+/* YOUTUBE IFRAME */
+.youtube-container {
+  text-align: center;
+  height: 480px;
+}
+
+@media only screen and (max-width: 768px) {
+  .youtube-container {
+    height: 360px;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .youtube-container {
+    height: 240px;
+  }
+}
+
+/* YOUTUBE IFRAME END */
