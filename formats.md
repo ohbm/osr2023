@@ -22,7 +22,7 @@ As for the main OHBM conference, this year's OSR will happen across in hybrid fo
 <div id='educational'></div>
 <br/>
 <br/>
-
+{% include youtubePlayer.html id="Z-aOcZSAmHY" %}
 <p align="justify">**What are Educational Sessions?**</p>
 
 <p align="justify">Educational Sessions are guides and 'how-tos' for open science-related topics, spanning from novice-level introductions to coding to advanced-level pipeline implementations.</p>
@@ -39,6 +39,7 @@ As for the main OHBM conference, this year's OSR will happen across in hybrid fo
 <br/>
 <br/>
 
+{% include youtubePlayer.html id="xSGlsht4eHw" %}
 <p align="justify">**What are Panel Sessions?**</p>
 <p align="justify"> Panel Sessions are discussions amongst selected speakers and OSR attendees about various relevant topics, spanning across all aspects of open science practices.
 In the 2022 OSR, we aim to address new and emerging topics in the discipline, along with big picture issues in open science. The OSR Panel Sessions are also a space to meet 
@@ -50,7 +51,6 @@ to support everyone in making real connections with other attendees and panelist
 Speakers will be selected based on relevancy to the chosen panel topic. Panels typically involve 5 speakers per panel.
 Questions from the audience are encouraged (via chat feature if virtual) and will be transmitted to the panel by the host throughout the session.</p>
 
-{% include youtubePlayer.html id="xSGlsht4eHw" %}
 
 <br/>
 <br/>
@@ -60,7 +60,8 @@ Questions from the audience are encouraged (via chat feature if virtual) and wil
 <div id='emergent'></div>
 <br/>
 <br/>
-  
+ 
+{% include youtubePlayer.html id="hJ6i2jUQlnQ" %}
 <p align="justify">**What are Emergent Sessions?**</p>
 <p align="justify"> Emergent Sessions are spontaneous and interactive hot topic talks hosted by OSR attendees. Emergent sessions may last from 15 minutes to one hour. The duration will be set by the participant organizer, or it will run for as long as the conversation is flowing. Emergent Sessions can be framed as conversations held in an open format among peers. These sessions may be used to invite contributions to collaborative projects,hold an open forum to discuss a development in existing projects, hold a panel discussion, or basically anything you would like!</p>
 
