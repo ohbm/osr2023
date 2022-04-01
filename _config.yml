@@ -24,9 +24,10 @@ navbar-links:
     - OSR Session Formats: "formats"
     - Code of Conduct: "osr_coc"
     - Accessibility: "access"
-    - Team Behind OSR: "volunteers"
+    - Team: "volunteers"
     # - Sponsors: "sponsors"
   Program:
+    - Schedule: "schedule"
     - Panel Sessions: "working"
     - Emergent Sessions: "working"
     - Educational: "educational"
