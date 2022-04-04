@@ -1,86 +1,60 @@
 ---
 layout: page
-title: Open Science 101
+title: Speakers
 ---
 
-<a href="" target="_blank"></a><br/>
 
-## Open Access<br/>
-#### Open Publishing
-<a href="https://youtu.be/_JTPtyPrMLM" target="_blank">Project Free Our Knowledge</a><br/>
-<a href="https://www.pnas.org/content/115/11/2600" target="_blank">Preregistration</a>, <a href="https://youtu.be/Ov8Go6OecUA" target="_blank">Preregistration Template</a><br/>
-Preprint
-#### Open Conference
+We are excited to host a wonderful list of speakers in the Open Science Room.
+They will be contributing Educational sessions and panel discussions.
+Click on a speaker below to see their bio and talk details.
+
+Emergent sessions are spontaneous in nature, so speaker will not appear in advanced in this page!
+
+<br>
+
+<html>
+
+<div class="input-group rounded">
+  <input id="search-input" type="search" class="form-control rounded" placeholder="Search" aria-label="Search" aria-describedby="search-addon" />
+  <span class="input-group-text border-0" id="search-addon">
+    <i class="fas fa-search"></i>
+  </span>
+</div>
+
+<div id="educational-contents"></div>
 
 
----
 
-## Open Data<br/>
-<a href="" target="_blank">FAIR Data<a/><br/>
-<a href="https://youtu.be/K9hVAr5fvJg" target="_blank">The benefits of BIDS</a><br/>
+<script>
+function getFilteredEducationalContent(filterValue) {
+    const educationals = {{ site.data.educational | jsonify }};
+    return educationals.filter(educ => (educ.Name.toLowerCase().includes(filterValue.toLowerCase())));
+}
 
-#### Resources<br/>
-<ul> 
-<li><a href="https://pubmed.ncbi.nlm.nih.gov/33288916/" target="_blank">A hitchhiker's guide to working with large, open-source neuroimaging datasets</a></li>
-</ul>  
-  
----
-  
-## Open Code<br/>
-#### Version Control
-<a href="https://youtu.be/zh_WFv0uk7w" target="_blank">Introduction to git and github<a/><br/>
-<a href="https://youtu.be/QsAqnP7TwyY" target="_blank">Introduction to DataLad<a/><br/>
-<a href="https://youtu.be/pc3YOZUG3lQ" target="_blank">Containers for science</a><br/>
-  
-#### Reusable Code
-<a href="https://youtu.be/AWfrlKTLkqw" target="_blank">#Matlab / #Octave: divide and conquer m-scripts</a><br/>
+function renderEducationalDiv(educationals) {
+    let educationalHTML = "<table>";
+    educationals.map((educational) => {
+        educationalHTML += `<tr><td><a href=${educational.Link}>${educational.Name}</a></td></tr>`
+    });
+    educationalHTML += "</table>";
 
-#### Code Quality
-<a href="https://youtu.be/gfPP2pQ8Rms" target="_blank">How to write good code</a><br/>
-  
-#### Code Testing
-<a href="https://youtu.be/gfPP2pQ8Rms" target="_blank">Code Testing</a><br/>
+    document.getElementById("educational-contents").innerHTML = educationalHTML;
+}
 
-#### Existing Resources<br/>
-<ul> 
-<li><a href="https://www.nipreps.org/" target="_blank">NeuroImaging PREProcessing toolS (NiPreps) includes fMRIPrep, dMRIPrep, sMRIPrep, and more</a></li>
-<li><a href="https://qsiprep.readthedocs.io/en/latest/" target="_blank">Diffusion MRI preprocessing (qsiprep)</a></li>
-<li><a href="https://nipype.readthedocs.io/en/latest/" target="_blank">An interface to facilitate interaction between neuroimaging software within a single workflow, Nipype</a></li>
-<li><a href="https://tedana.readthedocs.io/en/stable/" target="_blank">TE Dependent ANAlysis (tedana)</a></li>
-</ul>
+function initialRender() {
+    renderEducationalDiv({{ site.data.educational || jsonify }});
+}
 
----
-  
-## Reproducibility
-#### Workflows
-<a href="https://youtu.be/tk2eZSrM8oA" target="_blank">Reproducible Workflows (The Turing Way)</a><br/>
-<a href="https://youtu.be/dSOQgyuL51U" target="_blank">Transparent MRI workflows: From scanner to publication</a>
-  
-#### Checklists
-<a href="https://www.cs.mcgill.ca/~jpineau/ReproducibilityChecklist.pdf" target="_blank">Machine Learning Reproduciblity Checklist</a><br/>
-#### Visualization
-<a href="https://youtu.be/HwpYh39lPHs" target="_blank">Data visualization</a><br/>
-<a href="https://youtu.be/W91kvzU0Cec" target="_blank">How to organize a figure!</a><br/>
-  
----
-  
-## Research Integrity<br/>
-<a href="https://youtu.be/x_MsPvgetxw" target="_blank">Threats to research integrity</a><br/>
-<a href="https://youtu.be/tufAPd1NITQ" target="_blank">Questionable research practices!</a><br/>
-<a href="https://youtu.be/UzS2Q_hrNV8" target="_blank">Dissemination problems</a><br/>
-  
----
-  
-## Research Culture<br/>
-  
-#### Diversity, Equity, and Inclusion (DEI)
-<a href="https://youtu.be/RRwuOs0BA4I" target="_blank">Towards Global Inclusivity in Open Science</a><br/>
-  
-#### Collaboration
-<a href="https://youtu.be/3H0zQ6odOd0" target="_blank">Community Building</a><br/>
+initialRender();
 
-#### Initiatives/Community
-<a href="https://reproducibilitea.org/about/" target="_blank">ReproducibiliTea</a><br/>
-<a href="https://open-sci.cn/" target="_blank">Chinese Open Science Network</a><br/>
-<a href="https://brainhack.org/" target="_blank">BrainHack Global</a><br/>
+document.getElementById('search-input').addEventListener('keyup', (event) => {
+    const inputValue = event.target.value;
+    const filteredEducational = getFilteredEducationalContent(inputValue);
+    renderEducationalDiv(filteredEducational);
+});
+</script>
+
+
+
+</html>
 
