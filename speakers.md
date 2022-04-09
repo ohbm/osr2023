@@ -5,7 +5,7 @@ title: Speakers
 
 
 We are excited to host a wonderful list of speakers in the Open Science Room.
-They will be contributing Educational sessions and panel discussions.
+They will be contributing to Panel Discussions and Table Talks.
 Click on a speaker below to see their bio and talk details.
 
 Emergent sessions are spontaneous in nature, so speaker will not appear in advanced in this page!
