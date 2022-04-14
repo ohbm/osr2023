@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Panel Themes for the OSR 2022
+title: Panel Themes in 2022
 ---
 
 The OSR has always been a place to learn and share experiences.
