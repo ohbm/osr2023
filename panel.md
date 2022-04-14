@@ -69,7 +69,7 @@ When: 10:30 UTC | June 23, 2022 (Thursday) \\
 \\
 Prediction algorithms are increasingly common in neuroimaging research and offer many opportunities for clinical care and personalized medicine. However, inadvertent outcomes can lead to predictions that are influenced by race, gender, sexuality, and ethnicity, or privileging one arbitrary group of users over others. Social bias can be introduced due to factors such as small dataset, sampling bias, and researcher introduced error among many others. This panel is aimed at discussing the relevant factors and possible feasible solutions on ways to conceptualize, measure, and mitigate social bias in machine learning. \\ 
 \\
-Specific questions/topics for discussion will include:  \\
-How can you measure the fairness/ social bias of a prediction algorithm? 
-What would a dataset without social bias look like? 
-In addition to social biases that have come to light (related to e.g., gender, race, ethnicity etc.), there may be other biases that have not yet been considered. As such, is an unbiased algorithm ever fully achievable? 
+Specific questions/topics for discussion will include: 
+* How can you measure the fairness/ social bias of a prediction algorithm? 
+* What would a dataset without social bias look like? 
+* In addition to social biases that have come to light (related to e.g., gender, race, ethnicity etc.), there may be other biases that have not yet been considered. As such, is an unbiased algorithm ever fully achievable? 
