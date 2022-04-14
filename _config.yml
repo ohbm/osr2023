@@ -28,7 +28,7 @@ navbar-links:
     # - Sponsors: "sponsors"
   Program:
     - Schedule: "schedule"
-    - Panel Sessions: "working"
+    - Panel Sessions: "panel"
     - Emergent Sessions: "working"
     - Educational: "educational"
   Register: "register"
