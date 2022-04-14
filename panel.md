@@ -26,7 +26,7 @@ When: 15:00 UTC | June 20, 2022 (Monday) \\
 \\
 How will publishing high-quality research contributions including negative results and sharing supporting code and data, with an emphasis on replicability add value and move science forward? What are long term objectives and feasible actions for everyday researchers including established PIs, early career researchers (ECRs), as well as PhD students. \\
 \\
-Topics and questions for discussion will include: \\
+Topics and questions for discussion will include: 
 * Publication bias 
 * Will a standard publication still largely exist of a non-interactive written document in 10 year's time, or do you think the essence of publishing will change? 
 * There has been a lot of criticism of the peer review system. What are your thoughts about the future of peer review? 
@@ -53,16 +53,15 @@ When: 8:00 UTC | June 22, 2022 (Wednesday) \\
 Important questions have been raised regarding how typical study designs and methods can impair both sensitivity and specificity —and, as a result, reproducibility. This panel will discuss emerging ideas about how we can mitigate these issues by rethinking statistical methods and data collection. Reflecting on this discussion, we will examine how we should prioritize these solutions. This will be less of a didactic session about widely accepted best practices and more of a collaborative discussion about open questions for further innovation. \\
 \\
 Possible questions include: 
-#### Inference 
-* What sorts of data should we prioritize (e.g., big, deep, multimodal, etc.)? 
-* Do small effect sizes imply that results are meaningless? 
-* Crises, variability and reproducibility: alarmism versus realism 
-* Alternative perspectives of univariate mass modeling and multiple comparisons? 
-* Challenges in studying individual differences? 
-\\
-#### Pipelines and physiological signal 
-* Should we mitigate or embrace pipeline multiplicity? 
-* In what ways can we think of physiological influences as confound versus information? 
+* Inference 
++ What sorts of data should we prioritize (e.g., big, deep, multimodal, etc.)? 
++ Do small effect sizes imply that results are meaningless? 
++ Crises, variability and reproducibility: alarmism versus realism 
++ Alternative perspectives of univariate mass modeling and multiple comparisons? 
++ Challenges in studying individual differences? 
+* Pipelines and physiological signal 
++ Should we mitigate or embrace pipeline multiplicity? 
++ In what ways can we think of physiological influences as confound versus information? 
 
 ## Theme #5: Social Bias in Machine Learning  
 When: 10:30 UTC | June 23, 2022 (Thursday) \\
@@ -70,6 +69,6 @@ When: 10:30 UTC | June 23, 2022 (Thursday) \\
 Prediction algorithms are increasingly common in neuroimaging research and offer many opportunities for clinical care and personalized medicine. However, inadvertent outcomes can lead to predictions that are influenced by race, gender, sexuality, and ethnicity, or privileging one arbitrary group of users over others. Social bias can be introduced due to factors such as small dataset, sampling bias, and researcher introduced error among many others. This panel is aimed at discussing the relevant factors and possible feasible solutions on ways to conceptualize, measure, and mitigate social bias in machine learning. \\ 
 \\
 Specific questions/topics for discussion will include: 
-* How can you measure the fairness/ social bias of a prediction algorithm? 
+* How can you measure the fairness or social bias of a prediction algorithm? 
 * What would a dataset without social bias look like? 
 * In addition to social biases that have come to light (related to e.g., gender, race, ethnicity etc.), there may be other biases that have not yet been considered. As such, is an unbiased algorithm ever fully achievable? 
