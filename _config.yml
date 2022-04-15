@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: OSR Home
+title: Home
 
 # Short description of your site
 description: Open Science Room 2022
@@ -21,15 +21,16 @@ description: Open Science Room 2022
 # List of links in the navigation bar. Strings should match .md filenames
 navbar-links:
   About Us:
-    - OSR Session Formats: "formats"
+    - Formats: "formats"
     - Code of Conduct: "osr_coc"
     - Accessibility: "access"
     - Team: "volunteers"
     # - Sponsors: "sponsors"
   Program:
     - Schedule: "schedule"
-    - Panel Sessions: "panel"
+    - Panels: "panel"
     - Emergent Sessions: "working"
+    - Table Talks: "table"
     - Educational: "educational"
   Register: "register"
   Volunteering: 
