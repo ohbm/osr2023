@@ -7,7 +7,7 @@ The OSR has always been a place to learn and share experiences. We are introduci
 
 When: 12:00 UTC | June 20th through 23rd
 
-Table Talk 1: Lab Culture
-Table Talk 2: Open Publishing, what does it mean? 
-Table Talk 3: Charting a career path after the PhD
-Table Talk 4: Reproducible science and my role in it 
+* Table Talk 1: Lab Culture
+* Table Talk 2: Open Publishing, what does it mean? 
+* Table Talk 3: Charting a career path after the PhD
+* Table Talk 4: Reproducible science and my role in it 
