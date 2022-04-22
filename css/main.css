@@ -1207,6 +1207,7 @@ time.start-time, time.end-time {
 .educational-tags-container {
   display: inline-block;
   margin: 10px;
+  text-align: center;
 }
 
 .educational-tags-container > .tag-button {
@@ -1216,7 +1217,7 @@ time.start-time, time.end-time {
 .educational-cards {
   display: flex;
   flex-wrap: wrap;
-  justify-content: flex-start;
+  justify-content: center;
 }
 
 .educational-card {
@@ -1224,15 +1225,18 @@ time.start-time, time.end-time {
   margin: 10px 5px;
   padding: 10px;
   border: 1px solid black;
+  border-radius: 4px;
 }
 
 .educational-card-title {
   text-align: center;
+  margin-bottom: 10px;
 }
 
 .educational-card-description {
   text-align: left;
   font-size: 14px;
+  margin-bottom: 10px;
 }
 
 .educational-card-tags {
