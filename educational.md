@@ -53,20 +53,29 @@ function getFilteredEducationalsByTag(tagValue) {
 
 function renderEducationalDiv(educationals) {
     const mainCategories = ["Open Access", "Open Data", "Open Code", "Reproducibility", "Research Integrity", "Research Culture"];
-    let educationalHTML = "<div class='educational-cards'>";
+    let educationalHTML = `<div class="educational">`;
 
-    <!-- Create a card for each educational content which contains a clickable title, a description if available and the tags -->
-    educationals.map((educational) => {
-        const titleDiv = `<div class='educational-card-title'><a href=${educational.Link}>${educational.Name}</a></div>`;
-        const descriptionDiv = `<div class='educational-card-description'>${educational.Description}</div>`;
-        educationalHTML += `
-            <div class='educational-card'>
-                ${titleDiv}
-                ${descriptionDiv}
-            </div>
-        `;
+    mainCategories.map(category => {
+        const relevantEducationalsForCategory = educationals.filter(educational => educational.Tags.includes(category));
+
+        if (relevantEducationalsForCategory.length > 0) {
+            educationalHTML += `<div class="row"><h3>${category}</h3></div>`;
+            educationalHTML += "<div class='educational-cards'>";
+            relevantEducationalsForCategory.map((educational) => {
+                const titleDiv = `<div class='educational-card-title'><a href=${educational.Link}>${educational.Name}</a></div>`;
+                const descriptionDiv = `<div class='educational-card-description'>${educational.Description}</div>`;
+                educationalHTML += `
+                    <div class='educational-card'>
+                        ${titleDiv}
+                        ${descriptionDiv}
+                    </div>
+                `;
+            });
+            educationalHTML += "</div>";
+        }
     });
-    educationalHTML += "</div>";
+
+    educationalHTML += `</div>`;
 
     // Finally add the cards inside the appropriate div
     document.getElementById("educational-contents").innerHTML = educationalHTML;
