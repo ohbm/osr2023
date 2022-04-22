@@ -3,84 +3,128 @@ layout: page
 title: Open Science 101
 ---
 
-<a href="" target="_blank"></a><br/>
+<html>
 
-## Open Access<br/>
-#### Open Publishing
-<a href="https://youtu.be/_JTPtyPrMLM" target="_blank">Project Free Our Knowledge</a><br/>
-<a href="https://www.pnas.org/content/115/11/2600" target="_blank">Preregistration</a>, <a href="https://youtu.be/Ov8Go6OecUA" target="_blank">Preregistration Template</a><br/>
-Preprint
-#### Open Conference
+<div>
+    <input
+        id="search-input"
+        type="search"
+        class="input-group-text form-control rounded"
+        placeholder="Search"
+        aria-label="Search"
+        aria-describedby="search-addon"
+    />
+</div>
+
+<!-- This divs are rendered dynamically by the javascript functions below based on the _data/educationals.csv file -->
+<div id="tags-contents" class="educational-tags-container"></div>
+<div id="educational-contents"></div>
 
 
----
 
-## Open Data<br/>
-<a href="" target="_blank">FAIR Data<a/><br/>
-<a href="https://youtu.be/K9hVAr5fvJg" target="_blank">The benefits of BIDS</a><br/>
+<script>
+function getUniqueTags() {
+    const educationals = {{ site.data.educational | jsonify }};
+    let allTags = [].concat.apply([], educationals.map(educ => educ.Tags.split(',')));
+    allTags.push("All");
+    const uniqueTags = [...new Set(allTags)];
+    uniqueTags.sort();
 
-#### Resources<br/>
-<ul> 
-<li><a href="https://pubmed.ncbi.nlm.nih.gov/33288916/" target="_blank">A hitchhiker's guide to working with large, open-source neuroimaging datasets</a></li>
-</ul>  
-  
----
-  
-## Open Code<br/>
-#### Version Control
-<a href="https://youtu.be/zh_WFv0uk7w" target="_blank">Introduction to git and github<a/><br/>
-<a href="https://youtu.be/QsAqnP7TwyY" target="_blank">Introduction to DataLad<a/><br/>
-<a href="https://youtu.be/pc3YOZUG3lQ" target="_blank">Containers for science</a><br/>
-  
-#### Reusable Code
-<a href="https://youtu.be/AWfrlKTLkqw" target="_blank">#Matlab / #Octave: divide and conquer m-scripts</a><br/>
+    return uniqueTags
+}
 
-#### Code Quality
-<a href="https://youtu.be/gfPP2pQ8Rms" target="_blank">How to write good code</a><br/>
-  
-#### Code Testing
-<a href="https://youtu.be/gfPP2pQ8Rms" target="_blank">Code Testing</a><br/>
+function getTagColorClassName(tag) {
+    const availableColors = ["", "orange-tag", "green-tag"];
+    const allTags = getUniqueTags();
 
-#### Existing Resources<br/>
-<ul> 
-<li><a href="https://www.nipreps.org/" target="_blank">NeuroImaging PREProcessing toolS (NiPreps) includes fMRIPrep, dMRIPrep, sMRIPrep, and more</a></li>
-<li><a href="https://qsiprep.readthedocs.io/en/latest/" target="_blank">Diffusion MRI preprocessing (qsiprep)</a></li>
-<li><a href="https://nipype.readthedocs.io/en/latest/" target="_blank">An interface to facilitate interaction between neuroimaging software within a single workflow, Nipype</a></li>
-<li><a href="https://tedana.readthedocs.io/en/stable/" target="_blank">TE Dependent ANAlysis (tedana)</a></li>
-</ul>
+    const tagPosition = allTags.indexOf(tag);
+    
+    return availableColors[tagPosition % availableColors.length];
+}
 
----
-  
-## Reproducibility
-#### Workflows
-<a href="https://youtu.be/tk2eZSrM8oA" target="_blank">Reproducible Workflows (The Turing Way)</a><br/>
-<a href="https://youtu.be/dSOQgyuL51U" target="_blank">Transparent MRI workflows: From scanner to publication</a>
-  
-#### Checklists
-<a href="https://www.cs.mcgill.ca/~jpineau/ReproducibilityChecklist.pdf" target="_blank">Machine Learning Reproduciblity Checklist</a><br/>
-#### Visualization
-<a href="https://youtu.be/HwpYh39lPHs" target="_blank">Data visualization</a><br/>
-<a href="https://youtu.be/W91kvzU0Cec" target="_blank">How to organize a figure!</a><br/>
-  
----
-  
-## Research Integrity<br/>
-<a href="https://youtu.be/x_MsPvgetxw" target="_blank">Threats to research integrity</a><br/>
-<a href="https://youtu.be/tufAPd1NITQ" target="_blank">Questionable research practices!</a><br/>
-<a href="https://youtu.be/UzS2Q_hrNV8" target="_blank">Dissemination problems</a><br/>
-  
----
-  
-## Research Culture<br/>
-  
-#### Diversity, Equity, and Inclusion (DEI)
-<a href="https://youtu.be/RRwuOs0BA4I" target="_blank">Towards Global Inclusivity in Open Science</a><br/>
-  
-#### Collaboration
-<a href="https://youtu.be/3H0zQ6odOd0" target="_blank">Community Building</a><br/>
+function getFilteredEducationalsByContent(filterValue) {
+    const educationals = {{ site.data.educational | jsonify }};
+    return educationals.filter(educ => (educ.Name.toLowerCase().includes(filterValue.toLowerCase())));
+}
+function getFilteredEducationalsByTag(tagValue) {
+    const educationals = {{ site.data.educational | jsonify }};
+    return educationals.filter(educ => (educ.Tags.toLowerCase().includes(tagValue.toLowerCase())));
+}
 
-#### Initiatives/Community
-<a href="https://reproducibilitea.org/about/" target="_blank">ReproducibiliTea</a><br/>
-<a href="https://open-sci.cn/" target="_blank">Chinese Open Science Network</a><br/>
-<a href="https://brainhack.org/" target="_blank">BrainHack Global</a><br/>
+function renderEducationalDiv(educationals) {
+    const mainCategories = ["Open Access", "Open Data", "Open Code", "Reproducibility", "Research Integrity", "Research Culture"];
+    let educationalHTML = `<div class="educational">`;
 
+    mainCategories.map(category => {
+        const relevantEducationalsForCategory = educationals.filter(educational => educational.Tags.includes(category));
+
+        if (relevantEducationalsForCategory.length > 0) {
+            educationalHTML += `<div class="row"><h3>${category}</h3></div>`;
+            educationalHTML += "<div class='educational-cards'>";
+            relevantEducationalsForCategory.map((educational) => {
+                const titleDiv = `<div class='educational-card-title'><a href=${educational.Link}>${educational.Name}</a></div>`;
+                const descriptionDiv = `<div class='educational-card-description'>${educational.Description}</div>`;
+                educationalHTML += `
+                    <div class='educational-card'>
+                        ${titleDiv}
+                        ${descriptionDiv}
+                    </div>
+                `;
+            });
+            educationalHTML += "</div>";
+        }
+    });
+
+    educationalHTML += `</div>`;
+
+    // Finally add the cards inside the appropriate div
+    document.getElementById("educational-contents").innerHTML = educationalHTML;
+}
+
+function renderAllEducationals() {
+    renderEducationalDiv({{ site.data.educational || jsonify }});
+}
+
+function renderTags() {
+    let tags = getUniqueTags();
+
+    // Add additional "All" tag to let user reset the list
+    let tagsHTML= ""
+    // let tagsHTML = "<a class='btn btn-primary tag-button ${getTagColorClassName('All')}'>All</a>";
+    // Add all other tags available in the educationals data file
+    tags.map((tag) => {
+        const tagColorClassName = getTagColorClassName(tag);
+        tagsHTML += `<a class="btn btn-primary tag-button ${tagColorClassName}">${tag}</a>`;
+    });
+
+    document.getElementById("tags-contents").innerHTML = tagsHTML;
+}
+
+renderTags();
+renderAllEducationals();
+
+<!-- Add listeners to handle interactions with the search -->
+
+<!-- This first one is the filtering by clicking on the tag buttons -->
+let tagButtons = document.getElementsByClassName("tag-button");
+for (let index = 0; index < tagButtons.length; index++) {
+    tagButtons[index].addEventListener('click', (event) => {
+        <!-- If the value is "All", it means we want to display all the cards -->
+        const tagValue = event.target.outerText === "All" ? "" : event.target.outerText;
+        const filteredEducationals = getFilteredEducationalsByTag(tagValue);
+        renderEducationalDiv(filteredEducationals);
+    })
+}
+
+<!-- This second one is by leveraging what the users write in the search bar -->
+document.getElementById('search-input').addEventListener('keyup', (event) => {
+    const inputValue = event.target.value;
+    const filteredEducational = getFilteredEducationalsByContent(inputValue);
+    renderEducationalDiv(filteredEducational);
+});
+
+</script>
+
+
+
+</html>

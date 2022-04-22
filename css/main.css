@@ -1202,3 +1202,51 @@ time.start-time, time.end-time {
 }
 
 /* YOUTUBE IFRAME END */
+
+/* EDUCATIONAL CONTENT BEGIN */
+.educational-tags-container {
+  display: inline-block;
+  margin: 10px;
+  text-align: center;
+}
+
+.educational-tags-container > .tag-button {
+  margin: 4px 4px;
+}
+
+.educational-cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.educational-card {
+  flex: 0 1 32%;
+  margin: 10px 5px;
+  padding: 10px;
+  border: 1px solid black;
+  border-radius: 4px;
+}
+
+.educational-card-title {
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.educational-card-description {
+  text-align: left;
+  font-size: 14px;
+  margin-bottom: 10px;
+}
+
+.orange-tag {
+  background-color: #f4a261;
+  border-color: #f4a261;
+}
+
+.green-tag {
+  background-color: #2a9d8f;
+  border-color: #2a9d8f;
+}
+
+/* EDUCATIONAL CONTENT END */
