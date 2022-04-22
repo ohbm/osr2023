@@ -1239,16 +1239,6 @@ time.start-time, time.end-time {
   margin-bottom: 10px;
 }
 
-.educational-card-tags {
-  text-align: left;
-  vertical-align: bottom;
-}
-
-.educational-card-tags > div {
-  font-size: 11px;
-  margin: 4px 4px;
-}
-
 .orange-tag {
   background-color: #f4a261;
   border-color: #f4a261;

@@ -52,24 +52,17 @@ function getFilteredEducationalsByTag(tagValue) {
 }
 
 function renderEducationalDiv(educationals) {
+    const mainCategories = ["Open Access", "Open Data", "Open Code", "Reproducibility", "Research Integrity", "Research Culture"];
     let educationalHTML = "<div class='educational-cards'>";
 
     <!-- Create a card for each educational content which contains a clickable title, a description if available and the tags -->
     educationals.map((educational) => {
         const titleDiv = `<div class='educational-card-title'><a href=${educational.Link}>${educational.Name}</a></div>`;
-        // const tagsDiv = `<div class='educational-card-tags'><div class="btn btn-primary tag-button">NiPreps</div></div>`;
-        let tagsDiv = `<div class='educational-card-tags'>`;
-        educational.Tags.split(",").map(tag => {
-            const tagColorClassName = getTagColorClassName(tag);
-            tagsDiv += `<div class="btn btn-primary tag-button ${tagColorClassName}">${tag}</div>`;
-        });
-        tagsDiv += `</div>`;
         const descriptionDiv = `<div class='educational-card-description'>${educational.Description}</div>`;
         educationalHTML += `
             <div class='educational-card'>
                 ${titleDiv}
                 ${descriptionDiv}
-                ${tagsDiv}
             </div>
         `;
     });
