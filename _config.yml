@@ -27,7 +27,7 @@ navbar-links:
     - Team: "volunteers"
     # - Sponsors: "sponsors"
   Program:
-    - Schedule: "schedule"
+    - Schedule: "working"
     - Panels: "panel"
     - Emergent Sessions: "working"
     - Table Talks: "table"
