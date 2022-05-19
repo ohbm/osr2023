@@ -13,7 +13,7 @@ June 8th, 9-10 am GMT+1 <br/>
 * Virtual Table Talk 2: Lab Culture with Miriam Aly <br/>
 June 8th, 6-7 pm GMT+1 <br/>
 
-Main Conference
+Main Conference <br/>
 When: June 21st through 23rd
 * Table Talk 1: Open Publishing, what does it mean?
 * Table Talk 2: Charting a career path after the PhD
