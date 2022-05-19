@@ -5,9 +5,16 @@ title: Table Talks Themes in 2022
 
 The OSR has always been a place to learn and share experiences. We are introducing a new one to these experiences which we call it the 'Table Talks'. These will be informal discussions within the community including but not limited to trainees, early career to senior researchers, so for whomever would like to be a part of these discussions.
 
-When: 12:00 UTC | June 20th through 23rd
+As part of the OHBM program. 
 
-* Table Talk 1: Lab Culture
-* Table Talk 2: Open Publishing, what does it mean? 
-* Table Talk 3: Charting a career path after the PhD
-* Table Talk 4: Reproducible science and my role in it 
+Virtual Poster Week
+* Virtual Table Talk 1: Charting a career path after the PhD with Chao-Gan Yan \\
+June 8th, 9-10 am GMT+1 \\
+* Virtual Table Talk 2: Lab Culture with Miriam Aly \\
+June 8th, 6-7 pm GMT+1 \\
+
+Main Conference
+When: June 21st through 23rd
+* Table Talk 1: Open Publishing, what does it mean? 
+* Table Talk 2: Charting a career path after the PhD
+* Table Talk 3: Reproducible science and my role in it
