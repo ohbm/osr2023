@@ -10,7 +10,6 @@ As part of the OHBM program.
 Virtual Poster Week
 * Virtual Table Talk 1: Charting a career path after the PhD with Chao-Gan Yan <br/>
 June 8th, 9-10 am GMT+1 <br/>
-<br/>
 * Virtual Table Talk 2: Lab Culture with Miriam Aly <br/>
 June 8th, 6-7 pm GMT+1 <br/>
 
