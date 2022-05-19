@@ -30,7 +30,7 @@ navbar-links:
     - Schedule: "working"
     - Panels: "panel"
     - Emergent Sessions: "working"
-    - Table Talks: "table"
+    - Table Talks: "tabletalk"
     - Educational: "educational"
   Register: "register"
   Volunteering: 
