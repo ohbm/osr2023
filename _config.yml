@@ -29,7 +29,7 @@ navbar-links:
   Program:
     - Schedule: "schedule"
     - Panels: "panel"
-    - Emergent Sessions: "working"
+    - Emergent Sessions: "emergent-PLACEHOLDER"
     - Table Talks: "tabletalk"
     - Educational: "educational"
   Register: "register"
