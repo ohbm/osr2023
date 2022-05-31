@@ -51,6 +51,18 @@ function getFilteredEducationalsByTag(tagValue) {
     return educationals.filter(educ => (educ.Tags.toLowerCase().includes(tagValue.toLowerCase())));
 }
 
+function buildLinkDiv(educational) {
+    let linksDiv = `<div class="educational-links">`;
+    if (educational.Link && educational.Link !== "" && educational.Link.includes("youtu")) {
+        linksDiv += `<a href=${educational.Link} target="_blank"><img class="educational-link" src="../img/youtube-logo.svg"></a>`;
+    }
+    if (educational.Douyu && educational.Douyu !== "") {
+        linksDiv += `<a href=${educational.Douyu} target="_blank"><img class="educational-link" src="../img/Douyu-logo_geg.svg"></a>`;
+    }
+    linksDiv += `</div>`;
+    return linksDiv;
+}
+
 function renderEducationalDiv(educationals) {
     const mainCategories = ["Open Access", "Open Data", "Open Code", "Reproducibility", "Research Integrity", "Research Culture"];
     let educationalHTML = `<div class="educational">`;
@@ -64,10 +76,12 @@ function renderEducationalDiv(educationals) {
             relevantEducationalsForCategory.map((educational) => {
                 const titleDiv = `<div class='educational-card-title'><a href=${educational.Link}>${educational.Name}</a></div>`;
                 const descriptionDiv = `<div class='educational-card-description'>${educational.Description}</div>`;
+                const linksDiv = buildLinkDiv(educational);
                 educationalHTML += `
                     <div class='educational-card'>
                         ${titleDiv}
                         ${descriptionDiv}
+                        ${linksDiv}
                     </div>
                 `;
             });

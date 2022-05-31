@@ -1226,6 +1226,9 @@ time.start-time, time.end-time {
   padding: 10px;
   border: 1px solid black;
   border-radius: 4px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }
 
 .educational-card-title {
@@ -1237,6 +1240,16 @@ time.start-time, time.end-time {
   text-align: left;
   font-size: 14px;
   margin-bottom: 10px;
+}
+
+.educational-links {
+  display: flex;
+  justify-content: center;
+}
+
+.educational-link {
+  height: 30px;
+  margin: 8px;
 }
 
 .orange-tag {
