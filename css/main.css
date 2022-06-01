@@ -1263,3 +1263,23 @@ time.start-time, time.end-time {
 }
 
 /* EDUCATIONAL CONTENT END */
+
+/* PANEL BEGIN */
+.panel-speakers {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.panel-speakers > a {
+  flex: 0 1 48%;
+  margin: 10px 5px;
+  padding: 10px;
+  align-content: center;
+  text-align: center;
+  /*display: flex;*/
+  /*flex-direction: column;*/
+  /*justify-content: space-between;*/
+}
+
+/* PANEL END */
