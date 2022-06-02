@@ -17,19 +17,10 @@ title: Submit
 {::options parse_block_html="false" /}
 {::options parse_block_html="true" /}
 <p align="justify">
-  **Please notice that applications for educational sessions and panel discussions are now closed.**
-    Still, you can apply for hosting an emergen session
-</p>
-{::options parse_block_html="false" /}
-<p align="justify">
-  Also, take into account the following:
-</p>
-{::options parse_block_html="true" /}
-<p align="justify">
   **Emergent sessions** are live discussions among a small group of panel members, mediated by a host. The discussions may cover more advanced topics related to open-science or EDI (Equality, Diversity and Inclusion) issues.
 </p>
 <p align="justify">
-The timeslots for **Emergent sessions** will have a "first come, first served" basis and can be boocked via [email](ohbmopenscience@gmail.com) or the form below, which will be available through Monday, June 21st – Friday, June 25th, during the main OHBM conference. 
+The timeslots for **Emergent sessions** will have a "first come, first served" basis and can be boocked via [email](ohbmopenscience@gmail.com) or the form below, which will be available through Monday, June 20th – Thursday, June 23rd, during the main OHBM conference. 
 </p>
 {::options parse_block_html="false" /}
 <p align="justify">
