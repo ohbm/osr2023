@@ -9,7 +9,7 @@ We invite you to contact us using any of the methods below.
 <br>  
 <img align="left" src="../img/twitter-logo.svg" alt="twitter" width="3.5%">&nbsp;Twitter: <a href="https://twitter.com/OhbmOpen">@OhbmOpen</a> #OHBM2022 #OSR
 <br>  
-<img align="left" src="../img/github-logo.svg" alt="github" width="3.5%">&nbsp;GitHub: <a href="https://github.com/ohbm/osr">@ohbm</a>
+<img align="left" src="../img/github-logo.svg" alt="github" width="3.5%">&nbsp;GitHub: <a href="https://github.com/ohbm/osr2022">@ohbm</a>
 <br>  
 <img align="left" src="../img/mattermost-logo.svg" alt="mattermost" width="3.5%">&nbsp;Mattermost: <a href="https://mattermost.brainhack.org/brainhack/channels/hbm-open-science-room">hbm-open-science-room</a>
 
