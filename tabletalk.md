@@ -13,13 +13,13 @@ As part of the OHBM program.
 
 June 8th, 9-10 am GMT+1 <br/>
 
-<img src="../img/ads/Chao_Gan_Yan.jpeg" width="75%">
+<img src="../img/ads/Chao_Gan_Yan.jpeg" width="80%">
 
 ### Virtual Table Talk 2: Lab Culture with Mariam Aly <br/>
 
 June 8th, 6-7 pm GMT+1 <br/>
 
-<img src="../img/ads/Mariam_Aly.jpeg" width="75%">
+<img src="../img/ads/Mariam_Aly.jpeg" width="80%">
 
 
 ## Main Conference
