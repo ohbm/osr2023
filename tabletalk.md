@@ -26,5 +26,13 @@ June 8th, 6-7 pm GMT+1 <br/>
 When: June 21st through 23rd 
 
 #### Table Talk 1: Open Publishing, what does it mean?
+
+<img src="../img/ads/tabletalks/1.png" width="80%">
+
 #### Table Talk 2: Charting a career path after the PhD
+
+<img src="../img/ads/tabletalks/2.png" width="80%">
+
 #### Table Talk 3: Reproducible science and my role in it
+
+<img src="../img/ads/tabletalks/3.png" width="80%">
