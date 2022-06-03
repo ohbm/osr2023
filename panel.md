@@ -28,6 +28,11 @@ function getUrlForSpeaker(speaker) {
   return "";
 }
 
+function emptyStringForNull(element) {
+  const out = element ? element : "";
+  return out;
+}
+
 function formatSpeakerDiv(speaker) {
   console.log(speaker.Website);
 
@@ -38,8 +43,9 @@ function formatSpeakerDiv(speaker) {
       <img src="../img/speakers/${speaker.Name.toLowerCase().replaceAll(' ', '_')}.jpg" style="height:200px; border-radius:50%;">
       
       <h3>${speaker.Name}</h3>
-      
-      <h6>${speaker.Affiliation}</h6>
+      <h4>${emptyStringForNull(speaker.Job)}</h4>
+
+      <h6>${emptyStringForNull(speaker.Affiliation)}</h6>
     </a>
   `;
 }
