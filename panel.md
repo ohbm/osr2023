@@ -10,7 +10,7 @@ function getPanelSpeakersForPanelName(panelName) {
   // Filter all speakers to select only those that are in the given panel
   const speakers = {{ site.data.speakers | jsonify }};
   const panelSpeakers = speakers.filter(speaker => speaker.Panel !== undefined);
-  return panelSpeakers.filter(speaker => (speaker.Panel.toLowerCase().includes(panelName.toLowerCase())));
+  return panelSpeakers.filter(speaker => (speaker.Panel && speaker.Panel.toLowerCase().includes(panelName.toLowerCase())));
 }
 
 function getUrlForSpeaker(speaker) {
