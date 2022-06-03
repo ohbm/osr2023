@@ -1263,3 +1263,39 @@ time.start-time, time.end-time {
 }
 
 /* EDUCATIONAL CONTENT END */
+
+/* PANEL BEGIN */
+.panel-speakers {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.panel-speakers div {
+  flex: 0 1 32%;
+  margin: 10px 5px;
+  padding: 10px;
+  align-content: center;
+  text-align: center;
+  /*display: flex;*/
+  /*flex-direction: column;*/
+  /*justify-content: space-between;*/
+}
+
+.panel-speakers div a img {
+  border-radius:50%;
+  height:200px;
+}
+
+.panel-speakers div a img {
+  border-radius:50%;
+  height:200px;
+}
+
+@media only screen and (max-width: 500px) {
+  .panel-speakers div a img {
+    height: 120px;
+  }
+}
+
+/* PANEL END */

@@ -3,6 +3,78 @@ layout: page
 title: Panel Themes in 2022
 ---
 
+<html>
+<script>
+
+function getPanelSpeakersForPanelName(panelName) {
+  // Filter all speakers to select only those that are in the given panel
+  const speakers = {{ site.data.speakers | jsonify }};
+  const panelSpeakers = speakers.filter(speaker => speaker.Panel !== undefined);
+  return panelSpeakers.filter(speaker => (speaker.Panel.toLowerCase().includes(panelName.toLowerCase())));
+}
+
+function getUrlForSpeaker(speaker) {
+  // Take website if available, then twitter, then github
+  if (speaker.Website) {
+    return speaker.Website;
+  }
+  if (speaker.Twitter) {
+    return speaker.Twitter;
+  }
+  if (speaker.Github) {
+    return speaker.Github;
+  }
+
+  return "";
+}
+
+function emptyStringForNull(element) {
+  // Return empty string if the element is null to prevent the display of "null" on the page
+  const out = element ? element : "";
+  return out;
+}
+
+function getImageAssetPathForSpeaker(speaker) {
+  // Retrieve image path of the speaker photo
+  return `../img/speakers/${speaker.Name.toLowerCase().replaceAll(' ', '_')}.jpg`;
+}
+
+function formatSpeakerDiv(speaker) {
+  // Generate a card for speaker with photo | name | panel job | affiliation | twitter | github
+  // Only the speaker name is mandatory but you should check that there is a SURNAME_NAME.jpg
+  // photo in the img/speakers folder
+  // For the other fields, it only appears if the value is defined in the _data/speakers.csv
+  if (!speaker.Name || speaker.Name === "") {
+    return "";
+  }
+
+  const speakerUrl = getUrlForSpeaker(speaker);
+
+  return `
+    <div>
+      <a style="color:#05323F" href="${speakerUrl}">
+        <img src=${getImageAssetPathForSpeaker(speaker)} />
+
+        <h3>${speaker.Name}</h3>
+        ${speaker.Job ? `<h4>${speaker.Job}</h4>` : ""}
+        ${speaker.Affiliation ? `<h6>${speaker.Affiliation}</h6>` : ""}
+      </a>
+      ${speaker.Twitter ? `<a target="_blank" href="${speaker.Twitter}"><i class="fa fa-twitter fa-2x"></i></a>` : ""}
+      ${speaker.GitHub ? `<a target="_blank" href="${speaker.GitHub}"><i class="fa fa-github fa-2x"></i></a>` : ""}
+    </div>
+  `;
+}
+
+function displayPanel(panelName) {
+  // Generate divs that contain all the speakers that are in the given panel
+  const speakers = getPanelSpeakersForPanelName(panelName);
+  return `${speakers.map(formatSpeakerDiv).join("")}`;
+}
+
+</script>
+</html>
+
+
 The OSR has always been a place to learn and share experiences.
 This year we are centering these experiences around themes which are undergoing rapid change in our discipline.
 
@@ -17,6 +89,13 @@ Points to be discussed or general misconceptions to be demystified include:
 * My network is too limited: How can I connect with the community to share code and contribute to projects?  
 * I don’t have enough computing resources to work with open datasets like the Human Connectome Project. What can I do? 
 
+<html>
+<div class="panel-speakers" id="open-science-panel"></div>
+
+<script>
+document.getElementById("open-science-panel").innerHTML = displayPanel("Open Science");
+</script>
+</html>
 
 ## Theme 2: Open Publishing
 When: 14:45 GMT+1 | June 20, 2022 (Monday) <br/>
@@ -29,6 +108,14 @@ Topics and questions for discussion will include:
 * There has been a lot of criticism of the peer review system. What are your thoughts about the future of peer review? 
 * The tension between for-profit publishers and academic values has been the topic of many Twitter debates and reviewing boycotts. How do your journals balance cost and benefit? 
 * What can authors and reviewers do now to improve open science practices in publishing? 
+
+<html>
+<div class="panel-speakers" id="open-publishing-panel"></div>
+
+<script>
+document.getElementById("open-publishing-panel").innerHTML = displayPanel("Open Publishing");
+</script>
+</html>
 
 
 ## Theme 3: Open Code: Myths Debunked
@@ -43,6 +130,15 @@ Myths to be debunked:
 * Sharing my code is not worth the time and effort. 
 * If I share my code, I’m going to get scooped/criticized. 
 * I am in a lab where sharing code is not a common practice, so I can’t share the code from my projects. 
+
+<html>
+<div class="panel-speakers" id="open-code-panel"></div>
+
+<script>
+document.getElementById("open-code-panel").innerHTML = displayPanel("Open Code");
+</script>
+</html>
+
 
 ## Theme 4: Emerging Statistical Perspectives in Promoting Reproducible Research 
 When: 8:00 GMT+1 | June 22, 2022 (Wednesday) <br/>
@@ -60,6 +156,15 @@ Possible questions include:
   + Should we mitigate or embrace pipeline multiplicity? 
   + In what ways can we think of physiological influences as confound versus information? 
 
+
+<html>
+<div class="panel-speakers" id="statistical-perspectives-panel"></div>
+
+<script>
+document.getElementById("statistical-perspectives-panel").innerHTML = displayPanel("Statistical Perspectives");
+</script>
+</html>
+
 ## Theme #5: Social Bias in Machine Learning  
 When: 10:30 GMT+1 | June 23, 2022 (Thursday) <br/>
 <br/>
@@ -69,3 +174,12 @@ Specific questions and topics for discussion will include:
 * How can you measure the fairness or social bias of a prediction algorithm? 
 * What would a dataset without social bias look like? 
 * In addition to social biases that have come to light (related to e.g., gender, race, ethnicity etc.), there may be other biases that have not yet been considered. As such, is an unbiased algorithm ever fully achievable? 
+
+
+<html>
+<div class="panel-speakers" id="social-bias-panel"></div>
+
+<script>
+document.getElementById("social-bias-panel").innerHTML = displayPanel("Social Bias");
+</script>
+</html>
