@@ -53,9 +53,7 @@ function formatSpeakerDiv(speaker) {
   return `
     <div>
       <a style="color:#05323F" href="${speakerUrl}">
-        <img
-          src=${getImageAssetPathForSpeaker(speaker)}
-          style="height:200px; border-radius:50%;">
+        <img src=${getImageAssetPathForSpeaker(speaker)} />
 
         <h3>${speaker.Name}</h3>
         ${speaker.Job ? `<h4>${speaker.Job}</h4>` : ""}
