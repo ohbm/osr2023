@@ -101,6 +101,22 @@ The core OSR team was elected as part of the [OHBM Open Science Special Interest
             </aside>
             </a>
         </td>
+  <td class="people">
+            <a style="display:block; color:#05323F" href="../team_valentina_borghesani">
+            <aside>
+            <header>
+                <img src="../img/team/valentina_borghesani.jpg" style="height:200px; border-radius:50%;">
+                <h3>Valentina Borghesani</h3>
+                <h4>Community Liason Officer</h4>
+                <h6>Department of Psychology, Université de Montréal</h6>
+                <h4>
+                <a target="_blank" href="https://twitter.com/vborghesani"><i class="fa fa-twitter fa-2x" style="position: relative; top: 0px;text-indent:0px;  vertical-align: middle; margin-left:4px; margin-right:4px;"></i></a>
+                </h4>
+                <br>
+            </header>
+            </aside>
+            </a>
+        </td>
     </tr>
 </table>
 
