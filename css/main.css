@@ -1272,7 +1272,7 @@ time.start-time, time.end-time {
 }
 
 .panel-speakers > a {
-  flex: 0 1 48%;
+  flex: 0 1 32%;
   margin: 10px 5px;
   padding: 10px;
   align-content: center;
