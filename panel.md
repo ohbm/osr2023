@@ -7,6 +7,7 @@ title: Panel Themes in 2022
 <script>
 
 function getPanelSpeakersForPanelName(panelName) {
+  // Filter all speakers to select only those that are in the given panel
   const speakers = {{ site.data.speakers | jsonify }};
   const panelSpeakers = speakers.filter(speaker => speaker.Panel !== undefined);
   return panelSpeakers.filter(speaker => (speaker.Panel.toLowerCase().includes(panelName.toLowerCase())));
@@ -14,7 +15,6 @@ function getPanelSpeakersForPanelName(panelName) {
 
 function getUrlForSpeaker(speaker) {
   // Take website if available, then twitter, then github
-
   if (speaker.Website) {
     return speaker.Website;
   }
@@ -29,15 +29,21 @@ function getUrlForSpeaker(speaker) {
 }
 
 function emptyStringForNull(element) {
+  // Return empty string if the element is null to prevent the display of "null" on the page
   const out = element ? element : "";
   return out;
 }
 
 function getImageAssetPathForSpeaker(speaker) {
+  // Retrieve image path of the speaker photo
   return `../img/speakers/${speaker.Name.toLowerCase().replaceAll(' ', '_')}.jpg`;
 }
 
 function formatSpeakerDiv(speaker) {
+  // Generate a card for speaker with photo | name | panel job | affiliation | twitter | github
+  // Only the speaker name is mandatory but you should check that there is a SURNAME_NAME.jpg
+  // photo in the img/speakers folder
+  // For the other fields, it only appears if the value is defined in the _data/speakers.csv
   if (!speaker.Name || speaker.Name === "") {
     return "";
   }
@@ -62,10 +68,9 @@ function formatSpeakerDiv(speaker) {
 }
 
 function displayPanel(panelName) {
+  // Generate divs that contain all the speakers that are in the given panel
   const speakers = getPanelSpeakersForPanelName(panelName);
-  return `
-    ${speakers.map(formatSpeakerDiv).join("")}
-  `;
+  return `${speakers.map(formatSpeakerDiv).join("")}`;
 }
 
 </script>
