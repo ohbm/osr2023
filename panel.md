@@ -33,20 +33,31 @@ function emptyStringForNull(element) {
   return out;
 }
 
+function getImageAssetPathForSpeaker(speaker) {
+  return `../img/speakers/${speaker.Name.toLowerCase().replaceAll(' ', '_')}.jpg`;
+}
+
 function formatSpeakerDiv(speaker) {
-  console.log(speaker.Website);
+  if (!speaker.Name || speaker.Name === "") {
+    return "";
+  }
 
   const speakerUrl = getUrlForSpeaker(speaker);
 
   return `
-    <a style="display:block; color:#05323F" href="${speakerUrl}">
-      <img src="../img/speakers/${speaker.Name.toLowerCase().replaceAll(' ', '_')}.jpg" style="height:200px; border-radius:50%;">
-      
-      <h3>${speaker.Name}</h3>
-      <h4>${emptyStringForNull(speaker.Job)}</h4>
+    <div>
+      <a style="color:#05323F" href="${speakerUrl}">
+        <img
+          src=${getImageAssetPathForSpeaker(speaker)}
+          style="height:200px; border-radius:50%;">
 
-      <h6>${emptyStringForNull(speaker.Affiliation)}</h6>
-    </a>
+        <h3>${speaker.Name}</h3>
+        ${speaker.Job ? `<h4>${speaker.Job}</h4>` : ""}
+        ${speaker.Affiliation ? `<h6>${speaker.Affiliation}</h6>` : ""}
+      </a>
+      ${speaker.Twitter ? `<a target="_blank" href="${speaker.Twitter}"><i class="fa fa-twitter fa-2x"></i></a>` : ""}
+      ${speaker.GitHub ? `<a target="_blank" href="${speaker.GitHub}"><i class="fa fa-github fa-2x"></i></a>` : ""}
+    </div>
   `;
 }
 
