@@ -1271,7 +1271,7 @@ time.start-time, time.end-time {
   justify-content: center;
 }
 
-.panel-speakers > a {
+.panel-speakers div {
   flex: 0 1 32%;
   margin: 10px 5px;
   padding: 10px;
