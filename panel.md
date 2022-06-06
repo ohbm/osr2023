@@ -119,7 +119,7 @@ document.getElementById("open-publishing-panel").innerHTML = displayPanel("Open 
 
 
 ## Theme 3: Open Code: Myths Debunked
-When: 15:00 GMT+1 | June 21, 2022 (Tuesday) <br/>
+When: 14:45 GMT+1 | June 21, 2022 (Tuesday) <br/>
 <br/>
 Are you unsure of whether to share your code because of time constraint, getting scooped, or other common fears? Or is your ‘lab culture’ not keen on sharing code? This panel will discuss and debunk common myths for new coders and newbies to open science who are unsure of or not allowed to share their code. Not only will the speakers provide an open platform to discuss the benefits of open code but will expose common myths and share helpful resources on how to write good code, maintain, and share it.  <br/>
 <br/>
