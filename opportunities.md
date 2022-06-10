@@ -13,36 +13,21 @@ Dates: Throughout the year <br>
 
 ---
 
-**Website Design** <br>
-Core skills: JavaScript <br>
-Dates: 01/03 - 01/05 <br>
-Time commitment: 1-3 hours <br>
-
-<ins>Tasks</ins>
-
-* Improve the design of the website 
-* Implement a search bar for educational module
-
----
-
 **Panel Session Managers** <br>
 Core skills: crowdcast, manage the chat and keep an eye on code of conduct <br>
-Dates: 19/06 - 23/06 <br>
+Dates: 20/06 - 23/06 <br>
 Time commitment: 1-3 hours  <br>
 
 <ins>Tasks</ins>
 
 Panel sessions: live + rebroadcast recording <br>
-* Welcome the moderator and panelists to the stage before the start of the session, answer their technical questions, if any. You are there as the contact person for technical support during the session and to make sure everything runs on time.
-* Record session. <br>
-* Start recording. Monitor the chat for code of conduct and questions (chat will come in through sparkle and crowdcast independently): repeat these questions to the moderator at the end of the panel discussion if time permits. Thank the speaker and conclude the session. Stop recording. <br>
-* Play the recorded session on the scheduled rebroadcast day. <br>
+* Monitor the chat for code of conduct and questions (chat will come in through sparkle and crowdcast independently): repeat these questions to the moderator at the end of the panel discussion if time permits. <br>
 
 ---
 
 **Emergent Session Managers** <br>
 Core skills: crowdcast, keep an eye on code of conduct, website skills <br>
-Dates: 19/06 - 23/06 <br>
+Dates: 20/06 - 23/06 <br>
 Time commitment: 1-3 hours <br>
 
 <ins>Tasks</ins>
@@ -60,7 +45,7 @@ Note: Submitted emergent requests will be briefly reviewed by the OSR team for a
 
 **Social Media Content Development** <br>
 Core skills: Twitter <br>
-Dates: 01/04 - 01/06 <br>
+Dates: Now - 20/06 <br>
 
 <ins>Tasks</ins>
 * Create OSR content to tweet before the conference. 
@@ -78,34 +63,15 @@ Dates: Throughout the year <br>
 
 ---
 
-**Social Event Planning** <br>
-Core skills: gathertown (for the online component) <br>
-Dates: 01/05 - 01/06 <br>
-Time commitment: 1-2 hours  <br>
+**Website Design** <br>
+Core skills: JavaScript <br>
+Dates: Now! <br>
+Time commitment: 1-3 hours <br>
 
 <ins>Tasks</ins>
-* Create/design a social event room in gathertown. <br>
-* Coordinate with the social media volunteer to advertise the event. <br>
-* Coordinate with the website volunteer to put the event on the website schedule. <br>
-* Monitor compliance with the code of conduct during the event. <br>
+
+* Improve the design of the website 
 
 ---
 
-**OSR Registration Communication** <br>
-Core skills: microsoft forms <br>
-Dates: 13/06 - 23/06 <br>
-Time commitment: 1-2 hours  <br>
 
-<ins>Tasks</ins>
-* Monitor ongoing registrations and send the relevant login info the the registrants. <br>
-
----
-
-**YouTube/Douyu Channel Streaming Management** <br>
-Core skills: youtube, douyu <br>
-Dates: 19/06 - 23/06 <br>
-Number of volunteers: 2 (1 must be in-person) <br>
-Time commitment: 1-2 hours  <br>
-
-<ins>Tasks</ins>
-* Setup live stream for Panel session so that they appear on youtube. <br>
