@@ -38,15 +38,15 @@ function showScheduleForDay(day) {
 
 
 <div class="schedule-days">
-  <div id="day-06-20" class="schedule-day active" onclick="showScheduleForDay('06-20')">June 22</div>
-  <div id="day-06-21" class="schedule-day" onclick="showScheduleForDay('06-21')">June 23</div>
-  <div id="day-06-22" class="schedule-day" onclick="showScheduleForDay('06-22')">June 24</div>
-  <div id="day-06-23" class="schedule-day" onclick="showScheduleForDay('06-23')">June 25</div>
+  <div id="day-06-20" class="schedule-day active" onclick="showScheduleForDay('06-20')">June 20</div>
+  <div id="day-06-21" class="schedule-day" onclick="showScheduleForDay('06-21')">June 21</div>
+  <div id="day-06-22" class="schedule-day" onclick="showScheduleForDay('06-22')">June 22</div>
+  <div id="day-06-23" class="schedule-day" onclick="showScheduleForDay('06-23')">June 23</div>
 </div>
 
-<h6 style="text-align: center;">
+<h5 style="text-align: center;">
 GMT+1
-</h6>
+</h5>
 
 
 <div id="schedule-06-20" class="schedule-block active">
@@ -141,7 +141,7 @@ GMT+1
             <tr>
                 <td>8:00 ➡ 9:00</td>
                 <td>
-                    <div>Panel 4: Reproducible Research - Statistical Perspectives</div>
+                    <div>Panel 4: Emerging Statistical Perspectives in Promoting Reproducible Research</div>
                     <a href="https://add.eventable.com/events/629a28543ef85c3ac00e5e83/629a4b4210e33846f6e40e62/" data-event="629a4b4210e33846f6e40e62" class="eventable-link" target="_blank" data-key="629a28543ef85c3ac00e5e83" data-style="1">Add to Calendar</a>
                 </td>
             </tr>
@@ -181,7 +181,7 @@ GMT+1
             <tr>
                 <td>10:30 ➡ 11:30</td>
                 <td>
-                    <div>Panel 5: Social Bias in ML</div>
+                    <div>Panel 5: Social Bias in Machine Learning</div>
                     <a href="https://add.eventable.com/events/629a28543ef85c3ac00e5e83/629a4ba20de33e392ef7ff06/" data-event="629a4ba20de33e392ef7ff06" class="eventable-link" target="_blank" data-key="629a28543ef85c3ac00e5e83" data-style="1">Add to Calendar</a>
                 </td>
             </tr>
