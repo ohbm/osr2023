@@ -1237,7 +1237,7 @@ time.start-time, time.end-time {
 }
 
 .educational-card-description {
-  text-align: left;
+  text-align: center;
   font-size: 14px;
   margin-bottom: 10px;
 }
@@ -1252,14 +1252,14 @@ time.start-time, time.end-time {
   margin: 8px;
 }
 
-.orange-tag {
-  background-color: #f4a261;
-  border-color: #f4a261;
+.purple-tag {
+  background-color: #6769BA;
+  border-color: #6769BA;
 }
 
-.green-tag {
-  background-color: #2a9d8f;
-  border-color: #2a9d8f;
+.pink-tag {
+  background-color: #ED8396;
+  border-color: #ED8396;
 }
 
 /* EDUCATIONAL CONTENT END */

@@ -34,7 +34,7 @@ function getUniqueTags() {
 }
 
 function getTagColorClassName(tag) {
-    const availableColors = ["", "orange-tag", "green-tag"];
+    const availableColors = ["", "pink-tag", "purple-tag"];
     const allTags = getUniqueTags();
 
     const tagPosition = allTags.indexOf(tag);
