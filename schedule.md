@@ -50,16 +50,20 @@ GMT+1
 
 
 <div id="schedule-06-20" class="schedule-block active">
-    <h4>June 20</h4>
+    <h4>June 20, Monday</h4>
 
     <div class="schedule-content">
         <table class="osr-schedule">
             <tr>
-                <td></td>
-                <td>OSR</td>
+                <td>GMT+1</td>
+                <td>OSR Day 1</td>
             </tr>
             <tr>
-                <td>8:00 ➡ 9:00</td>
+                <td>8:00</td>
+                <td>Opening Ceremony</td>
+            </tr>
+            <tr>
+                <td>8:15 ➡ 9:15</td>
                 <td>
                     <div>Panel 1: Challenges of Open Science in Developing Countries</div>
                     <a href="https://add.eventable.com/events/629a28543ef85c3ac00e5e83/629a28568622ac08962b8c7f" class="eventable-link" target="_blank" data-key="629a28543ef85c3ac00e5e83" data-event="629a28568622ac08962b8c7f" data-style="1">Add to Calendar</a>
@@ -89,13 +93,13 @@ GMT+1
 </div>
 
 <div id="schedule-06-21" class="schedule-block">
-    <h4>June 21</h4>
+    <h4>June 21, Tuesday</h4>
 
     <div class="schedule-content">
         <table class="osr-schedule">
             <tr>
-                <td></td>
-                <td>OSR</td>
+                <td>GMT+1</td>
+                <td>OSR Day 2</td>
             </tr>
             <tr>
                 <td>8:00 ➡ 9:00</td>
@@ -130,13 +134,13 @@ GMT+1
 
 
 <div id="schedule-06-22" class="schedule-block">
-    <h4>June 22</h4>
+    <h4>June 22, Wednesday</h4>
 
     <div class="schedule-content">
         <table class="osr-schedule">
             <tr>
-                <td></td>
-                <td>OSR</td>
+                <td>GMT+1</td>
+                <td>OSR Day 3</td>
             </tr>
             <tr>
                 <td>8:00 ➡ 9:00</td>
@@ -166,17 +170,17 @@ GMT+1
 </div>
 <div id="schedule-06-23" class="schedule-block">
 
-    <h4>June 23</h4>
+    <h4>June 23, Thursday</h4>
 
     <div class="schedule-content">   
         <table class="osr-schedule">
             <tr>
-                <td></td>
-                <td>OSR</td>
+                <td>GMT+1</td>
+                <td>OSR Day 4</td>
             </tr>
             <tr>
                 <td>8:00 ➡ 9:00</td>
-                <td>Reflection about OHBM</td>
+                <td>Reflection about OHBM (Combined SIG Event)</td>
             </tr>
             <tr>
                 <td>10:30 ➡ 11:30</td>
@@ -188,6 +192,10 @@ GMT+1
             <tr>
                 <td>11:45 ➡ 12:45</td>
                 <td>Table Talk 3: Reproducible Science and my role in it with Thomas Nichols</td>
+            </tr>
+            <tr>
+                <td>12:45 ➡ 13:00</td>
+                <td>Closing Ceremony</td>
             </tr>
         </table>
     </div>

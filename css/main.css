@@ -1341,7 +1341,7 @@ time.start-time, time.end-time {
 }
 
 .schedule-content > table {
-  flex: 0 1 45%;
+  flex: 0 1 100%;
 }
 
 .schedule-content table td {
