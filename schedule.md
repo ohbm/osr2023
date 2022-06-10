@@ -56,11 +56,11 @@ GMT+1
         <table class="osr-schedule">
             <tr>
                 <td>GMT+1</td>
-                <td>OSR Day 1</td>
+                <td>Open Science Room</td>
             </tr>
             <tr>
-                <td>8:00</td>
-                <td>Opening Ceremony</td>
+                <td>8:00 ➡ 8:15</td>
+                <td>Opening Ceremony with ☕</td>
             </tr>
             <tr>
                 <td>8:15 ➡ 9:15</td>
@@ -77,16 +77,18 @@ GMT+1
                 <td>14:45 ➡ 15:45</td>
                 <td>
                     <div>Panel 2: Open Publishing</div>
-                    <a href="https://add.eventable.com/events/629a28543ef85c3ac00e5e83/629a4a43a7c9374f60d948fd/" data-event="629a4a43a7c9374f60d948fd" class="eventable-link" target="_blank" data-key="629a28543ef85c3ac00e5e83" data-style="1">Add to Calendar</a>
+                    <a href="https://add.eventable.com/events/629a28543ef85c3ac00e5e83/629a4a43a7c9374f60d948fd/" class="eventable-link" target="_blank" data-key="629a28543ef85c3ac00e5e83" data-event="629a4a43a7c9374f60d948fd" data-style="1">Add to Calendar</a>
                 </td>
             </tr>
             <tr>
                 <td>16:45 ➡ 17:45</td>
                 <td>Emergent #2</td>
+                <a href="https://ohbm.github.io/osr2022/submit/" target="_blank"><button>Book an Emergent Session</button></a>
             </tr>
             <tr>
                 <td>18:00 ➡ 19:00</td>
                 <td>Emergent #3</td>
+                <a href="https://ohbm.github.io/osr2022/submit/" target="_blank"><button>Book an Emergent Session</button></a>
             </tr>
         </table>
     </div>
@@ -99,19 +101,22 @@ GMT+1
         <table class="osr-schedule">
             <tr>
                 <td>GMT+1</td>
-                <td>OSR Day 2</td>
+                <td>Open Science Room</td>
             </tr>
             <tr>
                 <td>8:00 ➡ 9:00</td>
                 <td>Emergent #4</td>
+                <a href="https://ohbm.github.io/osr2022/submit/" target="_blank"><button>Book an Emergent Session</button></a>
             </tr>
             <tr>
                 <td>10:15 ➡ 11:15</td>
                 <td>Emergent #5</td>
+                <a href="https://ohbm.github.io/osr2022/submit/" target="_blank"><button>Book an Emergent Session</button></a>
             </tr>
             <tr>
                 <td>11:15 ➡ 12:15</td>
                 <td>Emergent #6</td>
+                <a href="https://ohbm.github.io/osr2022/submit/" target="_blank"><button>Book an Emergent Session</button></a>
             </tr>
             <tr>
                 <td>12:15 ➡ 13:00</td>
@@ -121,12 +126,13 @@ GMT+1
                 <td>14:45 ➡ 15:45</td>
                 <td>
                     <div>Panel 3: Open Code - 6 Myths Debunked</div>
-                    <a href="https://add.eventable.com/events/629a28543ef85c3ac00e5e83/629a4abd1fd9d50830ca3664/" data-event="629a4abd1fd9d50830ca3664" class="eventable-link" target="_blank" data-key="629a28543ef85c3ac00e5e83" data-style="1">Add to Calendar</a>
+                    <a href="https://add.eventable.com/events/629a28543ef85c3ac00e5e83/629a4abd1fd9d50830ca3664/" class="eventable-link" target="_blank" data-key="629a28543ef85c3ac00e5e83" data-key="629a28543ef85c3ac00e5e83" data-style="1">Add to Calendar</a>
                 </td>
             </tr>
             <tr>
                 <td>17:45 ➡ 18:45</td>
                 <td>Emergent #7</td>
+                <a href="https://ohbm.github.io/osr2022/submit/" target="_blank"><button>Book an Emergent Session</button></a>
             </tr>
         </table>
     </div>
@@ -140,18 +146,19 @@ GMT+1
         <table class="osr-schedule">
             <tr>
                 <td>GMT+1</td>
-                <td>OSR Day 3</td>
+                <td>Open Science Room</td>
             </tr>
             <tr>
                 <td>8:00 ➡ 9:00</td>
                 <td>
                     <div>Panel 4: Emerging Statistical Perspectives in Promoting Reproducible Research</div>
-                    <a href="https://add.eventable.com/events/629a28543ef85c3ac00e5e83/629a4b4210e33846f6e40e62/" data-event="629a4b4210e33846f6e40e62" class="eventable-link" target="_blank" data-key="629a28543ef85c3ac00e5e83" data-style="1">Add to Calendar</a>
+                    <a href="https://add.eventable.com/events/629a28543ef85c3ac00e5e83/629a4b4210e33846f6e40e62/" class="eventable-link" target="_blank" data-key="629a28543ef85c3ac00e5e83" data-event="629a4b4210e33846f6e40e62" data-style="1">Add to Calendar</a>
                 </td>
             </tr>
             <tr>
                 <td>10:30 ➡ 11:30</td>
                 <td>Emergent #8</td>
+                <a href="https://ohbm.github.io/osr2022/submit/" target="_blank"><button>Book an Emergent Session</button></a>
             </tr>
             <tr>
                 <td>11:45 ➡ 12:45</td>
@@ -160,10 +167,12 @@ GMT+1
             <tr>
                 <td>14:45 ➡ 15:45</td>
                 <td>Emergent #9</td>
+                <a href="https://ohbm.github.io/osr2022/submit/" target="_blank"><button>Book an Emergent Session</button></a>
             </tr>
             <tr>
                 <td>17:00 ➡ 18:00</td>
                 <td>Emergent #10</td>
+                <a href="https://ohbm.github.io/osr2022/submit/" target="_blank"><button>Book an Emergent Session</button></a>
             </tr>
         </table>
     </div>
@@ -176,7 +185,7 @@ GMT+1
         <table class="osr-schedule">
             <tr>
                 <td>GMT+1</td>
-                <td>OSR Day 4</td>
+                <td>Open Science Room</td>
             </tr>
             <tr>
                 <td>8:00 ➡ 9:00</td>
@@ -186,7 +195,7 @@ GMT+1
                 <td>10:30 ➡ 11:30</td>
                 <td>
                     <div>Panel 5: Social Bias in Machine Learning</div>
-                    <a href="https://add.eventable.com/events/629a28543ef85c3ac00e5e83/629a4ba20de33e392ef7ff06/" data-event="629a4ba20de33e392ef7ff06" class="eventable-link" target="_blank" data-key="629a28543ef85c3ac00e5e83" data-style="1">Add to Calendar</a>
+                    <a href="https://add.eventable.com/events/629a28543ef85c3ac00e5e83/629a4ba20de33e392ef7ff06/" class="eventable-link" target="_blank" data-key="629a28543ef85c3ac00e5e83" data-event="629a4ba20de33e392ef7ff06" data-style="1">Add to Calendar</a>
                 </td>
             </tr>
             <tr>
