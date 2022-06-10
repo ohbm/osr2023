@@ -3,4 +3,4 @@ layout: page
 title: Emergent Sessions!
 ---
 
-Sign up will be open during the conference. 
+Please [register](https://ohbm.github.io/osr2022/register/) to OSR we will notify you when the emergent session submissions are open.
