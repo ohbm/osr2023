@@ -82,9 +82,6 @@ This year we are centering these experiences around themes which are undergoing 
 ### <a href="https://www.crowdcast.io/e/panel-1-challenges-of" target="_blank">Click to join this panel!</a>
 When: 8:00 GMT+1 | June 20, 2022 (Monday) <br/>
 <a href="https://add.eventable.com/events/629a28543ef85c3ac00e5e83/629a28568622ac08962b8c7f" class="eventable-link" target="_blank" data-key="629a28543ef85c3ac00e5e83" data-event="629a28568622ac08962b8c7f" data-style="1">Add to Calendar</a><br/>
-
-
-
 <br/>
 This panel is aimed at discussing the challenges that are faced by these countries, which are related to the availability of educational technology, including access to adequate online learning resources, opportunities for data processing training and professional development. We will discuss the coordinated actions that can be taken in order to support and implement open science-based research in an environment that has limited economic resources.  <br/>
 Points to be discussed or general misconceptions to be demystified include: 
