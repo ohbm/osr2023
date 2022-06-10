@@ -3,10 +3,6 @@ layout: page
 title: Submit
 ---
 
-- [Submission](#submission)
-
----
-
 <div id="submission"></div>
 <br>
 ## Submission
