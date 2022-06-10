@@ -53,49 +53,6 @@ GMT+1
     <h4>June 20</h4>
 
     <div class="schedule-content">
-        <table class="ohbm-schedule">
-            <tr>
-                <td></td>
-                <td>OHBM</td>
-            </tr>
-            <tr>
-                <td>8:00 ➡ 9:15</td>
-                <td>Symposia</td>
-            </tr>
-            <tr>
-                <td>9:30 ➡ 10:15</td>
-                <td>Keynote</td>
-            </tr>
-            <tr>
-                <td>10:15 ➡ 11:30</td>
-                <td>Symposia</td>
-            </tr>
-            <tr>
-                <td>11:30 ➡ 12:15</td>
-                <td>Lunch</td>
-            </tr>
-            <tr>
-                <td>12:15 ➡ 14:15</td>
-                <td>Poster</td>
-            </tr>
-            <tr>
-                <td>14:15 ➡ 15:30</td>
-                <td>Symposia</td>
-            </tr>
-            <tr>
-                <td>15:45 ➡ 16:30</td>
-                <td>Symposia</td>
-            </tr>
-            <tr>
-                <td>16:45 ➡ 18:00</td>
-                <td>Symposia</td>
-            </tr>
-            <tr>
-                <td>18:00 ➡ 19:00</td>
-                <td>Poster Reception</td>
-            </tr>
-        </table>
-    
         <table class="osr-schedule">
             <tr>
                 <td></td>
@@ -135,49 +92,6 @@ GMT+1
     <h4>June 21</h4>
 
     <div class="schedule-content">
-        <table class="ohbm-schedule">
-            <tr>
-                <td></td>
-                <td>OHBM</td>
-            </tr>
-            <tr>
-                <td>8:00 ➡ 9:15</td>
-                <td>Symposia</td>
-            </tr>
-            <tr>
-                <td>9:30 ➡ 10:15</td>
-                <td>Keynote</td>
-            </tr>
-            <tr>
-                <td>10:15 ➡ 10:45</td>
-                <td>Awards</td>
-            </tr>
-            <tr>
-                <td>11:00 ➡ 12:15</td>
-                <td>Oral Session</td>
-            </tr>
-            <tr>
-                <td>12:15 ➡ 13:00</td>
-                <td>Lunch</td>
-            </tr>
-            <tr>
-                <td>13:00 ➡ 15:00</td>
-                <td>Poster</td>
-            </tr>
-            <tr>
-                <td>15:00 ➡ 16:15</td>
-                <td>Symposia</td>
-            </tr>
-            <tr>
-                <td>16:30 ➡ 17:45</td>
-                <td>Keynote</td>
-            </tr>
-            <tr>
-                <td>17:45 ➡ 18:45</td>
-                <td>Poster Reception</td>
-            </tr>
-        </table>
-    
         <table class="osr-schedule">
             <tr>
                 <td></td>
@@ -219,45 +133,6 @@ GMT+1
     <h4>June 22</h4>
 
     <div class="schedule-content">
-        <table class="ohbm-schedule">
-            <tr>
-                <td></td>
-                <td>OHBM</td>
-            </tr>
-            <tr>
-                <td>8:00 ➡ 9:15</td>
-                <td>Symposia</td>
-            </tr>
-            <tr>
-                <td>9:30 ➡ 10:15</td>
-                <td>Keynote</td>
-            </tr>
-            <tr>
-                <td>10:30 ➡ 11:45</td>
-                <td>Oral Session</td>
-            </tr>
-            <tr>
-                <td>11:45 ➡ 12:45</td>
-                <td>Lunch</td>
-            </tr>
-            <tr>
-                <td>12:45 ➡ 14:45</td>
-                <td>Poster</td>
-            </tr>
-            <tr>
-                <td>14:45 ➡ 16:00</td>
-                <td>Symposia</td>
-            </tr>
-            <tr>
-                <td>16:15 ➡ 17:00</td>
-                <td>Keynote</td>
-            </tr>
-            <tr>
-                <td>17:00 ➡ 18:00</td>
-                <td>Poster Reception</td>
-            </tr>
-        </table>
-    
         <table class="osr-schedule">
             <tr>
                 <td></td>
@@ -293,42 +168,7 @@ GMT+1
 
     <h4>June 23</h4>
 
-    <div class="schedule-content">
-        <table class="ohbm-schedule">
-            <tr>
-                <td></td>
-                <td>OHBM</td>
-            </tr>
-            <tr>
-                <td>8:00 ➡ 9:15</td>
-                <td>Symposia</td>
-            </tr>
-            <tr>
-                <td>9:30 ➡ 10:15</td>
-                <td>Keynote</td>
-            </tr>
-            <tr>
-                <td>10:30 ➡ 11:45</td>
-                <td>Oral Session</td>
-            </tr>
-            <tr>
-                <td>11:45 ➡ 12:45</td>
-                <td>Lunch</td>
-            </tr>
-            <tr>
-                <td>12:45 ➡ 14:45</td>
-                <td>Poster</td>
-            </tr>
-            <tr>
-                <td>14:45 ➡ 16:00</td>
-                <td>Closing Ceremony</td>
-            </tr>
-            <tr>
-                <td>16:00 ➡ 17:00</td>
-                <td>Farewell Poster Reception</td>
-            </tr>
-        </table>
-    
+    <div class="schedule-content">   
         <table class="osr-schedule">
             <tr>
                 <td></td>
