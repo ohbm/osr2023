@@ -82,13 +82,17 @@ GMT+1
             </tr>
             <tr>
                 <td>16:45 ➡ 17:45</td>
-                <td>Emergent #2</td>
-                <a href="https://ohbm.github.io/osr2022/submit/" target="_blank">Request an Emergent Session</a>
+                <td>
+                    </div>Emergent #2</div>
+                    <a href="https://ohbm.github.io/osr2022/submit/" target="_blank">Request an Emergent Session</a>
+                </td>
             </tr>
             <tr>
                 <td>18:00 ➡ 19:00</td>
-                <td>Emergent #3</td>
-                <a href="https://ohbm.github.io/osr2022/submit/" target="_blank">Request an Emergent Session</a>
+                <td>
+                    </div>Emergent #3</div>
+                    <a href="https://ohbm.github.io/osr2022/submit/" target="_blank">Request an Emergent Session</a>
+                </td>
             </tr>
         </table>
     </div>
@@ -105,18 +109,24 @@ GMT+1
             </tr>
             <tr>
                 <td>8:00 ➡ 9:00</td>
-                <td>Emergent #4</td>
-                <a href="https://ohbm.github.io/osr2022/submit/" target="_blank">Request an Emergent Session</a>
+                <td>
+                    </div>Emergent #4</div>
+                    <a href="https://ohbm.github.io/osr2022/submit/" target="_blank">Request an Emergent Session</a>
+                </td>
             </tr>
             <tr>
                 <td>10:15 ➡ 11:15</td>
-                <td>Emergent #5</td>
-                <a href="https://ohbm.github.io/osr2022/submit/" target="_blank">Request an Emergent Session</a>
+                <td>
+                    </div>Emergent #5</div>
+                    <a href="https://ohbm.github.io/osr2022/submit/" target="_blank">Request an Emergent Session</a>
+                </td>
             </tr>
             <tr>
                 <td>11:15 ➡ 12:15</td>
-                <td>Emergent #6</td>
-                <a href="https://ohbm.github.io/osr2022/submit/" target="_blank">Request an Emergent Session</a>
+                <td>
+                    </div>Emergent #6</div>
+                    <a href="https://ohbm.github.io/osr2022/submit/" target="_blank">Request an Emergent Session</a>
+                </td>
             </tr>
             <tr>
                 <td>12:15 ➡ 13:00</td>
@@ -131,8 +141,10 @@ GMT+1
             </tr>
             <tr>
                 <td>17:45 ➡ 18:45</td>
-                <td>Emergent #7</td>
-                <a href="https://ohbm.github.io/osr2022/submit/" target="_blank">Request an Emergent Session</a>
+                <td>
+                    </div>Emergent #7</div>
+                    <a href="https://ohbm.github.io/osr2022/submit/" target="_blank">Request an Emergent Session</a>
+                </td>
             </tr>
         </table>
     </div>
@@ -157,8 +169,10 @@ GMT+1
             </tr>
             <tr>
                 <td>10:30 ➡ 11:30</td>
-                <td>Emergent #8</td>
-                <a href="https://ohbm.github.io/osr2022/submit/" target="_blank">Request an Emergent Session</a>
+                <td>
+                    </div>Emergent #8</div>
+                    <a href="https://ohbm.github.io/osr2022/submit/" target="_blank">Request an Emergent Session</a>
+                </td>
             </tr>
             <tr>
                 <td>11:45 ➡ 12:45</td>
@@ -166,13 +180,17 @@ GMT+1
             </tr>
             <tr>
                 <td>14:45 ➡ 15:45</td>
-                <td>Emergent #9</td>
-                <a href="https://ohbm.github.io/osr2022/submit/" target="_blank">Request an Emergent Session</a>
+                <td>
+                    </div>Emergent #9</div>
+                    <a href="https://ohbm.github.io/osr2022/submit/" target="_blank">Request an Emergent Session</a>
+                </td>
             </tr>
             <tr>
                 <td>17:00 ➡ 18:00</td>
-                <td>Emergent #10</td>
-                <a href="https://ohbm.github.io/osr2022/submit/" target="_blank">Request an Emergent Session</a>
+                <td>
+                    </div>Emergent #10</div>
+                    <a href="https://ohbm.github.io/osr2022/submit/" target="_blank">Request an Emergent Session</a>
+                </td>
             </tr>
         </table>
     </div>
