@@ -1299,3 +1299,53 @@ time.start-time, time.end-time {
 }
 
 /* PANEL END */
+
+/* SCHEDULE BEGIN */
+.schedule-days {
+  display: flex;
+  align-content: center;
+  justify-content: center;
+}
+
+.schedule-day {
+  cursor: pointer;
+  color: #4247A6;
+  border: 1px solid #4247A6;
+  border-radius: 5px;
+  padding: 5px;
+  margin: 3px;
+}
+
+.schedule-day:hover {
+  cursor: pointer;
+  background-color: #4247A6;
+  color: white;
+}
+
+.schedule-day.active {
+  background-color: #4247A6;
+  color: white;
+}
+
+.schedule-block {
+  display: none;
+}
+
+.schedule-block.active {
+  display: block;
+}
+
+.schedule-content {
+  display: flex;
+  justify-content: space-between;
+}
+
+.schedule-content > table {
+  flex: 0 1 45%;
+}
+
+.schedule-content table td {
+  text-align: center;
+}
+
+/* SCHEDULE END */
