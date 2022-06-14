@@ -66,7 +66,7 @@ GMT+1
                 <td>8:15 ➡ 9:15</td>
                 <td>
                     <div>Panel 1: Challenges of Open Science in Developing Countries</div>
-                    <a href="https://www.crowdcast.io/e/panel-1-challenges-of" target="_blank">Click here to join this panel!</a></br>
+                    <div><a href="https://www.crowdcast.io/e/panel-1-challenges-of" target="_blank">Click here to join this panel!</a></div>
                     <a href="https://add.eventable.com/events/629a28543ef85c3ac00e5e83/629a28568622ac08962b8c7f" class="eventable-link" target="_blank" data-key="629a28543ef85c3ac00e5e83" data-event="629a28568622ac08962b8c7f" data-style="1">Add to Calendar</a>
                 </td>
             </tr>
@@ -78,7 +78,7 @@ GMT+1
                 <td>14:45 ➡ 15:45</td>
                 <td>
                     <div>Panel 2: Open Publishing</div>
-                    <a href="https://www.crowdcast.io/e/panel-2-open-publishing" target="_blank">Click here to join this panel!</a></br>
+                    <div><a href="https://www.crowdcast.io/e/panel-2-open-publishing" target="_blank">Click here to join this panel!</a></div>
                     <a href="https://add.eventable.com/events/629a28543ef85c3ac00e5e83/629a4a43a7c9374f60d948fd/" class="eventable-link" target="_blank" data-key="629a28543ef85c3ac00e5e83" data-event="629a4a43a7c9374f60d948fd" data-style="1">Add to Calendar</a>
                 </td>
             </tr>
@@ -138,7 +138,7 @@ GMT+1
                 <td>14:45 ➡ 15:45</td>
                 <td>
                     <div>Panel 3: Open Code - 6 Myths Debunked</div>
-                    <a href="https://www.crowdcast.io/e/panel-3-open-code-6" target="_blank">Click here to join this panel!</a></br>
+                    <div><a href="https://www.crowdcast.io/e/panel-3-open-code-6" target="_blank">Click here to join this panel!</a></div>
                     <a href="https://add.eventable.com/events/629a28543ef85c3ac00e5e83/629a4abd1fd9d50830ca3664/" class="eventable-link" target="_blank" data-key="629a28543ef85c3ac00e5e83" data-key="629a28543ef85c3ac00e5e83" data-style="1">Add to Calendar</a>
                 </td>
             </tr>
@@ -167,7 +167,7 @@ GMT+1
                 <td>8:00 ➡ 9:00</td>
                 <td>
                     <div>Panel 4: Emerging Statistical Perspectives in Promoting Reproducible Research</div>
-                    <a href="https://www.crowdcast.io/e/panel-4-emerging-statistical" target="_blank">Click here to join this panel!</a></br>
+                    <div><a href="https://www.crowdcast.io/e/panel-4-emerging-statistical" target="_blank">Click here to join this panel!</a></div>
                     <a href="https://add.eventable.com/events/629a28543ef85c3ac00e5e83/629a4b4210e33846f6e40e62/" class="eventable-link" target="_blank" data-key="629a28543ef85c3ac00e5e83" data-event="629a4b4210e33846f6e40e62" data-style="1">Add to Calendar</a>
                 </td>
             </tr>
@@ -217,7 +217,7 @@ GMT+1
                 <td>10:30 ➡ 11:30</td>
                 <td>
                     <div>Panel 5: Social Bias in Machine Learning</div>
-                    <a href="https://www.crowdcast.io/e/panel-5-social-bias" target="_blank">Click here to join this panel!</a></br>
+                    <div><a href="https://www.crowdcast.io/e/panel-5-social-bias" target="_blank">Click here to join this panel!</a></div>
                     <a href="https://add.eventable.com/events/629a28543ef85c3ac00e5e83/629a4ba20de33e392ef7ff06/" class="eventable-link" target="_blank" data-key="629a28543ef85c3ac00e5e83" data-event="629a4ba20de33e392ef7ff06" data-style="1">Add to Calendar</a>
                 </td>
             </tr>
