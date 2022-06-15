@@ -236,4 +236,4 @@ GMT+1
 
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://plugins.eventable.com/eventable.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script', 'eventable-script');</script>
 
-<a href=https://calendar.google.com/calendar/u/0?cid=MjQydjZtZGFpcWQydWM0YzVlNDcxazA2Nm9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ target="_blank">Click here to add the OSR Schedule to Google Calendar!</a>
+[CLICK HERE TO ADD THE OSR SCHEDULE TO YOUR GOOGLE CALENDAR!](https://calendar.google.com/calendar/u/0?cid=MjQydjZtZGFpcWQydWM0YzVlNDcxazA2Nm9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
