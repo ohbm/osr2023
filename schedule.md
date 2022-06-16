@@ -3,6 +3,7 @@ layout: page
 title: Schedule
 ---
 
+
 <script>
 const ALL_DAYS = ["06-20", "06-21", "06-22", "06-23"];
 
@@ -139,7 +140,7 @@ GMT+1
                 <td>
                     <div>Panel 3: Open Code - 6 Myths Debunked</div>
                     <div><a href="https://www.crowdcast.io/e/panel-3-open-code-6" target="_blank">Click here to join this panel!</a></div>
-                    <a href="https://add.eventable.com/events/629a28543ef85c3ac00e5e83/629a4abd1fd9d50830ca3664/" class="eventable-link" target="_blank" data-key="629a28543ef85c3ac00e5e83" data-key="629a28543ef85c3ac00e5e83" data-style="1">Add to Calendar</a>
+                    <a href="https://add.eventable.com/events/629a28543ef85c3ac00e5e83/629a4a43a7c9374f60d948fd/" data-event="629a4a43a7c9374f60d948fd" class="eventable-link" target="_blank" data-key="629a28543ef85c3ac00e5e83" data-style="1">Add to Calendar</a>
                 </td>
             </tr>
             <tr>
@@ -152,7 +153,6 @@ GMT+1
         </table>
     </div>
 </div>
-
 
 <div id="schedule-06-22" class="schedule-block">
     <h4>June 22, Wednesday</h4>
@@ -234,6 +234,9 @@ GMT+1
 
 </div>
 
+<div class="schedule-leave-space-before-footer">
+    <a href="https://calendar.google.com/calendar/u/0?cid=MjQydjZtZGFpcWQydWM0YzVlNDcxazA2Nm9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ" target="_blank">CLICK HERE TO ADD THE OSR SCHEDULE TO YOUR GOOGLE CALENDAR!</a>
+</div>
+
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://plugins.eventable.com/eventable.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script', 'eventable-script');</script>
 
-[CLICK HERE TO ADD THE OSR SCHEDULE TO YOUR GOOGLE CALENDAR!](https://calendar.google.com/calendar/u/0?cid=MjQydjZtZGFpcWQydWM0YzVlNDcxazA2Nm9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)

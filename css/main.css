@@ -1327,12 +1327,19 @@ time.start-time, time.end-time {
   color: white;
 }
 
+/* The block contains iframes which are improperly loaded if we use display: none;*/
+/* Instead we just move the block far away left */
+/* As we use an absolute positioning, there is not a height computed anymore for the element */
+/* so we add below a div that has a large margin-top to leave space for the schedule */
 .schedule-block {
-  display: none;
+  position: absolute;
+  left: -5000px;
 }
 
 .schedule-block.active {
   display: block;
+  position: center;
+  left:0px;
 }
 
 .schedule-content {
@@ -1348,4 +1355,19 @@ time.start-time, time.end-time {
   text-align: center;
 }
 
+.schedule-leave-space-before-footer {
+  margin-top: 550px;
+}
+
+@media only screen and (max-width: 500px) {
+  .schedule-leave-space-before-footer {
+    margin-top:600px;
+  }
+}
+
+@media only screen and (max-width: 400px) {
+  .schedule-leave-space-before-footer {
+    margin-top:650px;
+  }
+}
 /* SCHEDULE END */
