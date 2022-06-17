@@ -10,7 +10,7 @@ As part of the OHBM program.
 ## Main Conference
 When: June 21st through 23rd 
 
-#### Table Talk 1: Open Publishing, what does it mean?
+#### Table Talk 1: Open Publishing
 
 <img src="../img/ads/tabletalks/1.png" width="70%">
 
@@ -18,7 +18,7 @@ When: June 21st through 23rd
 
 <img src="../img/ads/tabletalks/2.png" width="70%">
 
-#### Table Talk 3: Reproducible science and my role in it
+#### Table Talk 3: Reproducible science and my role in it 
 
 <img src="../img/ads/tabletalks/3.png" width="70%">
 
