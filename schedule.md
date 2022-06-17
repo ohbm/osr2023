@@ -179,7 +179,7 @@ GMT+1
                 </td>
             </tr>
             <tr>
-                <td>11:45 ➡ 12:45</td>
+                <td>12:45 ➡ 13:45</td>
                 <td>Table Talk 2: Charting a career path after the PhD with Thomas Yeo</td>
             </tr>
             <tr>
