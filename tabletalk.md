@@ -7,32 +7,28 @@ The OSR has always been a place to learn and share experiences. We are introduci
 
 As part of the OHBM program. 
 
+## Main Conference
+When: June 21st through 23rd 
+
+#### Table Talk 1: Open Publishing, what does it mean?
+
+<img src="../img/ads/tabletalks/1.png" width="70%">
+
+#### Table Talk 2: Charting a career path after the PhD
+
+<img src="../img/ads/tabletalks/2.png" width="70%">
+
+#### Table Talk 3: Reproducible science and my role in it
+
+<img src="../img/ads/tabletalks/3.png" width="70%">
+
+
 ## Virtual Poster Week
 
 ### Virtual Table Talk 1: Charting a career path after the PhD with Chao-Gan Yan <br/>
 
 June 8th, 9-10 am GMT+1 <br/>
 
-<img src="../img/ads/Chao_Gan_Yan.jpeg" width="80%">
-
 ### Virtual Table Talk 2: Lab Culture with Mariam Aly <br/>
 
 June 8th, 6-7 pm GMT+1 <br/>
-
-<img src="../img/ads/Mariam_Aly.jpeg" width="80%">
-
-
-## Main Conference
-When: June 21st through 23rd 
-
-#### Table Talk 1: Open Publishing, what does it mean?
-
-<img src="../img/ads/tabletalks/1.png" width="80%">
-
-#### Table Talk 2: Charting a career path after the PhD
-
-<img src="../img/ads/tabletalks/2.png" width="80%">
-
-#### Table Talk 3: Reproducible science and my role in it
-
-<img src="../img/ads/tabletalks/3.png" width="80%">
