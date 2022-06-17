@@ -1,14 +1,11 @@
 ---
 layout: page
-title: Table Talks Themes in 2022
+title: Table Topic Discussions in 2022
 ---
 
-The OSR has always been a place to learn and share experiences. We are introducing a new one to these experiences which we call it the 'Table Talks'. These will be informal discussions within the community including but not limited to trainees, early career to senior researchers, so for whomever would like to be a part of these discussions.
+The OSR has always been a place to learn and share experiences. We are introducing a new one to these experiences which we call it the 'Table Topics'. These will be informal discussions within the community including but not limited to trainees, early career to senior researchers, so for whomever would like to be a part of these discussions.
 
-As part of the OHBM program. 
-
-## Main Conference
-When: June 21st through 23rd 
+As part of the OHBM program.
 
 #### Table Talk 1: Open Publishing
 
