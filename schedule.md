@@ -120,8 +120,8 @@ GMT+1
             <tr>
                 <td>8:00-9:00</td>
                 <td>
-                    <div>Emergent #4</div>
-                    <a href="https://ohbm.github.io/osr2022/submit/" target="_blank">Request an Emergent Session</a>
+                    <div>Emergent #4: Brainstorming features and ideas for AFNI</div>
+                    <div><a href="https://www.crowdcast.io/e/osr-2022--emergent-4" target="_blank">Click here to join this session!</a></div>
                 </td>
             </tr>
             <tr>
