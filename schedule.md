@@ -140,7 +140,7 @@ GMT+1
             </tr>
             <tr>
                 <td>12:15-13:00</td>
-                <td>Table Talk 1: Open Publishing with Tonya White</td>
+                <td>Table Talk 1 (in-person only): Open Publishing with Tonya White</td>
             </tr>
             <tr>
                 <td>14:45-15:45</td>
@@ -187,7 +187,7 @@ GMT+1
             </tr>
             <tr>
                 <td>12:45-13:45</td>
-                <td>Table Talk 2: Charting a career path after the PhD with Thomas Yeo</td>
+                <td>Table Talk 2 (in-person only): Charting a career path after the PhD with Thomas Yeo</td>
             </tr>
             <tr>
                 <td>14:45-15:45</td>
@@ -233,7 +233,7 @@ GMT+1
             </tr>
             <tr>
                 <td>11:45-12:45</td>
-                <td>Table Talk 3: Reproducible Science and my role in it with Thomas Nichols</td>
+                <td>Table Talk 3 (in-person only): Reproducible Science and my role in it with Thomas Nichols</td>
             </tr>
             <tr>
                 <td>12:45-13:00</td>
