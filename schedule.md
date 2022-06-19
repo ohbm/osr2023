@@ -86,15 +86,15 @@ GMT+1
             <tr>
                 <td>16:45 ➡ 17:45</td>
                 <td>
-                    <div>Emergent #2</div>
-                    <a href="https://ohbm.github.io/osr2022/submit/" target="_blank">Request an Emergent Session</a>
+                    <div>Emergent #2: How the Neuroimaging Tools & Resources Collaboratory (NITRC) can help your research</div>
+                    <div><a href="https://www.crowdcast.io/e/osr-2022--emergent-2" target="_blank">Click here to join this session!</a></div>
                 </td>
             </tr>
             <tr>
                 <td>18:00 ➡ 19:00</td>
                 <td>
-                    <div>Emergent #3</div>
-                    <a href="https://ohbm.github.io/osr2022/submit/" target="_blank">Request an Emergent Session</a>
+                    <div>Emergent #3: Harmonized analysis of fMRI data using HALFpipe</div>
+                    <div><a href="https://www.crowdcast.io/e/osr-2022--emergent-3" target="_blank">Click here to join this session!</a></div>
                 </td>
             </tr>
         </table>
@@ -120,15 +120,15 @@ GMT+1
             <tr>
                 <td>10:15 ➡ 11:15</td>
                 <td>
-                    <div>Emergent #5</div>
-                    <a href="https://ohbm.github.io/osr2022/submit/" target="_blank">Request an Emergent Session</a>
+                    <div>Emergent #5: Snakebids: Reproducible neuroimaging workflows as BIDS apps</div>
+                    <div><a href="https://www.crowdcast.io/e/osr-2022--emergent-5" target="_blank">Click here to join this session!</a></div>
                 </td>
             </tr>
             <tr>
                 <td>11:15 ➡ 12:15</td>
                 <td>
-                    <div>Emergent #6</div>
-                    <a href="https://ohbm.github.io/osr2022/submit/" target="_blank">Request an Emergent Session</a>
+                    <div>Emergent #6: How the Neuroimaging Tools & Resources Collaboratory (NITRC) can help your research</div>
+                    <div><a href="https://www.crowdcast.io/e/osr-2022--emergent-6" target="_blank">Click here to join this session!</a></div>
                 </td>
             </tr>
             <tr>
@@ -146,8 +146,8 @@ GMT+1
             <tr>
                 <td>17:45 ➡ 18:45</td>
                 <td>
-                    <div>Emergent #7</div>
-                    <a href="https://ohbm.github.io/osr2022/submit/" target="_blank">Request an Emergent Session</a>
+                    <div>Emergent #7: Physiopy open meeting: Best practices in using physiological data to denoise functional timeseries</div>
+                    <div><a href="https://www.crowdcast.io/e/osr-2022--emergent-7" target="_blank">Click here to join this session!</a></div>
                 </td>
             </tr>
         </table>
@@ -192,8 +192,8 @@ GMT+1
             <tr>
                 <td>17:00 ➡ 18:00</td>
                 <td>
-                    <div>Emergent #10</div>
-                    <a href="https://ohbm.github.io/osr2022/submit/" target="_blank">Request an Emergent Session</a>
+                    <div>Emergent #10: Towards an Open Developer Community for Neuroimaging MATLAB Community Toolboxes</div>
+                    <div><a href="https://www.crowdcast.io/e/osr-2022--emergent-10" target="_blank">Click here to join this session!</a></div>
                 </td>
             </tr>
         </table>
