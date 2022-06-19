@@ -93,7 +93,7 @@ GMT+1
             <tr>
                 <td>16:45-17:45</td>
                 <td>
-                    <div>Emergent #2: How the Neuroimaging Tools & Resources Collaboratory (NITRC) can help your research</div>
+                    <div>Emergent #2: COINSTAC: A futuristic framework for collaborative big-data research</div>
                     <div><a href="https://www.crowdcast.io/e/osr-2022--emergent-2" target="_blank">Click here to join this session!</a></div>
                 </td>
             </tr>
