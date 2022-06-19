@@ -61,7 +61,11 @@ GMT+1
             </tr>
             <tr>
                 <td>8:00 ➡ 8:15</td>
-                <td>Opening Ceremony with ☕</td>
+                <td>
+                    <div>Opening Ceremony with ☕</div>
+                    <div><a href="https://www.crowdcast.io/e/panel-1-challenges-of" target="_blank">Click here to join this session!</a></div>
+                </td>
+
             </tr>
             <tr>
                 <td>8:15 ➡ 9:15</td>
@@ -211,7 +215,10 @@ GMT+1
             </tr>
             <tr>
                 <td>8:00 ➡ 9:00</td>
-                <td>Reflection about OHBM (Combined SIGs Event)</td>
+                <td>
+                    <div>Reflection about OHBM (Combined SIGs Event)</div>
+                    <div><a href="https://www.crowdcast.io/e/osr-2022--reflections" target="_blank">Click here to join this session!</a></div>
+                </td>
             </tr>
             <tr>
                 <td>10:30 ➡ 11:30</td>
@@ -227,7 +234,10 @@ GMT+1
             </tr>
             <tr>
                 <td>12:45 ➡ 13:00</td>
-                <td>Closing Ceremony</td>
+                <td>
+                    <div>Closing Ceremony</div>
+                    <div><a href="https://www.crowdcast.io/e/osr-2022--closing" target="_blank">Click here to join this session!</a></div>
+                </td>
             </tr>
         </table>
     </div>
