@@ -57,10 +57,10 @@ GMT+1
         <table class="osr-schedule">
             <tr>
                 <td>GMT+1</td>
-                <td>Open Science Room</td>
+                <td>OPEN SCIENCE ROOM</td>
             </tr>
             <tr>
-                <td>8:00 ➡ 8:15</td>
+                <td>8:00-8:15</td>
                 <td>
                     <div>Opening Ceremony with ☕</div>
                     <div><a href="https://www.crowdcast.io/e/panel-1-challenges-of" target="_blank">Click here to join this session!</a></div>
@@ -68,7 +68,7 @@ GMT+1
 
             </tr>
             <tr>
-                <td>8:15 ➡ 9:15</td>
+                <td>8:15-9:15</td>
                 <td>
                     <div>Panel 1: Challenges of Open Science in Developing Countries</div>
                     <div><a href="https://www.crowdcast.io/e/panel-1-challenges-of" target="_blank">Click here to join this panel!</a></div>
@@ -76,11 +76,14 @@ GMT+1
                 </td>
             </tr>
             <tr>
-                <td>10:30 ➡ 12:15</td>
-                <td>Emergent #1: BIDS Town Hall</td>
+                <td>10:30-12:15</td>
+                <td>
+                    <div>Emergent #1: BIDS Town Hall</div>
+                    <div><a href="https://www.crowdcast.io/e/osr-2022--emergent" target="_blank">Click here to join this session!</a></div>
+                </td>
             </tr>
             <tr>
-                <td>14:45 ➡ 15:45</td>
+                <td>14:45-15:45</td>
                 <td>
                     <div>Panel 2: Open Publishing</div>
                     <div><a href="https://www.crowdcast.io/e/panel-2-open-publishing" target="_blank">Click here to join this panel!</a></div>
@@ -88,14 +91,14 @@ GMT+1
                 </td>
             </tr>
             <tr>
-                <td>16:45 ➡ 17:45</td>
+                <td>16:45-17:45</td>
                 <td>
                     <div>Emergent #2: How the Neuroimaging Tools & Resources Collaboratory (NITRC) can help your research</div>
                     <div><a href="https://www.crowdcast.io/e/osr-2022--emergent-2" target="_blank">Click here to join this session!</a></div>
                 </td>
             </tr>
             <tr>
-                <td>18:00 ➡ 19:00</td>
+                <td>18:00-19:00</td>
                 <td>
                     <div>Emergent #3: Harmonized analysis of fMRI data using HALFpipe</div>
                     <div><a href="https://www.crowdcast.io/e/osr-2022--emergent-3" target="_blank">Click here to join this session!</a></div>
@@ -112,35 +115,35 @@ GMT+1
         <table class="osr-schedule">
             <tr>
                 <td>GMT+1</td>
-                <td>Open Science Room</td>
+                <td>OPEN SCIENCE ROOM</td>
             </tr>
             <tr>
-                <td>8:00 ➡ 9:00</td>
+                <td>8:00-9:00</td>
                 <td>
                     <div>Emergent #4</div>
                     <a href="https://ohbm.github.io/osr2022/submit/" target="_blank">Request an Emergent Session</a>
                 </td>
             </tr>
             <tr>
-                <td>10:15 ➡ 11:15</td>
+                <td>10:15-11:15</td>
                 <td>
                     <div>Emergent #5: Snakebids: Reproducible neuroimaging workflows as BIDS apps</div>
                     <div><a href="https://www.crowdcast.io/e/osr-2022--emergent-5" target="_blank">Click here to join this session!</a></div>
                 </td>
             </tr>
             <tr>
-                <td>11:15 ➡ 12:15</td>
+                <td>11:15-12:15</td>
                 <td>
                     <div>Emergent #6: How the Neuroimaging Tools & Resources Collaboratory (NITRC) can help your research</div>
                     <div><a href="https://www.crowdcast.io/e/osr-2022--emergent-6" target="_blank">Click here to join this session!</a></div>
                 </td>
             </tr>
             <tr>
-                <td>12:15 ➡ 13:00</td>
+                <td>12:15-13:00</td>
                 <td>Table Talk 1: Open Publishing with Tonya White</td>
             </tr>
             <tr>
-                <td>14:45 ➡ 15:45</td>
+                <td>14:45-15:45</td>
                 <td>
                     <div>Panel 3: Open Code - 6 Myths Debunked</div>
                     <div><a href="https://www.crowdcast.io/e/panel-3-open-code-6" target="_blank">Click here to join this panel!</a></div>
@@ -148,7 +151,7 @@ GMT+1
                 </td>
             </tr>
             <tr>
-                <td>17:45 ➡ 18:45</td>
+                <td>17:45-18:45</td>
                 <td>
                     <div>Emergent #7: Physiopy open meeting: Best practices in using physiological data to denoise functional timeseries</div>
                     <div><a href="https://www.crowdcast.io/e/osr-2022--emergent-7" target="_blank">Click here to join this session!</a></div>
@@ -165,10 +168,10 @@ GMT+1
         <table class="osr-schedule">
             <tr>
                 <td>GMT+1</td>
-                <td>Open Science Room</td>
+                <td>OPEN SCIENCE ROOM</td>
             </tr>
             <tr>
-                <td>8:00 ➡ 9:00</td>
+                <td>8:00-9:00</td>
                 <td>
                     <div>Panel 4: Emerging Statistical Perspectives in Promoting Reproducible Research</div>
                     <div><a href="https://www.crowdcast.io/e/panel-4-emerging-statistical" target="_blank">Click here to join this panel!</a></div>
@@ -176,25 +179,25 @@ GMT+1
                 </td>
             </tr>
             <tr>
-                <td>10:30 ➡ 11:30</td>
+                <td>10:30-11:30</td>
                 <td>
                     <div>Emergent #8</div>
                     <a href="https://ohbm.github.io/osr2022/submit/" target="_blank">Request an Emergent Session</a>
                 </td>
             </tr>
             <tr>
-                <td>12:45 ➡ 13:45</td>
+                <td>12:45-13:45</td>
                 <td>Table Talk 2: Charting a career path after the PhD with Thomas Yeo</td>
             </tr>
             <tr>
-                <td>14:45 ➡ 15:45</td>
+                <td>14:45-15:45</td>
                 <td>
                     <div>Emergent #9</div>
                     <a href="https://ohbm.github.io/osr2022/submit/" target="_blank">Request an Emergent Session</a>
                 </td>
             </tr>
             <tr>
-                <td>17:00 ➡ 18:00</td>
+                <td>17:00-18:00</td>
                 <td>
                     <div>Emergent #10: Towards an Open Developer Community for Neuroimaging MATLAB Community Toolboxes</div>
                     <div><a href="https://www.crowdcast.io/e/osr-2022--emergent-10" target="_blank">Click here to join this session!</a></div>
@@ -211,17 +214,17 @@ GMT+1
         <table class="osr-schedule">
             <tr>
                 <td>GMT+1</td>
-                <td>Open Science Room</td>
+                <td>OPEN SCIENCE ROOM</td>
             </tr>
             <tr>
-                <td>8:00 ➡ 9:00</td>
+                <td>8:00-9:00</td>
                 <td>
                     <div>Reflection about OHBM (Combined SIGs Event)</div>
                     <div><a href="https://www.crowdcast.io/e/osr-2022--reflections" target="_blank">Click here to join this session!</a></div>
                 </td>
             </tr>
             <tr>
-                <td>10:30 ➡ 11:30</td>
+                <td>10:30-11:30</td>
                 <td>
                     <div>Panel 5: Social Bias in Machine Learning</div>
                     <div><a href="https://www.crowdcast.io/e/panel-5-social-bias" target="_blank">Click here to join this panel!</a></div>
@@ -229,11 +232,11 @@ GMT+1
                 </td>
             </tr>
             <tr>
-                <td>11:45 ➡ 12:45</td>
+                <td>11:45-12:45</td>
                 <td>Table Talk 3: Reproducible Science and my role in it with Thomas Nichols</td>
             </tr>
             <tr>
-                <td>12:45 ➡ 13:00</td>
+                <td>12:45-13:00</td>
                 <td>
                     <div>Closing Ceremony</div>
                     <div><a href="https://www.crowdcast.io/e/osr-2022--closing" target="_blank">Click here to join this session!</a></div>
@@ -245,7 +248,7 @@ GMT+1
 </div>
 
 <div class="schedule-leave-space-before-footer">
-    <a href="https://calendar.google.com/calendar/u/0?cid=MjQydjZtZGFpcWQydWM0YzVlNDcxazA2Nm9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ" target="_blank">CLICK HERE TO ADD THE OSR SCHEDULE TO YOUR GOOGLE CALENDAR!</a>
+    <a href="https://calendar.google.com/calendar/u/0?cid=MjQydjZtZGFpcWQydWM0YzVlNDcxazA2Nm9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ" target="_blank">CLICK HERE to add the OSR schedule to your Google calendar!</a>
 </div>
 
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://plugins.eventable.com/eventable.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script', 'eventable-script');</script>
