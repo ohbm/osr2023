@@ -198,8 +198,8 @@ GMT+1
             <tr>
                 <td>14:45-15:45</td>
                 <td>
-                    <div>Emergent #9</div>
-                    <a href="https://ohbm.github.io/osr2022/submit/" target="_blank">Request an Emergent Session</a>
+                    <div>Emergent #9: NeuroLibre reproducible preprint server</div>
+                    <div><a href="https://www.crowdcast.io/e/osr-2022--emergent-9" target="_blank">Click here to join this session!</a></div>
                 </td>
             </tr>
             <tr>
