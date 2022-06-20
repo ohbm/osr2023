@@ -72,6 +72,15 @@ If you are a physiological data user or expert, or if you are simply curious abo
 
 ---
 
+### NeuroLibre reproducible preprint server
+#### 14:45-15:45 GMT+1 on June 22, 2022
+
+[NeuroLibre](https://neurolibre.org) is a curated repository of interactive neuroscience notebooks that seamlessly integrates data, text, code and figures. As we are getting closer to the beta release of NeuroLibre, we would like to solicit community contributions to publish more reproducible preprints! In this session, we would like to introduce the aim & scope of the NeuroLibre. Next, our plan is to showcase how to prepare, submit and publish a collection of notebooks as a full-blown reproducible preprint that belongs to the 21st Century!
+
+[Link to join!](https://www.crowdcast.io/e/osr-2022--emergent-9)
+
+---
+
 ### Towards an Open Developer Community for Neuroimaging MATLAB Community Toolboxes
 #### 17:00-18:00 GMT+1 on June 22, 2022
 
