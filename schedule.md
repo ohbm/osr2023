@@ -140,7 +140,10 @@ GMT+1
             </tr>
             <tr>
                 <td>12:15-13:00</td>
-                <td>Table Talk 1 (in-person only): Open Publishing with Tonya White</td>
+                <td>
+                    <div>Table Talk 1: Open Publishing with Tonya White</div>
+                    <div><a href="https://www.crowdcast.io/e/osr-2022--open-pub" target="_blank">Click here to join this session!</a></div>
+                </td>
             </tr>
             <tr>
                 <td>14:45-15:45</td>
@@ -187,7 +190,10 @@ GMT+1
             </tr>
             <tr>
                 <td>12:45-13:45</td>
-                <td>Table Talk 2 (in-person only): Charting a career path after the PhD with Thomas Yeo</td>
+                <td>
+                    <div>Table Talk 2: Charting a career path after the PhD with Thomas Yeo</div>
+<!--                     <div><a href="https://www.crowdcast.io/e/osr-2022--charting" target="_blank">Click here to join this session!</a></div> -->
+                </td>
             </tr>
             <tr>
                 <td>14:45-15:45</td>
@@ -233,7 +239,10 @@ GMT+1
             </tr>
             <tr>
                 <td>11:45-12:45</td>
-                <td>Table Talk 3 (in-person only): Reproducible Science and my role in it with Thomas Nichols</td>
+                <td>
+                    <div>Table Talk 3: Reproducible Science and my role in it with Thomas Nichols</div>
+<!--                     <div><a href="https://www.crowdcast.io/e/osr-2022--reproducible" target="_blank">Click here to join this session!</a></div> -->
+                </td>
             </tr>
             <tr>
                 <td>12:45-13:00</td>
