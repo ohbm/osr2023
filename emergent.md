@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Emergent Sessions!
+title: Emergent Sessions
 ---
 
 ### COINSTAC: A futuristic framework for collaborative big-data research
@@ -11,7 +11,7 @@ title: Emergent Sessions!
 
 Our goal is to introduce COINSTAC to researchers in developing countries with limited hardware, networking capabilities and technical expertise to make collaborative big-data research possible on a global scale. We would like to hear feedback on our tool in general including potential roadblocks and improvements to make our tool more researcher friendly. We welcome anyone who wants to contribute to the project with their algorithm development skills and coding skills. We would also like to work with organizations together on grants, that could help us answer interesting neuroscience related questions using COINSTAC, that could not have been possible otherwise.
 
-[Replay this session on Crowdcast!](https://www.crowdcast.io/e/osr-2022--emergent-2)
+[Replay on Crowdcast!](https://www.crowdcast.io/e/osr-2022--emergent-2)
 
 ---
 
@@ -22,7 +22,7 @@ In the ENIGMA consortium, when we set out to do fMRI meta analyses, we encounter
 
 In this session, it would be great to discuss the advantages and disadvantages of standardized pipelines such as HALFpipe, and more generally, how to integrate the diverse set of pipelines that are being developed within the community.
 
-[Replay this session on Crowdcast!](https://www.crowdcast.io/e/osr-2022--emergent-3)
+[Replay on Crowdcast!](https://www.crowdcast.io/e/osr-2022--emergent-3)
 
 ---
 
@@ -31,7 +31,7 @@ In this session, it would be great to discuss the advantages and disadvantages o
 
 The AFNI software developers' main goal is to helpkeep users close to their data. We receive new insights from researchers all the time, about FMRI, structural MRI, DWI and more analysis tools in [AFNI](https://github.com/afni). What would be more features to add/grow/develop? Let's chat.
 
-[Replay this session on Crowdcast!](https://www.crowdcast.io/e/osr-2022--emergent-4)
+[Replay on Crowdcast!](https://www.crowdcast.io/e/osr-2022--emergent-4)
 
 ---
 
@@ -41,7 +41,7 @@ The AFNI software developers' main goal is to helpkeep users close to their data
 Distributing a reproducible neuroimaging workflow that relies on multiple constituent tools is challenging, but made easier by the use of workflow management tools. One such tool, Snakemake, has become increasingly popular but is challenging to use with BIDS datasets. In this session, we introduce [Snakebids](https://github.com/akhanf/snakebids), an extension to Snakemake that makes it easier to write clear workflows for processing BIDS-formatted data, and exposes those workflows with the standard BIDS App interface.
 Our goals are to introduce Snakebids to a wider audience and solicit feedback, feature requests, and/or contributions.
 
-[Replay this session on Crowdcast!](https://www.crowdcast.io/e/osr-2022--emergent-5)
+[Replay on Crowdcast!](https://www.crowdcast.io/e/osr-2022--emergent-5)
 
 ---
 
@@ -55,7 +55,7 @@ If OSR members use NITRC already, we invite you to join to share what Collaborat
 [NITRC-Image Repository](https://nitrc.org/ir/)</br>
 [NITRC-Computational Environment](https://nitrc.org/ce/)</br>
 
-[Replay this session on Crowdcast!](https://www.crowdcast.io/e/osr-2022--emergent-6)
+[Replay on Crowdcast!](https://www.crowdcast.io/e/osr-2022--emergent-6)
 
 ---
 
@@ -64,9 +64,9 @@ If OSR members use NITRC already, we invite you to join to share what Collaborat
 
 [Physiopy](https://github.com/physiopy) is a community that develops solutions to improve the use of physiological signals (e.g. respiratory and cardiac related signals) in functional neuroimaging. Part of this effort is dedicated to compile best practices on how to record, clean, and use physiological data.
 
-In this emergent session, we want to invite physiological data experts and newbies alike to discuss the best practices in using physiological signals to denoise neuroimaging data (with a focus on functional MRI). In particular, following our Educational Course, we will discuss how respiratory and cardiac signals, as well as respiratory and cardiac information captured in the neuroimaging data, should (or should not) be used and modeled in an fMRI experiment.
+In this emergent session, organizers invite physiological data experts and newbies alike to discuss the best practices in using physiological signals to denoise neuroimaging data (with a focus on functional MRI). In particular, following their Educational Course, organizers will discuss how respiratory and cardiac signals, as well as respiratory and cardiac information captured in the neuroimaging data, should (or should not) be used and modeled in an fMRI experiment.
 
-If you are a physiological data user or expert, or if you are simply curious about how you can use physiological data in your functional MRI setting, feel free to join us!
+If you are a physiological data user or expert, or if you are simply curious about how you can use physiological data in your functional MRI setting, this is an emergent session for you!
 
 
 [Link to join!](https://www.crowdcast.io/e/osr-2022--emergent-7)
