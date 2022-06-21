@@ -39,8 +39,8 @@ function showScheduleForDay(day) {
 
 
 <div class="schedule-days">
-  <div id="day-06-20" class="schedule-day active" onclick="showScheduleForDay('06-20')">June 20</div>
-  <div id="day-06-21" class="schedule-day" onclick="showScheduleForDay('06-21')">June 21</div>
+  <div id="day-06-20" class="schedule-day" onclick="showScheduleForDay('06-20')">June 20</div>
+  <div id="day-06-21" class="schedule-day active" onclick="showScheduleForDay('06-21')">June 21</div>
   <div id="day-06-22" class="schedule-day" onclick="showScheduleForDay('06-22')">June 22</div>
   <div id="day-06-23" class="schedule-day" onclick="showScheduleForDay('06-23')">June 23</div>
 </div>
@@ -184,8 +184,8 @@ GMT+1
             <tr>
                 <td>10:30-11:30</td>
                 <td>
-                    <div>Emergent #8</div>
-                    <a href="https://ohbm.github.io/osr2022/submit/" target="_blank">Request an Emergent Session</a>
+                    <div>Emergent #8: Discussion of priorities for multi-echo fMRI methods development</div>
+                    <div><a href="https://www.crowdcast.io/e/osr-2022--emergent-8" target="_blank">Click here to join this session!</a></div>
                 </td>
             </tr>
             <tr>
