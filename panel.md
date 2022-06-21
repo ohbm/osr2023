@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Panel Themes in 2022
+title: Panels
 ---
 
 <html>
