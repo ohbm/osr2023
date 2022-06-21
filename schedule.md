@@ -72,7 +72,7 @@ GMT+1
                 <td>
                     <div>Panel 1: Challenges of Open Science in Developing Countries</div>
                     <div><a href="https://www.crowdcast.io/e/panel-1-challenges-of" target="_blank">Replay on Crowdcast</a></div>
-                    <a href="https://add.eventable.com/events/629a28543ef85c3ac00e5e83/629a28568622ac08962b8c7f" class="eventable-link" target="_blank" data-key="629a28543ef85c3ac00e5e83" data-event="629a28568622ac08962b8c7f" data-style="1">Add to Calendar</a>
+<!--                     <a href="https://add.eventable.com/events/629a28543ef85c3ac00e5e83/629a28568622ac08962b8c7f" class="eventable-link" target="_blank" data-key="629a28543ef85c3ac00e5e83" data-event="629a28568622ac08962b8c7f" data-style="1">Add to Calendar</a> -->
                 </td>
             </tr>
             <tr>
@@ -87,7 +87,7 @@ GMT+1
                 <td>
                     <div>Panel 2: Open Publishing</div>
                     <div><a href="https://www.crowdcast.io/e/panel-2-open-publishing" target="_blank">Replay on Crowdcast</a></div>
-                    <a href="https://add.eventable.com/events/629a28543ef85c3ac00e5e83/629a4a43a7c9374f60d948fd/" class="eventable-link" target="_blank" data-key="629a28543ef85c3ac00e5e83" data-event="629a4a43a7c9374f60d948fd" data-style="1">Add to Calendar</a>
+<!--                     <a href="https://add.eventable.com/events/629a28543ef85c3ac00e5e83/629a4a43a7c9374f60d948fd/" class="eventable-link" target="_blank" data-key="629a28543ef85c3ac00e5e83" data-event="629a4a43a7c9374f60d948fd" data-style="1">Add to Calendar</a> -->
                 </td>
             </tr>
             <tr>
@@ -149,15 +149,15 @@ GMT+1
                 <td>14:45-15:45</td>
                 <td>
                     <div>Panel 3: Open Code - 6 Myths Debunked</div>
-                    <div><a href="https://www.crowdcast.io/e/panel-3-open-code-6" target="_blank">Click here to join this panel!</a></div>
-                    <a href="https://add.eventable.com/events/629a28543ef85c3ac00e5e83/629a4a43a7c9374f60d948fd/" data-event="629a4a43a7c9374f60d948fd" class="eventable-link" target="_blank" data-key="629a28543ef85c3ac00e5e83" data-style="1">Add to Calendar</a>
+                    <div><a href="https://www.crowdcast.io/e/panel-3-open-code-6" target="_blank">Replay on Crowdcast</a></div>
+<!--                     <a href="https://add.eventable.com/events/629a28543ef85c3ac00e5e83/629a4a43a7c9374f60d948fd/" data-event="629a4a43a7c9374f60d948fd" class="eventable-link" target="_blank" data-key="629a28543ef85c3ac00e5e83" data-style="1">Add to Calendar</a> -->
                 </td>
             </tr>
             <tr>
                 <td>17:45-18:45</td>
                 <td>
                     <div>Emergent #7: Physiopy open meeting: Best practices in using physiological data to denoise functional timeseries</div>
-                    <div><a href="https://www.crowdcast.io/e/osr-2022--emergent-7" target="_blank">Click here to join this session!</a></div>
+                    <div><a href="https://www.crowdcast.io/e/osr-2022--emergent-7" target="_blank">Replay on Crowdcast</a></div>
                 </td>
             </tr>
         </table>
@@ -192,7 +192,7 @@ GMT+1
                 <td>12:45-13:45</td>
                 <td>
                     <div>Table Talk 2: Charting a career path after the PhD with Thomas Yeo</div>
-<!--                     <div><a href="https://www.crowdcast.io/e/osr-2022--charting" target="_blank">Click here to join this session!</a></div> -->
+                    <div><a href="https://www.crowdcast.io/e/osr-2022--charting" target="_blank">Click here to join this session!</a></div>
                 </td>
             </tr>
             <tr>
@@ -241,7 +241,7 @@ GMT+1
                 <td>11:45-12:45</td>
                 <td>
                     <div>Table Talk 3: Reproducible Science and my role in it with Thomas Nichols</div>
-<!--                     <div><a href="https://www.crowdcast.io/e/osr-2022--reproducible" target="_blank">Click here to join this session!</a></div> -->
+                    <div><a href="https://www.crowdcast.io/e/osr-2022--reproducible" target="_blank">Click here to join this session!</a></div>
                 </td>
             </tr>
             <tr>
