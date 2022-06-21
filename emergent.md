@@ -51,9 +51,9 @@ Our goals are to introduce Snakebids to a wider audience and solicit feedback, f
 Here you will learn what NITRC is doing to enable open science and research. You'll learn how to find NIH funded software and data resources, how to share your NIH funded resources, how the NITRC Computational Environment can save you time and money, and about the NITRC Community forums, calendar, and news.
 If OSR members use NITRC already, we invite you to join to share what Collaboratory resources you've found helpful to enable your research.
 
-[NITRC-Resources Registry](www.nitrc.org)</br>
-[NITRC-Image Repository](https://nitrc.org/ir/)</br>
-[NITRC-Computational Environment](https://nitrc.org/ce/)</br>
+[NITRC](www.nitrc.org)
+[Image Repository](https://nitrc.org/ir/)
+[Computational Environment](https://nitrc.org/ce/)
 
 [Replay on Crowdcast!](https://www.crowdcast.io/e/osr-2022--emergent-6)
 
