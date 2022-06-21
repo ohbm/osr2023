@@ -39,8 +39,8 @@ function showScheduleForDay(day) {
 
 
 <div class="schedule-days">
-  <div id="day-06-20" class="schedule-day" onclick="showScheduleForDay('06-20')">June 20</div>
-  <div id="day-06-21" class="schedule-day active" onclick="showScheduleForDay('06-21')">June 21</div>
+  <div id="day-06-20" class="schedule-day active" onclick="showScheduleForDay('06-20')">June 20</div>
+  <div id="day-06-21" class="schedule-day" onclick="showScheduleForDay('06-21')">June 21</div>
   <div id="day-06-22" class="schedule-day" onclick="showScheduleForDay('06-22')">June 22</div>
   <div id="day-06-23" class="schedule-day" onclick="showScheduleForDay('06-23')">June 23</div>
 </div>
