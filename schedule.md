@@ -63,7 +63,7 @@ GMT+1
                 <td>8:00-8:15</td>
                 <td>
                     <div>Opening Ceremony with ☕</div>
-                    <div><a href="https://www.crowdcast.io/e/panel-1-challenges-of" target="_blank">Click here to join this session!</a></div>
+                    <div><a href="https://www.crowdcast.io/e/panel-1-challenges-of" target="_blank">Replay on Crowdcast</a></div>
                 </td>
 
             </tr>
@@ -71,7 +71,7 @@ GMT+1
                 <td>8:15-9:15</td>
                 <td>
                     <div>Panel 1: Challenges of Open Science in Developing Countries</div>
-                    <div><a href="https://www.crowdcast.io/e/panel-1-challenges-of" target="_blank">Click here to join this panel!</a></div>
+                    <div><a href="https://www.crowdcast.io/e/panel-1-challenges-of" target="_blank">Replay on Crowdcast</a></div>
                     <a href="https://add.eventable.com/events/629a28543ef85c3ac00e5e83/629a28568622ac08962b8c7f" class="eventable-link" target="_blank" data-key="629a28543ef85c3ac00e5e83" data-event="629a28568622ac08962b8c7f" data-style="1">Add to Calendar</a>
                 </td>
             </tr>
@@ -79,14 +79,14 @@ GMT+1
                 <td>10:30-12:15</td>
                 <td>
                     <div>Emergent #1: BIDS Town Hall</div>
-                    <div><a href="https://www.crowdcast.io/e/osr-2022--emergent" target="_blank">Click here to join this session!</a></div>
+                    <div><a href="https://www.crowdcast.io/e/osr-2022--emergent" target="_blank">Replay on Crowdcast</a></div>
                 </td>
             </tr>
             <tr>
                 <td>14:45-15:45</td>
                 <td>
                     <div>Panel 2: Open Publishing</div>
-                    <div><a href="https://www.crowdcast.io/e/panel-2-open-publishing" target="_blank">Click here to join this panel!</a></div>
+                    <div><a href="https://www.crowdcast.io/e/panel-2-open-publishing" target="_blank">Replay on Crowdcast</a></div>
                     <a href="https://add.eventable.com/events/629a28543ef85c3ac00e5e83/629a4a43a7c9374f60d948fd/" class="eventable-link" target="_blank" data-key="629a28543ef85c3ac00e5e83" data-event="629a4a43a7c9374f60d948fd" data-style="1">Add to Calendar</a>
                 </td>
             </tr>
@@ -94,14 +94,14 @@ GMT+1
                 <td>16:45-17:45</td>
                 <td>
                     <div>Emergent #2: COINSTAC: A futuristic framework for collaborative big-data research</div>
-                    <div><a href="https://www.crowdcast.io/e/osr-2022--emergent-2" target="_blank">Click here to join this session!</a></div>
+                    <div><a href="https://www.crowdcast.io/e/osr-2022--emergent-2" target="_blank">Replay on Crowdcast</a></div>
                 </td>
             </tr>
             <tr>
                 <td>18:00-19:00</td>
                 <td>
                     <div>Emergent #3: Harmonized analysis of fMRI data using HALFpipe</div>
-                    <div><a href="https://www.crowdcast.io/e/osr-2022--emergent-3" target="_blank">Click here to join this session!</a></div>
+                    <div><a href="https://www.crowdcast.io/e/osr-2022--emergent-3" target="_blank">Replay on Crowdcast</a></div>
                 </td>
             </tr>
         </table>
@@ -121,28 +121,28 @@ GMT+1
                 <td>8:00-9:00</td>
                 <td>
                     <div>Emergent #4: Brainstorming features and ideas for AFNI</div>
-                    <div><a href="https://www.crowdcast.io/e/osr-2022--emergent-4" target="_blank">Click here to join this session!</a></div>
+                    <div><a href="https://www.crowdcast.io/e/osr-2022--emergent-4" target="_blank">Replay on Crowdcast</a></div>
                 </td>
             </tr>
             <tr>
                 <td>10:15-11:15</td>
                 <td>
                     <div>Emergent #5: Snakebids: Reproducible neuroimaging workflows as BIDS apps</div>
-                    <div><a href="https://www.crowdcast.io/e/osr-2022--emergent-5" target="_blank">Click here to join this session!</a></div>
+                    <div><a href="https://www.crowdcast.io/e/osr-2022--emergent-5" target="_blank">Replay on Crowdcast</a></div>
                 </td>
             </tr>
             <tr>
                 <td>11:15-12:15</td>
                 <td>
                     <div>Emergent #6: How the Neuroimaging Tools & Resources Collaboratory (NITRC) can help your research</div>
-                    <div><a href="https://www.crowdcast.io/e/osr-2022--emergent-6" target="_blank">Click here to join this session!</a></div>
+                    <div><a href="https://www.crowdcast.io/e/osr-2022--emergent-6" target="_blank">Replay on Crowdcast</a></div>
                 </td>
             </tr>
             <tr>
                 <td>12:15-13:00</td>
                 <td>
                     <div>Table Talk 1: Open Publishing with Tonya White</div>
-                    <div><a href="https://www.crowdcast.io/e/osr-2022--open-pub" target="_blank">Click here to join this session!</a></div>
+                    <div><a href="https://www.crowdcast.io/e/osr-2022--open-pub" target="_blank">Replay on Crowdcast</a></div>
                 </td>
             </tr>
             <tr>
