@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Table Topic Discussions in 2022
+title: Table Topic Discussions
 ---
 
 The OSR has always been a place to learn and share experiences. We are introducing a new one to these experiences which we call it the 'Table Topics'. These will be informal discussions within the community including but not limited to trainees, early career to senior researchers, so for whomever would like to be a part of these discussions.
