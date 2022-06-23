@@ -177,36 +177,36 @@ GMT+1
                 <td>8:00-9:00</td>
                 <td>
                     <div>Panel 4: Emerging Statistical Perspectives in Promoting Reproducible Research</div>
-                    <div><a href="https://www.crowdcast.io/e/panel-4-emerging-statistical" target="_blank">Click here to join this panel!</a></div>
-                    <a href="https://add.eventable.com/events/629a28543ef85c3ac00e5e83/629a4b4210e33846f6e40e62/" class="eventable-link" target="_blank" data-key="629a28543ef85c3ac00e5e83" data-event="629a4b4210e33846f6e40e62" data-style="1">Add to Calendar</a>
+                    <div><a href="https://www.crowdcast.io/e/panel-4-emerging-statistical" target="_blank">Replay on Crowdcast</a></div>
+<!--                     <a href="https://add.eventable.com/events/629a28543ef85c3ac00e5e83/629a4b4210e33846f6e40e62/" class="eventable-link" target="_blank" data-key="629a28543ef85c3ac00e5e83" data-event="629a4b4210e33846f6e40e62" data-style="1">Add to Calendar</a> -->
                 </td>
             </tr>
             <tr>
                 <td>10:30-11:30</td>
                 <td>
                     <div>Emergent #8: Discussion of priorities for multi-echo fMRI methods development</div>
-                    <div><a href="https://www.crowdcast.io/e/osr-2022--emergent-8" target="_blank">Click here to join this session!</a></div>
+                    <div><a href="https://www.crowdcast.io/e/osr-2022--emergent-8" target="_blank">Replay on Crowdcast</a></div>
                 </td>
             </tr>
             <tr>
                 <td>12:45-13:45</td>
                 <td>
                     <div>Table Talk 2: Charting a career path after the PhD with Thomas Yeo</div>
-                    <div><a href="https://www.crowdcast.io/e/osr-2022--charting" target="_blank">Click here to join this session!</a></div>
+                    <div><a href="https://www.crowdcast.io/e/osr-2022--charting" target="_blank">Replay on Crowdcast</a></div>
                 </td>
             </tr>
             <tr>
                 <td>14:45-15:45</td>
                 <td>
                     <div>Emergent #9: NeuroLibre reproducible preprint server</div>
-                    <div><a href="https://www.crowdcast.io/e/osr-2022--emergent-9" target="_blank">Click here to join this session!</a></div>
+                    <div><a href="https://www.crowdcast.io/e/osr-2022--emergent-9" target="_blank">Replay on Crowdcast</a></div>
                 </td>
             </tr>
             <tr>
                 <td>17:00-18:00</td>
                 <td>
                     <div>Emergent #10: Towards an Open Developer Community for Neuroimaging MATLAB Community Toolboxes</div>
-                    <div><a href="https://www.crowdcast.io/e/osr-2022--emergent-10" target="_blank">Click here to join this session!</a></div>
+                    <div><a href="https://www.crowdcast.io/e/osr-2022--emergent-10" target="_blank">Replay on Crowdcast</a></div>
                 </td>
             </tr>
         </table>
@@ -226,7 +226,7 @@ GMT+1
                 <td>8:00-9:00</td>
                 <td>
                     <div>Reflection about OHBM (Combined SIGs Event)</div>
-                    <div><a href="https://www.crowdcast.io/e/osr-2022--reflections" target="_blank">Click here to join this session!</a></div>
+                    <div><a href="https://www.crowdcast.io/e/osr-2022--reflections" target="_blank">Replay on Crowdcast</a></div>
                 </td>
             </tr>
             <tr>
@@ -234,7 +234,7 @@ GMT+1
                 <td>
                     <div>Panel 5: Social Bias in Machine Learning</div>
                     <div><a href="https://www.crowdcast.io/e/panel-5-social-bias" target="_blank">Click here to join this panel!</a></div>
-                    <a href="https://add.eventable.com/events/629a28543ef85c3ac00e5e83/629a4ba20de33e392ef7ff06/" class="eventable-link" target="_blank" data-key="629a28543ef85c3ac00e5e83" data-event="629a4ba20de33e392ef7ff06" data-style="1">Add to Calendar</a>
+<!--                     <a href="https://add.eventable.com/events/629a28543ef85c3ac00e5e83/629a4ba20de33e392ef7ff06/" class="eventable-link" target="_blank" data-key="629a28543ef85c3ac00e5e83" data-event="629a4ba20de33e392ef7ff06" data-style="1">Add to Calendar</a> -->
                 </td>
             </tr>
             <tr>
