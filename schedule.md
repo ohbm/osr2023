@@ -241,14 +241,14 @@ GMT+1
                 <td>11:45-12:45</td>
                 <td>
                     <div>Table Talk 3: Reproducible Science and my role in it with Thomas Nichols</div>
-                    <div><a href="https://www.crowdcast.io/e/osr-2022--reproducible" target="_blank">Click here to join this session!</a></div>
+                    <div><a href="https://www.crowdcast.io/e/osr-2022--reproducible" target="_blank">Replay on Crowdcast</a></div>
                 </td>
             </tr>
             <tr>
                 <td>12:45-13:00</td>
                 <td>
                     <div>Closing Ceremony</div>
-                    <div><a href="https://www.crowdcast.io/e/osr-2022--closing" target="_blank">Click here to join this session!</a></div>
+                    <div><a href="https://www.crowdcast.io/e/osr-2022--closing" target="_blank">Replay on Crowdcast</a></div>
                 </td>
             </tr>
         </table>
@@ -256,9 +256,9 @@ GMT+1
 
 </div>
 
-<div class="schedule-leave-space-before-footer">
+<!-- <div class="schedule-leave-space-before-footer">
     <a href="https://calendar.google.com/calendar/u/0?cid=MjQydjZtZGFpcWQydWM0YzVlNDcxazA2Nm9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ" target="_blank">CLICK HERE to add the OSR schedule to your Google calendar!</a>
 </div>
 
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://plugins.eventable.com/eventable.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script', 'eventable-script');</script>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://plugins.eventable.com/eventable.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script', 'eventable-script');</script> -->
 
