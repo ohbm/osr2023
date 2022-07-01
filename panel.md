@@ -174,7 +174,7 @@ document.getElementById("statistical-perspectives-panel").innerHTML = displayPan
 </html>
 
 ## Theme #5: Social Bias in Machine Learning
-### <a href="https://www.crowdcast.io/e/panel-5-social-bias" target="_blank">Click to join this panel!</a>  
+### <a href="https://www.crowdcast.io/e/panel-5-social-bias" target="_blank">Replay on Crowdcast</a>  
 When: 10:30 GMT+1 | June 23, 2022 (Thursday) <br/>
 <!-- <a href="https://add.eventable.com/events/629a28543ef85c3ac00e5e83/629a4ba20de33e392ef7ff06/" data-event="629a4ba20de33e392ef7ff06" class="eventable-link" target="_blank" data-key="629a28543ef85c3ac00e5e83" data-style="1">Add to Calendar</a><br/> -->
 <br/>
