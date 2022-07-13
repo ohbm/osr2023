@@ -10,8 +10,32 @@ Dates: Throughout the year <br>
 
 <ins>Tasks</ins>
 * Helping the core planning team with miscellaneous tasks 
+* Nominations will be open soon, consider joining the core planning team! 
 
 ---
+
+**Social Media Engagement** <br>
+Core skills: Twitter <br>
+Dates: Throughout the year <br>
+
+<ins>Tasks</ins>
+<!-- * Tweet announcements on a schedule before and during the OHBM. <br> -->
+* Tweet polls to engage with the community and advertise events. <br>
+
+---
+
+**Website Design** <br>
+Core skills: JavaScript <br>
+Dates: Throughout the year <br>
+Time commitment: 1-3 hours <br>
+
+<ins>Tasks</ins>
+
+* Improve the design of the website 
+
+---
+
+<!-- ---
 
 **Panel Session Managers** <br>
 Core skills: crowdcast, manage the chat and keep an eye on code of conduct <br>
@@ -41,37 +65,11 @@ Emergent sessions: live sessions, booked “on the fly” <br>
 
 Note: Submitted emergent requests will be briefly reviewed by the OSR team for appropriate content, and details communicated regarding how to book a slot in our schedule. <br>
 
----
-
 **Social Media Content Development** <br>
 Core skills: Twitter <br>
 Dates: Now - 20/06 <br>
 
 <ins>Tasks</ins>
 * Create OSR content to tweet before the conference. 
-* Advertise OSR until OHBM. 
-
----
-
-**Social Media Engagement** <br>
-Core skills: Twitter <br>
-Dates: Throughout the year <br>
-
-<ins>Tasks</ins>
-* Tweet announcements on a schedule before and during the OHBM. <br>
-* Tweet polls to engage with the community and advertise events. <br>
-
----
-
-**Website Design** <br>
-Core skills: JavaScript <br>
-Dates: Now! <br>
-Time commitment: 1-3 hours <br>
-
-<ins>Tasks</ins>
-
-* Improve the design of the website 
-
----
-
+* Advertise OSR until OHBM.  -->
 
