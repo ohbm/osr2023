@@ -4,7 +4,7 @@ title: Register for the OSR 2022!
 ---
 
 
-**Registration is closed. See you next at OHBM 2023!**
+**Registration is closed. See you at the OHBM 2023!**
 
 <!-- <p align="justify">
 If you are registerted you will find the passwords you need to join our live events at the Open Science SIG space. Please check out the OHBM schedule for OSR related events, search for "OSR". All showed events will take you to the right place and contain the log in information you need. 
