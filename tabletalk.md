@@ -15,12 +15,12 @@ The OSR has always been a place to learn and share experiences. We are introduci
 #### Table Talk 2: Charting a career path after the PhD
 
 <img src="../img/ads/tabletalks/2.png" width="70%">
-[Click to join!](https://www.crowdcast.io/e/osr-2022--charting)
+[Replay on Crowdcast](https://www.crowdcast.io/e/osr-2022--charting)
 
 #### Table Talk 3: Reproducible science and my role in it 
 
 <img src="../img/ads/tabletalks/3.png" width="70%">
-[Click to join!](https://www.crowdcast.io/e/osr-2022--reproducible)
+[Replay on Crowdcast](https://www.crowdcast.io/e/osr-2022--reproducible)
 
 ### Virtual Poster Week
 
