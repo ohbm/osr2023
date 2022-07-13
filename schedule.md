@@ -233,7 +233,7 @@ GMT+1
                 <td>10:30-11:30</td>
                 <td>
                     <div>Panel 5: Social Bias in Machine Learning</div>
-                    <div><a href="https://www.crowdcast.io/e/panel-5-social-bias" target="_blank">Click here to join this panel!</a></div>
+                    <div><a href="https://www.crowdcast.io/e/panel-5-social-bias" target="_blank">Replay on Crowdcast</a></div>
 <!--                     <a href="https://add.eventable.com/events/629a28543ef85c3ac00e5e83/629a4ba20de33e392ef7ff06/" class="eventable-link" target="_blank" data-key="629a28543ef85c3ac00e5e83" data-event="629a4ba20de33e392ef7ff06" data-style="1">Add to Calendar</a> -->
                 </td>
             </tr>
