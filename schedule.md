@@ -43,7 +43,7 @@ function showScheduleForDay(day) {
   <div id="day-07-23" class="schedule-day" onclick="showScheduleForDay('07-23')">July 23</div>
   <div id="day-07-24" class="schedule-day" onclick="showScheduleForDay('07-24')">July 24</div>
   <div id="day-07-25" class="schedule-day" onclick="showScheduleForDay('07-25')">July 25</div>
-  <div id="day-07-26" class="schedule-day" onclick="showScheduleForDay('07-26')">July 6</div>
+  <div id="day-07-26" class="schedule-day" onclick="showScheduleForDay('07-26')">July 26</div>
 </div>
 
 <h5 style="text-align: center;">
