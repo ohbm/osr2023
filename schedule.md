@@ -5,7 +5,7 @@ title: Schedule
 
 
 <script>
-const ALL_DAYS = ["06-20", "06-21", "06-22", "06-23"];
+const ALL_DAYS = ["07-22", "07-23", "07-24", "07-25", "07-26"];
 
 function setupActiveDayTab(activeDay) {
     /* First, remove the "active" classname for all tabs */
@@ -39,10 +39,11 @@ function showScheduleForDay(day) {
 
 
 <div class="schedule-days">
-  <div id="day-06-20" class="schedule-day active" onclick="showScheduleForDay('06-20')">June 20</div>
-  <div id="day-06-21" class="schedule-day" onclick="showScheduleForDay('06-21')">June 21</div>
-  <div id="day-06-22" class="schedule-day" onclick="showScheduleForDay('06-22')">June 22</div>
-  <div id="day-06-23" class="schedule-day" onclick="showScheduleForDay('06-23')">June 23</div>
+  <div id="day-07-22" class="schedule-day active" onclick="showScheduleForDay('07-22')">July 22</div>
+  <div id="day-07-23" class="schedule-day" onclick="showScheduleForDay('07-23')">July 23</div>
+  <div id="day-07-24" class="schedule-day" onclick="showScheduleForDay('07-24')">July 24</div>
+  <div id="day-07-25" class="schedule-day" onclick="showScheduleForDay('07-25')">July 25</div>
+  <div id="day-07-26" class="schedule-day" onclick="showScheduleForDay('07-26')">July 6</div>
 </div>
 
 <h5 style="text-align: center;">
@@ -50,13 +51,13 @@ GMT+1
 </h5>
 
 
-<div id="schedule-06-20" class="schedule-block active">
-    <h4>June 20, Monday</h4>
+<div id="schedule-07-22" class="schedule-block active">
+    <h4>July 22, Saturday</h4>
 
     <div class="schedule-content">
         <table class="osr-schedule">
             <tr>
-                <td>GMT+1</td>
+                <td>GMT-4</td>
                 <td>OPEN SCIENCE ROOM</td>
             </tr>
             <tr>
@@ -108,8 +109,8 @@ GMT+1
     </div>
 </div>
 
-<div id="schedule-06-21" class="schedule-block">
-    <h4>June 21, Tuesday</h4>
+<div id="schedule-07-23" class="schedule-block">
+    <h4>June 23, Monday</h4>
 
     <div class="schedule-content">
         <table class="osr-schedule">
@@ -164,8 +165,8 @@ GMT+1
     </div>
 </div>
 
-<div id="schedule-06-22" class="schedule-block">
-    <h4>June 22, Wednesday</h4>
+<div id="schedule-07-24" class="schedule-block">
+    <h4>July 24, Tuesday</h4>
 
     <div class="schedule-content">
         <table class="osr-schedule">
@@ -212,9 +213,50 @@ GMT+1
         </table>
     </div>
 </div>
-<div id="schedule-06-23" class="schedule-block">
+<div id="schedule-07-25" class="schedule-block">
 
-    <h4>June 23, Thursday</h4>
+    <h4>July 25, Wednesday</h4>
+
+    <div class="schedule-content">   
+        <table class="osr-schedule">
+            <tr>
+                <td>GMT+1</td>
+                <td>OPEN SCIENCE ROOM</td>
+            </tr>
+            <tr>
+                <td>8:00-9:00</td>
+                <td>
+                    <div>Reflection about OHBM (Combined SIGs Event)</div>
+                    <div><a href="https://www.crowdcast.io/e/osr-2022--reflections" target="_blank">Replay on Crowdcast</a></div>
+                </td>
+            </tr>
+            <tr>
+                <td>10:30-11:30</td>
+                <td>
+                    <div>Panel 5: Social Bias in Machine Learning</div>
+                    <div><a href="https://www.crowdcast.io/e/panel-5-social-bias" target="_blank">Replay on Crowdcast</a></div>
+<!--                     <a href="https://add.eventable.com/events/629a28543ef85c3ac00e5e83/629a4ba20de33e392ef7ff06/" class="eventable-link" target="_blank" data-key="629a28543ef85c3ac00e5e83" data-event="629a4ba20de33e392ef7ff06" data-style="1">Add to Calendar</a> -->
+                </td>
+            </tr>
+            <tr>
+                <td>11:45-12:45</td>
+                <td>
+                    <div>Table Talk 3: Reproducible Science and my role in it with Thomas Nichols</div>
+                    <div><a href="https://www.crowdcast.io/e/osr-2022--reproducible" target="_blank">Replay on Crowdcast</a></div>
+                </td>
+            </tr>
+            <tr>
+                <td>12:45-13:00</td>
+                <td>
+                    <div>Closing Ceremony</div>
+                    <div><a href="https://www.crowdcast.io/e/osr-2022--closing" target="_blank">Replay on Crowdcast</a></div>
+                </td>
+            </tr>
+        </table>
+    </div>
+    <div id="schedule-07-26" class="schedule-block">
+
+    <h4>July 26, Thursday</h4>
 
     <div class="schedule-content">   
         <table class="osr-schedule">
