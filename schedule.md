@@ -5,7 +5,7 @@ title: Schedule
 
 
 <script>
-const ALL_DAYS = ["07-22", "07-23", "07-24", "07-25", "07-26"];
+const ALL_DAYS = ["07-23", "07-24", "07-25", "07-26"];
 
 function setupActiveDayTab(activeDay) {
     /* First, remove the "active" classname for all tabs */
@@ -39,8 +39,7 @@ function showScheduleForDay(day) {
 
 
 <div class="schedule-days">
-  <div id="day-07-22" class="schedule-day active" onclick="showScheduleForDay('07-22')">July 22</div>
-  <div id="day-07-23" class="schedule-day" onclick="showScheduleForDay('07-23')">July 23</div>
+  <div id="day-07-23" class="schedule-day active" onclick="showScheduleForDay('07-23')">July 23</div>
   <div id="day-07-24" class="schedule-day" onclick="showScheduleForDay('07-24')">July 24</div>
   <div id="day-07-25" class="schedule-day" onclick="showScheduleForDay('07-25')">July 25</div>
   <div id="day-07-26" class="schedule-day" onclick="showScheduleForDay('07-26')">July 26</div>
@@ -49,65 +48,6 @@ function showScheduleForDay(day) {
 <h5 style="text-align: center;">
 GMT-4
 </h5>
-
-
-<div id="schedule-07-22" class="schedule-block active">
-    <h4>July 22, Saturday</h4>
-
-    <div class="schedule-content">
-        <table class="osr-schedule">
-            <tr>
-                <td>GMT-4</td>
-                <td>OPEN SCIENCE ROOM</td>
-            </tr>
-            <tr>
-                <td>8:00-8:15</td>
-                <td>
-                    <div>Opening Ceremony with ☕</div>
-                    <div><a href="https://www.crowdcast.io/e/panel-1-challenges-of" target="_blank">Replay on Crowdcast</a></div>
-                </td>
-
-            </tr>
-            <tr>
-                <td>8:15-9:15</td>
-                <td>
-                    <div>Panel 1: Challenges of Open Science in Developing Countries</div>
-                    <div><a href="https://www.crowdcast.io/e/panel-1-challenges-of" target="_blank">Replay on Crowdcast</a></div>
-<!--                     <a href="https://add.eventable.com/events/629a28543ef85c3ac00e5e83/629a28568622ac08962b8c7f" class="eventable-link" target="_blank" data-key="629a28543ef85c3ac00e5e83" data-event="629a28568622ac08962b8c7f" data-style="1">Add to Calendar</a> -->
-                </td>
-            </tr>
-            <tr>
-                <td>10:30-12:15</td>
-                <td>
-                    <div>Emergent #1: BIDS Town Hall</div>
-                    <div><a href="https://www.crowdcast.io/e/osr-2022--emergent" target="_blank">Replay on Crowdcast</a></div>
-                </td>
-            </tr>
-            <tr>
-                <td>14:45-15:45</td>
-                <td>
-                    <div>Panel 2: Open Publishing</div>
-                    <div><a href="https://www.crowdcast.io/e/panel-2-open-publishing" target="_blank">Replay on Crowdcast</a></div>
-<!--                     <a href="https://add.eventable.com/events/629a28543ef85c3ac00e5e83/629a4a43a7c9374f60d948fd/" class="eventable-link" target="_blank" data-key="629a28543ef85c3ac00e5e83" data-event="629a4a43a7c9374f60d948fd" data-style="1">Add to Calendar</a> -->
-                </td>
-            </tr>
-            <tr>
-                <td>16:45-17:45</td>
-                <td>
-                    <div>Emergent #2: COINSTAC: A futuristic framework for collaborative big-data research</div>
-                    <div><a href="https://www.crowdcast.io/e/osr-2022--emergent-2" target="_blank">Replay on Crowdcast</a></div>
-                </td>
-            </tr>
-            <tr>
-                <td>18:00-19:00</td>
-                <td>
-                    <div>Emergent #3: Harmonized analysis of fMRI data using HALFpipe</div>
-                    <div><a href="https://www.crowdcast.io/e/osr-2022--emergent-3" target="_blank">Replay on Crowdcast</a></div>
-                </td>
-            </tr>
-        </table>
-    </div>
-</div>
 
 <div id="schedule-07-23" class="schedule-block">
     <h4>June 23, Monday</h4>
