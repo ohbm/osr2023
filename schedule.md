@@ -115,7 +115,7 @@ GMT-4
     <div class="schedule-content">
         <table class="osr-schedule">
             <tr>
-                <td>GMT+1</td>
+                <td>GMT-4</td>
                 <td>OPEN SCIENCE ROOM</td>
             </tr>
             <tr>
@@ -171,7 +171,7 @@ GMT-4
     <div class="schedule-content">
         <table class="osr-schedule">
             <tr>
-                <td>GMT+1</td>
+                <td>GMT-4</td>
                 <td>OPEN SCIENCE ROOM</td>
             </tr>
             <tr>
@@ -220,7 +220,7 @@ GMT-4
     <div class="schedule-content">
         <table class="osr-schedule">
             <tr>
-                <td>GMT+1</td>
+                <td>GMT-4</td>
                 <td>OPEN SCIENCE ROOM</td>
             </tr>
             <tr>
@@ -269,7 +269,7 @@ GMT-4
     <div class="schedule-content">   
         <table class="osr-schedule">
             <tr>
-                <td>GMT+1</td>
+                <td>GMT-4</td>
                 <td>OPEN SCIENCE ROOM</td>
             </tr>
             <tr>
@@ -305,8 +305,6 @@ GMT-4
             
         </table>
     </div>
- 
-
 </div>
 
 <div class="schedule-leave-space-before-footer">
