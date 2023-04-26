@@ -16,7 +16,7 @@ The core OSR team was elected as part of the [OHBM Open Science Special Interest
             <aside>
             <header>
                 <img src="../img/team/subapriya_suppiah.jpg" style="height:200px; border-radius:50%;">
-                <h3>Roza Gunes Bayrak</h3>
+                <h3>Subapriya Suppiah</h3>
                 <h4>OSR Co-Chair</h4>
                 <h6>Universiti Putra Malaysia</h6>
                 <h4>
