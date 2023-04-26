@@ -24,10 +24,10 @@ The OSR has always been a place to learn and share experiences. We are introduci
 
 #### Table Talk 4: Shareable resources in neuroimaging
 
-<img src="../img/ads/tabletalks/1.png" width="70%">
+<img src="../img/ads/tabletalks/4.png" width="70%">
 [Replay on Crowdcast](https://www.crowdcast.io/os-sig)
 
-#### Table Talk 5: TBD
+#### Table Talk 5: Large open data repositories: sustainability and global implications of reuse
 
-<img src="../img/ads/tabletalks/1.png" width="70%">
+<img src="../img/ads/tabletalks/5.png" width="70%">
 [Replay on Crowdcast](https://www.crowdcast.io/os-sig)
