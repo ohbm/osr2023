@@ -15,14 +15,16 @@ The core OSR team was elected as part of the [OHBM Open Science Special Interest
             <a style="display:block; color:#05323F" href="../team_roza_gunes_bayrak">
             <aside>
             <header>
-                <img src="../img/team/roza_gunes_bayrak.jpg" style="height:200px; border-radius:50%;">
+                <img src="../img/team/subapriya_suppiah.jpg" style="height:200px; border-radius:50%;">
                 <h3>Roza Gunes Bayrak</h3>
-                <h4>OSR Chair</h4>
-                <h6>Department of Computer Science, Vanderbilt University</h6>
+                <h4>OSR Co-Chair</h4>
+                <h6>Universiti Putra Malaysia</h6>
                 <h4>
+                 <!--
                 <a target="_blank" href="https://twitter.com/redgreenblues"><i class="fa fa-twitter fa-2x" style="position: relative; top: 0px;text-indent:0px;  vertical-align: middle; margin-left:4px; margin-right:4px;"></i></a>
                 <a target="_blank" href="https://github.com/rgbayrak"><i class="fa fa-github fa-2x" style="position: relative; top: 0px; text-indent:0px; vertical-align: middle; margin-left:4px; margin-right:4px;"></i></a>
                 <a target="_blank" href="https://rgbayrak.github.io/"><i class="fa fa-external-link-square fa-2x" style="position: relative; top: 0px;text-indent:0px;  vertical-align: middle; margin-left:4px; margin-right:4px;"></i></a>
+                -->
                 </h4>
                 <br>
             </header>
@@ -33,14 +35,16 @@ The core OSR team was elected as part of the [OHBM Open Science Special Interest
             <a style="display:block; color:#05323F" href="../team_naomi_gaggi">
             <aside>
             <header>
-                <img src="../img/team/naomi_gaggi.jpg" style="height:200px; border-radius:50%;">
-                <h3>Naomi Gaggi</h3>
-                <h4>OSR Deputy Chair</h4>
-                <h6>City University of New York (CUNY) Graduate Center & CUNY School of Medicine at City College</h6>
+                <img src="../img/team/selma_lugtmeijer1.jpg" style="height:200px; border-radius:50%;">
+                <h3>Selma Lugtmeijer</h3>
+                <h4>OSR Co-Chair</h4>
+                <h6>City Brock University, Department of Psychology, Canada</h6>
                 <h4>
+                <!--
                 <a target="_blank" href="https://twitter.com/NaomiGaggi"><i class="fa fa-twitter fa-2x" style="position: relative; top: 0px;text-indent:0px;  vertical-align: middle; margin-left:4px; margin-right:4px;"></i></a>
                 <a target="_blank" href="https://github.com/NaomiGaggi"><i class="fa fa-github fa-2x" style="position: relative; top: 0px; text-indent:0px; vertical-align: middle; margin-left:4px; margin-right:4px;"></i></a>
                 <a target="_blank" href="https://NaomiGaggi.Wordpress.com"><i class="fa fa-external-link-square fa-2x" style="position: relative; top: 0px;text-indent:0px;  vertical-align: middle; margin-left:4px; margin-right:4px;"></i></a>
+                -->
                 </h4>
                 <br>
             </header>
@@ -51,14 +55,16 @@ The core OSR team was elected as part of the [OHBM Open Science Special Interest
             <a style="display:block; color:#05323F" href="../team_priya_suppiah">
             <aside>
             <header>
-                <img src="../img/team/subapriya_suppiah.jpg" style="height:200px; border-radius:50%;">
-                <h3>Subapriya Suppiah</h3>
-                <h4>OSR Chair Elect</h4>
-                <h6>Department of Radiology, Universiti Putra Malaysia</h6>
+                <img src="../img/team/yiju_lee1.jpg" style="height:200px; border-radius:50%;">
+                <h3>Yi-Ju Lee (Jean)</h3>
+                <h4>Treasurer Elect</h4>
+                <h6>Institute of Statistical Science, Academia Sinica, Taipei, Taiwan</h6>
                 <h4>
+                 <!--
                 <a target="_blank" href="https://twitter.com/SubapriyaSuppi1"><i class="fa fa-twitter fa-2x" style="position: relative; top: 0px;text-indent:0px;  vertical-align: middle; margin-left:4px; margin-right:4px;"></i></a>
                 <a target="_blank" href="https://github.com/Drpriyasiva"><i class="fa fa-github fa-2x" style="position: relative; top: 0px; text-indent:0px; vertical-align: middle; margin-left:4px; margin-right:4px;"></i></a>
                 <a target="_blank" href="https://www.linkedin.com/in/subapriya-suppiah-93375b8b/"><i class="fa fa-external-link-square fa-2x" style="position: relative; top: 0px;text-indent:0px;  vertical-align: middle; margin-left:4px; margin-right:4px;"></i></a>
+                -->
                 </h4>
                 <br>
             </header>
@@ -73,12 +79,14 @@ The core OSR team was elected as part of the [OHBM Open Science Special Interest
             <a style="display:block; color:#05323F" href="../team_janine_bijsterbosch">
             <aside>
             <header>
-                <img src="../img/team/janine_bijsterbosch.jpg" style="height:200px; border-radius:50%;">
-                <h3>Janine Bijsterbosch</h3>
+                <img src="../img/team/koen_haak1.jpg" style="height:200px; border-radius:50%;">
+                <h3>Koen Haak</h3>
                 <h4>OSSIG Chair</h4>
-                <h6>Department of Radiology, Washington University Medical School, Washington University</h6>
+                <h6>Donders Institute for Brain Cognition and Behaviour, Radboud University Medical Center, Nijmegen, The Netherlands</h6>
                 <h4>
+                 <!--
                 <a target="_blank" href="https://twitter.com/PersonomicsLab"><i class="fa fa-twitter fa-2x" style="position: relative; top: 0px;text-indent:0px;  vertical-align: middle; margin-left:4px; margin-right:4px;"></i></a>
+                -->
                 </h4>
                 <br>
             </header>
@@ -89,12 +97,14 @@ The core OSR team was elected as part of the [OHBM Open Science Special Interest
             <a style="display:block; color:#05323F" href="../team_stephanie_noble">
             <aside>
             <header>
-                <img src="../img/team/stephanie_noble.jpg" style="height:200px; border-radius:50%;">
-                <h3>Stephanie Noble</h3>
-                <h4>OSSIG Inclusivity Officer</h4>
-                <h6>Department of Radiology & Biomedical Imaging, Yale University</h6>
+                <img src="../img/team/gondova_andrea1.jpg" style="height:200px; border-radius:50%;">
+                <h3>Andrea Gondova</h3>
+                <h4>OSSIG Secretary</h4>
+                <h6>Université de Paris Cité, NeuroDiderot INSERM; UNIACT Neurospin CEA; Paris, France</h6>
                 <h4>
+                 <!--
                 <a target="_blank" href="https://twitter.com/sNeuroble"><i class="fa fa-twitter fa-2x" style="position: relative; top: 0px;text-indent:0px;  vertical-align: middle; margin-left:4px; margin-right:4px;"></i></a>
+                -->
                 </h4>
                 <br>
             </header>
@@ -105,12 +115,14 @@ The core OSR team was elected as part of the [OHBM Open Science Special Interest
             <a style="display:block; color:#05323F" href="../team_valentina_borghesani">
             <aside>
             <header>
-                <img src="../img/team/valentina_borghesani.jpg" style="height:200px; border-radius:50%;">
-                <h3>Valentina Borghesani</h3>
-                <h4>Community Liason Officer</h4>
-                <h6>Department of Psychology, Université de Montréal</h6>
+                <img src="../img/team/xiangzhen_kong1.jpg" style="height:200px; border-radius:50%;">
+                <h3>Xiangzhen Kong</h3>
+                <h4>OSR Co-Chair Elect</h4>
+                <h6> Department of Psychology and Behavioral Sciences, Zhejiang University</h6>
                 <h4>
+                <!--
                 <a target="_blank" href="https://twitter.com/vborghesani"><i class="fa fa-twitter fa-2x" style="position: relative; top: 0px;text-indent:0px;  vertical-align: middle; margin-left:4px; margin-right:4px;"></i></a>
+                -->
                 </h4>
                 <br>
             </header>
