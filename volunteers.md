@@ -167,7 +167,8 @@ Have a look at their contact links and bios below, and give them a virtual high-
                 {% endif %}
             {% endfor %}
 
-            <a style="display:block; color:#05323F" href="{{ site.baseurl }}{{person.url}}">
+            <!--<a style="display:block; color:#05323F" href="{{ site.baseurl }}{{person.url}}">-->
+            <a style="display:block; color:#05323F">
             <aside class="speaker-card {% if speaker.column %} {{ speaker.column }}{% endif %}">
             <header>
                 <img src="{{ site.baseurl }}{{ img_path }}" style="height:200px; border-radius:50%;">
