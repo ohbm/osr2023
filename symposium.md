@@ -39,10 +39,10 @@ It is widely acknowledged that open code is a prerequisite for transparency, rep
 <table class="people">
     <tr class="people">
         <td class="people">
-            <a style="display:block; color:#05323F" href="../team_naomi_gaggi">
+            <a style="display:block; color:#05323F">
             <aside>
             <header>
-                <img src="../img/team/selma_lugtmeijer1.jpg" style="height:200px; border-radius:50%;">
+                <img src="../img/team/X.jpg" style="height:200px; border-radius:50%;">
                 <h3>Hao-Ting Wang</h3>
                 <h6>Affilitation</h6>
                 <h4>
@@ -58,10 +58,10 @@ It is widely acknowledged that open code is a prerequisite for transparency, rep
             </a>
         </td>
         <td class="people">
-            <a style="display:block; color:#05323F" href="../team_priya_suppiah">
+            <a style="display:block; color:#05323F">
             <aside>
             <header>
-                <img src="../img/team/yiju_lee1.jpg" style="height:200px; border-radius:50%;">
+                <img src="../img/team/X.jpg" style="height:200px; border-radius:50%;">
                 <h3>Richard Bethlehem</h3>
                 <h6>Affilitation</h6>
                 <h4>
@@ -81,10 +81,10 @@ It is widely acknowledged that open code is a prerequisite for transparency, rep
 <table class="people">
     <tr class="people">
         <td class="people">
-            <a style="display:block; color:#05323F" href="../team_stephanie_noble">
+            <a style="display:block; color:#05323F">
             <aside>
             <header>
-                <img src="../img/team/gondova_andrea1.jpg" style="height:200px; border-radius:50%;">
+                <img src="../img/team/X.jpg" style="height:200px; border-radius:50%;">
                 <h3>Subapriya Suppiah</h3>
                 <h6>Affiliation</h6>
                 <h4>
@@ -101,7 +101,7 @@ It is widely acknowledged that open code is a prerequisite for transparency, rep
             <a style="display:block; color:#05323F">
             <aside>
             <header>
-                <img src="../img/team/xiangzhen_kong1.jpg" style="height:200px; border-radius:50%;">
+                <img src="../img/team/X.jpg" style="height:200px; border-radius:50%;">
                 <h3>Theodore D. Satterthwaite</h3>
                 <h6> Affiliation</h6>
                 <h4>
