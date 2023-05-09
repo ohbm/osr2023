@@ -98,7 +98,7 @@ It is widely acknowledged that open code is a prerequisite for transparency, rep
             </a>
         </td>
   <td class="people">
-            <a style="display:block; color:#05323F" href="../team_valentina_borghesani">
+            <a style="display:block; color:#05323F">
             <aside>
             <header>
                 <img src="../img/team/xiangzhen_kong1.jpg" style="height:200px; border-radius:50%;">
