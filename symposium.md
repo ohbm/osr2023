@@ -37,7 +37,6 @@ It is widely acknowledged that open code is a prerequisite for transparency, rep
 2. Gaining the appreciation of how open science practice is impacting different aspects of neuroscience
 3. Appreciation regarding various challenges associated with the open science practices and insight into strategies that help overcome these and ensure reproducible, sustainable open science of high quality in the long term.
 
-[add speakers and link to replay]
-<img src="../img/ads/tabletalks/1.png" width="70%">
-[Watch on Crowdcast](https://www.crowdcast.io/os-sig)
+
+
 
