@@ -12,7 +12,7 @@ The core OSR team was elected as part of the [OHBM Open Science Special Interest
 <table class="people">
     <tr class="people">
         <td class="people">
-            <a style="display:block; color:#05323F" href="../team_roza_gunes_bayrak">
+            <a style="display:block; color:#05323F" href="../team_priya_suppiah">
             <aside>
             <header>
                 <img src="../img/team/subapriya_suppiah.jpg" style="height:200px; border-radius:50%;">
