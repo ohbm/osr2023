@@ -16,7 +16,7 @@ title: Submit
   **Emergent sessions** are live discussions among a small group of panel members, mediated by a host. The discussions may cover more advanced topics related to open-science or EDI (Equality, Diversity and Inclusion) issues.
 </p>
 <p align="justify">
-During the OSR attendees can hold hybrid emergent sessions. They can request to hold such a session 3 days prior to the OSR, by creating an issue through our github repo, [template](https://github.com/ohbm/osr2022/issues/30). The OSR team will review these requests and notify everyone of their assigned sessions on June 19th, 5pm. 
+During the OSR attendees can hold hybrid emergent sessions. They can request to hold such a session until 3 days prior to the OSR 2023, by creating an issue through our github repo, [template](https://github.com/ohbm/osr2023/issues/1). The OSR team will review these requests and notify everyone of their assigned sessions on July 19th, 5pm. 
 </p>
 {::options parse_block_html="false" /}
 
