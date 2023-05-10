@@ -8,26 +8,26 @@ The OSR has always been a place to learn and share experiences. We are introduci
 ### As part of the OHBM 2023 program.
 
 #### Table Talk 1: Telehealth as a tool for open data research and sharing 
-WHEN: TBD
+WHEN: TBD <br>
 <img src="../img/ads/tabletalks/placeholder.jpg" width="70%">
 [Watch on Crowdcast](https://www.crowdcast.io/os-sig)
 
 #### Table Talk 2: Evolution of open publishing (To do or not to do?/Lessons learnt)
-WHEN: TBD
+WHEN: TBD  <br>
 <img src="../img/ads/tabletalks/placeholder.jpg" width="70%">
 [Watch on Crowdcast](https://www.crowdcast.io/os-sig)
 
 #### Table Talk 3: Standardization of code
-WHEN: TBD
+WHEN: TBD  <br>
 <img src="../img/ads/tabletalks/placeholder.jpg" width="70%">
 [Watch on Crowdcast](https://www.crowdcast.io/os-sig)
 
 #### Table Talk 4: Shareable resources in neuroimaging
-WHEN: TBD
+WHEN: TBD  <br>
 <img src="../img/ads/tabletalks/placeholder.jpg" width="70%">
 [Watch on Crowdcast](https://www.crowdcast.io/os-sig)
 
 #### Table Talk 5: Large open data repositories: sustainability and global implications of reuse
-WHEN: TBD
+WHEN: TBD  <br>
 <img src="../img/ads/tabletalks/placeholder.jpg" width="70%">
 [Watch on Crowdcast](https://www.crowdcast.io/os-sig)
