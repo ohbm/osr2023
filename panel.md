@@ -84,7 +84,7 @@ When: X:00 GMT-4 | July X, 2023 (X) <br/>
 <!-- <a href="https://add.eventable.com/events/629a28543ef85c3ac00e5e83/629a28568622ac08962b8c7f" class="eventable-link" target="_blank" data-key="629a28543ef85c3ac00e5e83" data-event="629a28568622ac08962b8c7f" data-style="1">Add to Calendar</a><br/> -->
 <br/>
 Neurological care is a challenge in any given situation, more so for those living in rural and suburban areas due to limited access. The usage of telemedicine and information and communication technology (ICT) can avail therapeutic measures to be instituted prior to transfer of patients to more urban hospices. Computerized image transfer and big data analysis to provide fast diagnostics in regions with limited resources are among the potential roles of neuroscience in impacting mainstream neurological management. This panel will focus on discussing the lessons learned that impact of telehealth in neurosciences, particularly in assisting fast diagnostics, improved post-surgical outcomes, and promotion of educational teleconferencing to enhance neurological services to the underprivileged and underserved rural community. It will also address on ways to leverage these tools to transmit data securely and explore how neuroscience has impacted telehealth practices worldwide. 
-<br>
+<br><br>
 At the end of the panel discussion, the audience members will be able to:
 1. Identify key roles of neuroscience in aiding the development and advancement of telehealth practices worldwide 
 2. Able to recognize potential challenges and gain insight on ways to overcome these pertaining to telehealth services in neurological conditions
@@ -104,7 +104,7 @@ When: X:00 GMT-4 | July X, 2023 (X) <br/>
 <!-- <a href="https://add.eventable.com/events/629a28543ef85c3ac00e5e83/629a4a43a7c9374f60d948fd/" data-event="629a4a43a7c9374f60d948fd" class="eventable-link" target="_blank" data-key="629a28543ef85c3ac00e5e83" data-style="1">Add to Calendar</a><br/> -->
 <br/>
 The world of scientific publishing changed exponentially in the past decade: More journals join forces to recommend authors to upload their manuscripts to preprint servers; Code and data are required to be made publicly available for replication. At the same time, journals are providing open access options, sometimes exclusively, which means that authors must pay a large amount of money (e.g., up to €9,500) for publishing one single paper. Journals also seek for new publishing models. For instance, the online journal eLife is running a new model of no rejection after peer review. Our generation is facing the rapid evolution of research publishing. We have noticed that researchers have different thoughts on these changes. Topics will include but not limit to: cultural changes regarding assessment of funding and paper quality; what model is more accessible – higher publication fees & open access vs. reader fees; auxiliary materials that accompany papers. 
-<br>
+<br><br>
 Questions adressed during this panel discussion will include:
 - How do journals balance cost and benefit? 
 - Have you benefited from the open materials (e.g., code and data) with published papers? And how do you deal with such materials of your own studies?
@@ -143,7 +143,7 @@ When: X:00 GMT-4 | July X, 2023 (X) <br/>
 <!-- <a href="https://add.eventable.com/events/629a28543ef85c3ac00e5e83/629a4b4210e33846f6e40e62/" data-event="629a4b4210e33846f6e40e62" class="eventable-link" target="_blank" data-key="629a28543ef85c3ac00e5e83" data-style="1">Add to Calendar</a><br/> -->
 <br/>
 The sharable open source data serves are the foundation of open science, requiring effective strategies for management and organization. As more and more data are accumulated, sustainable data usage requires interactions between front- and back-end engineers, scientists, data providers, and data users. A large amount of brain image data has been collected, anticipating solving the problems of varied data quality, limited funding resources, or having too little data for studying specific populations or rare diseases in neuroscience research. Taking the advantage of methodologies like AI, big data and multi-omics approaches, on the other hand, enables scientists and doctors to understand the brain from new perspectives. By establishing discussions in this panel session, we take large-scale opensource brain image datasets as examples and aim to reduce inequalities by promoting value-added data usage with experts from different domains. Moreover, the panel will also include discussions on legal and ethical issues.
-<br>
+<br><br>
 At the end of the panel discussion, the audience members will be able to:
 1. Acquire the information on the current available opensource brain image database.
 2. Understand how to properly use or collect open brain image data ethically and legally.  
