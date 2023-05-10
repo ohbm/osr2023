@@ -42,9 +42,9 @@ It is widely acknowledged that open code is a prerequisite for transparency, rep
             <a style="display:block; color:#05323F">
             <aside>
             <header>
-                <img src="../img/team/X.jpg" style="height:200px; border-radius:50%;">
+                <img src="../img/team/haoting_wang.jpg" style="height:200px; border-radius:50%;">
                 <h3>Hao-Ting Wang</h3>
-                <h6>Affilitation</h6>
+                <h6>Centre de recherche de l'institut Universitaire de gériatrie de Montréal</h6>
                 <h4>
                 <!--
                 <a target="_blank" href="https://twitter.com/NaomiGaggi"><i class="fa fa-twitter fa-2x" style="position: relative; top: 0px;text-indent:0px;  vertical-align: middle; margin-left:4px; margin-right:4px;"></i></a>
@@ -84,9 +84,9 @@ It is widely acknowledged that open code is a prerequisite for transparency, rep
             <a style="display:block; color:#05323F">
             <aside>
             <header>
-                <img src="../img/team/X.jpg" style="height:200px; border-radius:50%;">
+                <img src="../img/team/subapriya_suppiah.jpg" style="height:200px; border-radius:50%;">
                 <h3>Subapriya Suppiah</h3>
-                <h6>Affiliation</h6>
+                <h6>Universiti Putra Malaysia</h6>
                 <h4>
                  <!--
                 <a target="_blank" href="https://twitter.com/sNeuroble"><i class="fa fa-twitter fa-2x" style="position: relative; top: 0px;text-indent:0px;  vertical-align: middle; margin-left:4px; margin-right:4px;"></i></a>
