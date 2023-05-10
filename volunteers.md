@@ -12,7 +12,8 @@ The core OSR team was elected as part of the [OHBM Open Science Special Interest
 <table class="people">
     <tr class="people">
         <td class="people">
-            <a style="display:block; color:#05323F" href="../team_priya_suppiah">
+            <!--<a style="display:block; color:#05323F" href="../team_priya_suppiah">-->
+            <a style="display:block; color:#05323F" >
             <aside>
             <header>
                 <img src="../img/team/subapriya_suppiah.jpg" style="height:200px; border-radius:50%;">
@@ -32,7 +33,7 @@ The core OSR team was elected as part of the [OHBM Open Science Special Interest
             </a>
         </td>
         <td class="people">
-            <a style="display:block; color:#05323F" href="../team_naomi_gaggi">
+            <a style="display:block; color:#05323F">
             <aside>
             <header>
                 <img src="../img/team/selma_lugtmeijer1.jpg" style="height:200px; border-radius:50%;">
@@ -52,7 +53,7 @@ The core OSR team was elected as part of the [OHBM Open Science Special Interest
             </a>
         </td>
         <td class="people">
-            <a style="display:block; color:#05323F" href="../team_priya_suppiah">
+            <a style="display:block; color:#05323F" >
             <aside>
             <header>
                 <img src="../img/team/yiju_lee1.jpg" style="height:200px; border-radius:50%;">
@@ -76,7 +77,7 @@ The core OSR team was elected as part of the [OHBM Open Science Special Interest
 <table class="people">
     <tr class="people">
         <td class="people">
-            <a style="display:block; color:#05323F" href="../team_janine_bijsterbosch">
+            <a style="display:block; color:#05323F" >
             <aside>
             <header>
                 <img src="../img/team/koen_haak1.jpg" style="height:200px; border-radius:50%;">
@@ -94,7 +95,7 @@ The core OSR team was elected as part of the [OHBM Open Science Special Interest
             </a>
         </td>
         <td class="people">
-            <a style="display:block; color:#05323F" href="../team_stephanie_noble">
+            <a style="display:block; color:#05323F" >
             <aside>
             <header>
                 <img src="../img/team/gondova_andrea1.jpg" style="height:200px; border-radius:50%;">
@@ -112,7 +113,7 @@ The core OSR team was elected as part of the [OHBM Open Science Special Interest
             </a>
         </td>
   <td class="people">
-            <a style="display:block; color:#05323F" href="../team_valentina_borghesani">
+            <a style="display:block; color:#05323F" >
             <aside>
             <header>
                 <img src="../img/team/xiangzhen_kong1.jpg" style="height:200px; border-radius:50%;">
