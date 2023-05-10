@@ -9,25 +9,25 @@ The OSR has always been a place to learn and share experiences. We are introduci
 
 #### Table Talk 1: Telehealth as a tool for open data research and sharing 
 WHEN: TBD
-<img src="../img/ads/tabletalks/1.png" width="70%">
+<img src="../img/ads/tabletalks/placeholder.jpg" width="70%">
 [Watch on Crowdcast](https://www.crowdcast.io/os-sig)
 
 #### Table Talk 2: Evolution of open publishing (To do or not to do?/Lessons learnt)
 WHEN: TBD
-<img src="../img/ads/tabletalks/2.png" width="70%">
+<img src="../img/ads/tabletalks/placeholder.jpg" width="70%">
 [Watch on Crowdcast](https://www.crowdcast.io/os-sig)
 
 #### Table Talk 3: Standardization of code
 WHEN: TBD
-<img src="../img/ads/tabletalks/3.png" width="70%">
+<img src="../img/ads/tabletalks/placeholder.jpg" width="70%">
 [Watch on Crowdcast](https://www.crowdcast.io/os-sig)
 
 #### Table Talk 4: Shareable resources in neuroimaging
 WHEN: TBD
-<img src="../img/ads/tabletalks/4.png" width="70%">
+<img src="../img/ads/tabletalks/placeholder.jpg" width="70%">
 [Watch on Crowdcast](https://www.crowdcast.io/os-sig)
 
 #### Table Talk 5: Large open data repositories: sustainability and global implications of reuse
 WHEN: TBD
-<img src="../img/ads/tabletalks/5.png" width="70%">
+<img src="../img/ads/tabletalks/placeholder.jpg" width="70%">
 [Watch on Crowdcast](https://www.crowdcast.io/os-sig)
