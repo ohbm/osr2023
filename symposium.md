@@ -42,7 +42,7 @@ It is widely acknowledged that open code is a prerequisite for transparency, rep
             <a style="display:block; color:#05323F">
             <aside>
             <header>
-                <img src="../img/team/haoting_wang.jpg" style="height:200px; border-radius:50%;">
+                <img src="../img/speakers/haoting_wang.jpg" style="height:200px; border-radius:50%;">
                 <h3>Hao-Ting Wang</h3>
                 <h6>Centre de recherche de l'institut Universitaire de gériatrie de Montréal</h6>
                 <h4>
@@ -61,7 +61,7 @@ It is widely acknowledged that open code is a prerequisite for transparency, rep
             <a style="display:block; color:#05323F">
             <aside>
             <header>
-                <img src="../img/team/X.jpg" style="height:200px; border-radius:50%;">
+                <img src="../img/speakers/placeholder.jpg" style="height:200px; border-radius:50%;">
                 <h3>Richard Bethlehem</h3>
                 <h6>Affilitation</h6>
                 <h4>
@@ -101,7 +101,7 @@ It is widely acknowledged that open code is a prerequisite for transparency, rep
             <a style="display:block; color:#05323F">
             <aside>
             <header>
-                <img src="../img/team/X.jpg" style="height:200px; border-radius:50%;">
+                <img src="../img/speakers/placeholder.jpg" style="height:200px; border-radius:50%;">
                 <h3>Theodore D. Satterthwaite</h3>
                 <h6> Affiliation</h6>
                 <h4>
