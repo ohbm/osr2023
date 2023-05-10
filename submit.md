@@ -5,7 +5,7 @@ title: Submit
 
 <div id="submission"></div>
 <br>
-## Submission
+## Emergent Session Submissions
 {::options parse_block_html="true" /}
 <p align="justify">
   Before starting your submission make sure you are familiar with the [OSR formats](/formats.md){:target="_blank"}.
@@ -16,7 +16,9 @@ title: Submit
   **Emergent sessions** are live discussions among a small group of panel members, mediated by a host. The discussions may cover more advanced topics related to open-science or EDI (Equality, Diversity and Inclusion) issues.
 </p>
 <p align="justify">
-During the OSR attendees can hold hybrid emergent sessions. They can request to hold such a session until 3 days prior to the OSR 2023, by creating an issue through our github repo, [template](https://github.com/ohbm/osr2023/issues/1). The OSR team will review these requests and notify everyone of their assigned sessions on July 19th, 5pm. 
+During the OSR attendees can hold **hybrid emergent sessions**. <br> 
+They can request to hold such a session until 7 days prior to the OSR 2023, by creating an issue through our github repo, [template](https://github.com/ohbm/osr2023/issues/1).<br> 
+The OSR team will review these requests and notify everyone of their assigned sessions on July 17th, 5pm. 
 </p>
 {::options parse_block_html="false" /}
 
