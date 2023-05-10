@@ -3,7 +3,7 @@ layout: page
 title: OHBM 2023 Open Science Symposium: Sustainability through success stories
 ---
 
-WHEN: TBD
+##### WHEN: TBD
 
 We are also organisng during the OHBM 2023! <br><br>
 During  this symposium, the Open Science SIG will emphasize the theme of “sustainable open science” via insights shared by 4 speakers with extensive expertise within the open science community. During the talks, open science goals, such as: increased transparency, accountability, equity and collaboration in knowledge production, will be addressed in a non-didactic manner. The contribution of Open Science to moving the neuroimaging field forward and important practical sharing of experience towards a successful, sustainable Open Science research culture will also be discussed. <br><br>
