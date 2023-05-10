@@ -99,8 +99,6 @@ document.getElementById("open-science-panel").innerHTML = displayPanel("Open Sci
 When: X:00 GMT-4 | July X, 2023 (X) <br/>
 <!-- <a href="https://add.eventable.com/events/629a28543ef85c3ac00e5e83/629a4a43a7c9374f60d948fd/" data-event="629a4a43a7c9374f60d948fd" class="eventable-link" target="_blank" data-key="629a28543ef85c3ac00e5e83" data-style="1">Add to Calendar</a><br/> -->
 <br/>
-How will publishing high-quality research contributions including negative results and sharing supporting code and data, with an emphasis on replicability add value and move science forward? What are long term objectives and feasible actions for everyday researchers including established PIs, early career researchers (ECRs), as well as PhD students. <br/>
-<br/>
  text here !!!
 <html>
 <div class="panel-speakers" id="panel2"></div>
