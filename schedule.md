@@ -99,7 +99,7 @@ GMT-4
 </div>
 
 <div id="schedule-07-24" class="schedule-block">
-    <h4>July 24, Tuesday</h4>
+    <h4>July 24, Monday</h4>
 
     <div class="schedule-content">
         <table class="osr-schedule">
@@ -110,37 +110,30 @@ GMT-4
             <tr>
                 <td>8:00-9:00</td>
                 <td>
-                    <div>Panel 4: Emerging Statistical Perspectives in Promoting Reproducible Research</div>
-                    <div><a href="https://www.crowdcast.io/e/panel-4-emerging-statistical" target="_blank">Replay on Crowdcast</a></div>
+                    <div>OSR Panel 3: Standardization of code (tips)</div>
+                    <div><a href="https://www.crowdcast.io" target="_blank">Watch on Crowdcast</a></div>
 <!--                     <a href="https://add.eventable.com/events/629a28543ef85c3ac00e5e83/629a4b4210e33846f6e40e62/" class="eventable-link" target="_blank" data-key="629a28543ef85c3ac00e5e83" data-event="629a4b4210e33846f6e40e62" data-style="1">Add to Calendar</a> -->
                 </td>
             </tr>
             <tr>
                 <td>10:30-11:30</td>
                 <td>
-                    <div>Emergent #8: Discussion of priorities for multi-echo fMRI methods development</div>
-                    <div><a href="https://www.crowdcast.io/e/osr-2022--emergent-8" target="_blank">Replay on Crowdcast</a></div>
+                    <div>OSR: Emergent session #2</div>
+                    <div><a href="https://www.crowdcast.io" target="_blank">Watch on Crowdcast</a></div>
                 </td>
             </tr>
             <tr>
-                <td>12:45-13:45</td>
+                <td>12:15-13:00</td>
                 <td>
-                    <div>Table Talk 2: Charting a career path after the PhD with Thomas Yeo</div>
-                    <div><a href="https://www.crowdcast.io/e/osr-2022--charting" target="_blank">Replay on Crowdcast</a></div>
+                    <div>OSR Table Talk 3: Standardization of code (tips)</div>
+                    <div><a href="https://www.crowdcast.io/" target="_blank">Watch on Crowdcast</a></div>
                 </td>
             </tr>
             <tr>
                 <td>14:45-15:45</td>
                 <td>
-                    <div>Emergent #9: NeuroLibre reproducible preprint server</div>
-                    <div><a href="https://www.crowdcast.io/e/osr-2022--emergent-9" target="_blank">Replay on Crowdcast</a></div>
-                </td>
-            </tr>
-            <tr>
-                <td>17:00-18:00</td>
-                <td>
-                    <div>Emergent #10: Towards an Open Developer Community for Neuroimaging MATLAB Community Toolboxes</div>
-                    <div><a href="https://www.crowdcast.io/e/osr-2022--emergent-10" target="_blank">Replay on Crowdcast</a></div>
+                    <div>OSR: Emergent session #3</div>
+                    <div><a href="https://www.crowdcast.io" target="_blank">Watch on Crowdcast</a></div>
                 </td>
             </tr>
         </table>
@@ -148,7 +141,7 @@ GMT-4
 </div>
 
 <div id="schedule-07-25" class="schedule-block">
-    <h4>July 25, Wednesday</h4>
+    <h4>July 25, Tuesday</h4>
 
     <div class="schedule-content">
         <table class="osr-schedule">
@@ -159,37 +152,37 @@ GMT-4
             <tr>
                 <td>8:00-9:00</td>
                 <td>
-                    <div>Panel 4: Emerging Statistical Perspectives in Promoting Reproducible Research</div>
-                    <div><a href="https://www.crowdcast.io/e/panel-4-emerging-statistical" target="_blank">Replay on Crowdcast</a></div>
+                    <div>OSR Panel 4: Open Data Governance and Infrastructure - Sharable Resources in Neuroimaging</div>
+                    <div><a href="https://www.crowdcast.io" target="_blank">Watch on Crowdcast</a></div>
 <!--                     <a href="https://add.eventable.com/events/629a28543ef85c3ac00e5e83/629a4b4210e33846f6e40e62/" class="eventable-link" target="_blank" data-key="629a28543ef85c3ac00e5e83" data-event="629a4b4210e33846f6e40e62" data-style="1">Add to Calendar</a> -->
+                </td>
+            </tr>
+            <tr>
+                <td>8:00-9:15</td>
+                <td>
+                    <div>Morning Symposia: Open Science - sustainability through success stories</div>
+                    <div><a href="https://www.crowdcast.io" target="_blank">Watch on Crowdcast</a></div>
                 </td>
             </tr>
             <tr>
                 <td>10:30-11:30</td>
                 <td>
-                    <div>Emergent #8: Discussion of priorities for multi-echo fMRI methods development</div>
-                    <div><a href="https://www.crowdcast.io/e/osr-2022--emergent-8" target="_blank">Replay on Crowdcast</a></div>
+                    <div>OSR: Emergent session #4</div>
+                    <div><a href="https://www.crowdcast.io" target="_blank">Watch on Crowdcast</a></div>
                 </td>
             </tr>
             <tr>
-                <td>12:45-13:45</td>
+                <td>11:45-12:45</td>
                 <td>
-                    <div>Table Talk 2: Charting a career path after the PhD with Thomas Yeo</div>
-                    <div><a href="https://www.crowdcast.io/e/osr-2022--charting" target="_blank">Replay on Crowdcast</a></div>
+                    <div>OSR: Table Talk #4: Open Data Governance and Infrastructure - Sharable Resources in Neuroimaging</div>
+                    <div><a href="https://www.crowdcast.io" target="_blank">Watch on Crowdcast</a></div>
                 </td>
             </tr>
             <tr>
                 <td>14:45-15:45</td>
                 <td>
-                    <div>Emergent #9: NeuroLibre reproducible preprint server</div>
-                    <div><a href="https://www.crowdcast.io/e/osr-2022--emergent-9" target="_blank">Replay on Crowdcast</a></div>
-                </td>
-            </tr>
-            <tr>
-                <td>17:00-18:00</td>
-                <td>
-                    <div>Emergent #10: Towards an Open Developer Community for Neuroimaging MATLAB Community Toolboxes</div>
-                    <div><a href="https://www.crowdcast.io/e/osr-2022--emergent-10" target="_blank">Replay on Crowdcast</a></div>
+                    <div>OSR: Emergent session #5</div>
+                    <div><a href="https://www.crowdcast.io" target="_blank">Watch on Crowdcast</a></div>
                 </td>
             </tr>
         </table>
@@ -197,7 +190,7 @@ GMT-4
 </div>
 <div id="schedule-07-26" class="schedule-block">
 
-    <h4>July 26, Thursday</h4>
+    <h4>July 26, Wednesday</h4>
 
     <div class="schedule-content">   
         <table class="osr-schedule">
@@ -206,32 +199,18 @@ GMT-4
                 <td>OPEN SCIENCE ROOM</td>
             </tr>
             <tr>
-                <td>8:00-9:00</td>
-                <td>
-                    <div>Reflection about OHBM (Combined SIGs Event)</div>
-                    <div><a href="https://www.crowdcast.io/e/osr-2022--reflections" target="_blank">Replay on Crowdcast</a></div>
-                </td>
-            </tr>
-            <tr>
                 <td>10:30-11:30</td>
                 <td>
-                    <div>Panel 5: Social Bias in Machine Learning</div>
-                    <div><a href="https://www.crowdcast.io/e/panel-5-social-bias" target="_blank">Replay on Crowdcast</a></div>
-<!--                     <a href="https://add.eventable.com/events/629a28543ef85c3ac00e5e83/629a4ba20de33e392ef7ff06/" class="eventable-link" target="_blank" data-key="629a28543ef85c3ac00e5e83" data-event="629a4ba20de33e392ef7ff06" data-style="1">Add to Calendar</a> -->
+                    <div>OSR Panel 5: Community-driven topic</div>
+                    <div><a href="https://www.crowdcast.io" target="_blank">Watch on Crowdcast</a></div>
                 </td>
             </tr>
             <tr>
                 <td>11:45-12:45</td>
                 <td>
-                    <div>Table Talk 3: Reproducible Science and my role in it with Thomas Nichols</div>
-                    <div><a href="https://www.crowdcast.io/e/osr-2022--reproducible" target="_blank">Replay on Crowdcast</a></div>
-                </td>
-            </tr>
-            <tr>
-                <td>12:45-13:00</td>
-                <td>
-                    <div>Closing Ceremony</div>
-                    <div><a href="https://www.crowdcast.io/e/osr-2022--closing" target="_blank">Replay on Crowdcast</a></div>
+                    <div>OSR: Table Talk #5: Open Science Room: Community-driven topic</div>
+                    <div><a href="https://www.crowdcast.io" target="_blank">Watch on Crowdcast</a></div>
+<!--                     <a href="https://add.eventable.com/events/629a28543ef85c3ac00e5e83/629a4ba20de33e392ef7ff06/" class="eventable-link" target="_blank" data-key="629a28543ef85c3ac00e5e83" data-event="629a4ba20de33e392ef7ff06" data-style="1">Add to Calendar</a> -->
                 </td>
             </tr>
             
