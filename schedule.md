@@ -50,7 +50,7 @@ GMT-4
 </h5>
 
 <div id="schedule-07-23" class="schedule-block">
-    <h4>June 23, Monday</h4>
+    <h4>July 23, Sunday</h4>
 
     <div class="schedule-content">
         <table class="osr-schedule">
@@ -61,44 +61,37 @@ GMT-4
             <tr>
                 <td>8:00-9:00</td>
                 <td>
-                    <div>Emergent #4: Brainstorming features and ideas for AFNI</div>
-                    <div><a href="https://www.crowdcast.io/e/osr-2022--emergent-4" target="_blank">Replay on Crowdcast</a></div>
+                    <div>OSR Panel 1: Telehealth as a tool for open data research and sharing</div>
+                    <div><a href="https://www.crowdcast.io/" target="_blank">Watch on Crowdcast</a></div>
                 </td>
             </tr>
             <tr>
-                <td>10:15-11:15</td>
+                <td>10:30-11:30</td>
                 <td>
-                    <div>Emergent #5: Snakebids: Reproducible neuroimaging workflows as BIDS apps</div>
-                    <div><a href="https://www.crowdcast.io/e/osr-2022--emergent-5" target="_blank">Replay on Crowdcast</a></div>
+                    <div>OSR: Emergent Session #1</div>
+                    <div><a href="https://www.crowdcast.io/" target="_blank">Watch on Crowdcast</a></div>
                 </td>
             </tr>
             <tr>
-                <td>11:15-12:15</td>
+                <td>11:30-12:15</td>
                 <td>
-                    <div>Emergent #6: How the Neuroimaging Tools & Resources Collaboratory (NITRC) can help your research</div>
-                    <div><a href="https://www.crowdcast.io/e/osr-2022--emergent-6" target="_blank">Replay on Crowdcast</a></div>
+                    <div>OSR Table Talk 1: Telehealth as a tool for open data research and sharing in neurosciences</div>
+                    <div><a href="https://www.crowdcast.io/" target="_blank">Watch on Crowdcast</a></div>
                 </td>
             </tr>
             <tr>
-                <td>12:15-13:00</td>
+                <td>14:15-15:30</td>
                 <td>
-                    <div>Table Talk 1: Open Publishing with Tonya White</div>
-                    <div><a href="https://www.crowdcast.io/e/osr-2022--open-pub" target="_blank">Replay on Crowdcast</a></div>
+                    <div>OSR Panel 2: Evolution of open publishing (To do or not to do?/Lessons learnt)</div>
+                    <div><a href="https://www.crowdcast.io/" target="_blank">Watch on Crowdcast</a></div>
                 </td>
             </tr>
             <tr>
-                <td>14:45-15:45</td>
+                <td>16:45-17:30</td>
                 <td>
-                    <div>Panel 3: Open Code - 6 Myths Debunked</div>
-                    <div><a href="https://www.crowdcast.io/e/panel-3-open-code-6" target="_blank">Replay on Crowdcast</a></div>
+                    <div>OSR Table Talk 2: Evolution of open publishing (To do or not to do?/Lessons learnt)</div>
+                    <div><a href="https://www.crowdcast.io/" target="_blank">Watch on Crowdcast</a></div>
 <!--                     <a href="https://add.eventable.com/events/629a28543ef85c3ac00e5e83/629a4a43a7c9374f60d948fd/" data-event="629a4a43a7c9374f60d948fd" class="eventable-link" target="_blank" data-key="629a28543ef85c3ac00e5e83" data-style="1">Add to Calendar</a> -->
-                </td>
-            </tr>
-            <tr>
-                <td>17:45-18:45</td>
-                <td>
-                    <div>Emergent #7: Physiopy open meeting: Best practices in using physiological data to denoise functional timeseries</div>
-                    <div><a href="https://www.crowdcast.io/e/osr-2022--emergent-7" target="_blank">Replay on Crowdcast</a></div>
                 </td>
             </tr>
         </table>
