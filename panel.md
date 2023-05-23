@@ -139,7 +139,7 @@ document.getElementById("open-code-panel").innerHTML = displayPanel("Open Code")
 
 ## Topic 4: Shareable resources in neuroimaging
 ### <a href="https://www.crowdcast.io" target="_blank">Watch on Crowdcast</a> 
-When: 8:00 GMT-4 | July 25, 2023 (Tuesday) <br/>
+When: 10:30 GMT-4 | July 25, 2023 (Tuesday) <br/>
 <!-- <a href="https://add.eventable.com/events/629a28543ef85c3ac00e5e83/629a4b4210e33846f6e40e62/" data-event="629a4b4210e33846f6e40e62" class="eventable-link" target="_blank" data-key="629a28543ef85c3ac00e5e83" data-style="1">Add to Calendar</a><br/> -->
 <br/>
 The sharable open source data serves are the foundation of open science, requiring effective strategies for management and organization. As more and more data are accumulated, sustainable data usage requires interactions between front- and back-end engineers, scientists, data providers, and data users. A large amount of brain image data has been collected, anticipating solving the problems of varied data quality, limited funding resources, or having too little data for studying specific populations or rare diseases in neuroscience research. Taking the advantage of methodologies like AI, big data and multi-omics approaches, on the other hand, enables scientists and doctors to understand the brain from new perspectives. By establishing discussions in this panel session, we take large-scale opensource brain image datasets as examples and aim to reduce inequalities by promoting value-added data usage with experts from different domains. Moreover, the panel will also include discussions on legal and ethical issues.
