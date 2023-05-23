@@ -17,14 +17,14 @@ title: Submit
 </p>
 <p align="justify">
 During the OSR attendees can hold **hybrid emergent sessions**. <br> 
-This year we offer **5 slots**:
+This year we offer **5 slots**:<br>
 **10.30-11.30 (GMT -4) July 23** (Sunday) : OSR: Emergent Session #1 <br>
 **10.30-11.30 (GMT -4) July 24** (Monday) : OSR: Emergent Session #2 <br>
 **14.45-15.45 (GMT -4) July 24** (Monday) : OSR: Emergent Session #3 <br>
 **8.00-9.00 (GMT -4) July 25** (Tuesday): OSR: Emergent Session #4 <br>
 **14.45-15.45 (GMT -4) July 25** (Tuesday): OSR: Emergent Session #5 <br>
 <br> 
-You can request to hold such a session until June 25 (12pm anywhere on Earth) by creating an issue through our github repo, [template](https://github.com/ohbm/osr2023/issues/1).<br> 
+You can request to hold such a session until June 25 (12pm anywhere on Earth) by creating an issue through our github repo: [template](https://github.com/ohbm/osr2023/issues/1).<br> 
 After this date, the sessions will be reviewed based on their timeliness and interest to the open science audience by the OSR team and we will notify everyone of their assigned sessions in early July. <br> 
 </p>
 {::options parse_block_html="false" /}
