@@ -152,7 +152,7 @@ GMT-4
             <tr>
                 <td>8:00-9:00</td>
                 <td>
-                    <div>OSR Panel 4: Open Data Governance and Infrastructure - Sharable Resources in Neuroimaging</div>
+                    <div>OSR: Emergent session #4</div>
                     <div><a href="https://www.crowdcast.io" target="_blank">Watch on Crowdcast</a></div>
 <!--                     <a href="https://add.eventable.com/events/629a28543ef85c3ac00e5e83/629a4b4210e33846f6e40e62/" class="eventable-link" target="_blank" data-key="629a28543ef85c3ac00e5e83" data-event="629a4b4210e33846f6e40e62" data-style="1">Add to Calendar</a> -->
                 </td>
@@ -167,7 +167,7 @@ GMT-4
             <tr>
                 <td>10:30-11:30</td>
                 <td>
-                    <div>OSR: Emergent session #4</div>
+                    <div>OSR Panel 4: Open Data Governance and Infrastructure - Sharable Resources in Neuroimaging</div>
                     <div><a href="https://www.crowdcast.io" target="_blank">Watch on Crowdcast</a></div>
                 </td>
             </tr>
