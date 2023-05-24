@@ -24,7 +24,7 @@ WHEN: 12.15 (GMT -4), July 24 (Monday)  <br>
 
 #### Table Talk 4: Shareable resources in neuroimaging
 WHEN: 11.45 (GMT -4), July 25 (Tuesday)  <br>
-<img src="../img/ads/tabletalks/4r.jpg" width="70%">
+<img src="../img/ads/tabletalks/4.jpg" width="70%">
 [Watch on Crowdcast](https://www.crowdcast.io/os-sig)
 
 #### Table Talk 5: Large open data repositories: sustainability and global implications of reuse
