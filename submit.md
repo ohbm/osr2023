@@ -14,7 +14,24 @@ title: Submit
 {::options parse_block_html="true" /}
 
 ## Panel Self-Nomination Submissions 
-PITCH AND LINK HERE!!!
+
+{::options parse_block_html="false" /}
+{::options parse_block_html="true" /}
+<p align="justify">
+  PANEL session pitch here!
+</p>
+<p align="justify">
+You can self-nominate as a speaker for the following **hybrid panel discussions**: <br> 
+**8:00 GMT-4 | July 23, 2023 (Sunday)**: Topic 1: Telehealth as a tool for open data research and sharing <br>
+**14:15 GMT-4 | July 23, 2023 (Sunday)**: Topic 2: Evolution of open publishing (To do or not to do?/Lessons learnt) <br>
+**8:00 GMT-4 | July 24, 2023 (Monday)**: Topic 3: Standardization of code <br>
+**10:30 GMT-4 | July 25, 2023 (Tuesday)**: Topic 4: Shareable resources in neuroimaging <br>
+**10:30 GMT-4 | July 36, 2023 (Wednesday)**: Topic 5: Large open data repositories: sustainability and global implications of reuse <br><br>
+ 
+**You can request to hold such a session until June 25 (12pm anywhere on Earth) through this [form](link to form).**<br> <br>
+After this date, the sessions will be reviewed based on their timeliness and interest to the open science audience by the OSR team and we will notify everyone of their assigned sessions in early July. <br> 
+</p>
+{::options parse_block_html="false" /}
 
 ## Emergent Session Submissions
 
