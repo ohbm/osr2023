@@ -13,12 +13,12 @@ title: Submit
 This year, you can **self-nominate** as a speakers for one of our **panel discussions** and/or submit your own **emergent session**. 
 
 <p align="justify">
-  Before starting your submission make sure you are familiar with the [OSR formats](/formats.md).
+  Before starting your submission make sure you are familiar with the [OSR formats](/formats.md){:target="_blank"}.
 </p>
 
 <p align="justify">
-  We are also always **looking for volunteers** to help us with the organisation of the OSR activities. If you are interested to join is, please, fill in this [form](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAMAAC9pqdJUNkFPS1UxWDRNNTNFQkhVTk00TVZWTEM0OS4u) <br><br>
-  You can find more info on volunteering opportunities [here](https://ohbm.github.io/osr2023/opportunities/) or by contacting us through e-mail: ohbmopenscience@gmail.com
+  We are also always **looking for volunteers** to help us with the organisation of the OSR activities. If you are interested to join is, please, fill in this [form](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAMAAC9pqdJUNkFPS1UxWDRNNTNFQkhVTk00TVZWTEM0OS4u){:target="_blank"} <br><br>
+  You can find more info on volunteering opportunities [here](https://ohbm.github.io/osr2023/opportunities/){:target="_blank"} or by contacting us through e-mail: ohbmopenscience@gmail.com
 </p>
 
 ## Panel Discussion Self-Nominations 
@@ -34,7 +34,7 @@ You can self-nominate as a speaker for the following **hybrid panel discussions*
 **10:30 GMT-4 July 25, 2023** (Tuesday): Topic 4: Shareable resources in neuroimaging <br>
 **10:30 GMT-4 July 36, 2023** (Wednesday): Topic 5: Large open data repositories: sustainability and global implications of reuse <br><br>
  
-**You can request to hold such a session until June 25 (12pm anywhere on Earth) through this [form](https://forms.office.com/r/sWBzuATwDp](https://forms.office.com/r/sWBzuATwDp).**<br> <br>
+**You can request to hold such a session until June 25 (12pm anywhere on Earth) through this [form](https://forms.office.com/r/sWBzuATwDp]{:target="_blank"}.**<br> <br>
 After this date, the sessions will be reviewed based on their timeliness and interest to the open science audience by the OSR team and we will notify everyone of their assigned sessions in early July. <br> 
 </p>
 {::options parse_block_html="false" /}
@@ -55,7 +55,7 @@ This year we offer **5 slots**:<br>
 **8.00-9.00 (GMT -4) July 25** (Tuesday): OSR: Emergent Session #4 <br>
 **14.45-15.45 (GMT -4) July 25** (Tuesday): OSR: Emergent Session #5 <br>
 <br> 
-**You can request to hold such a session until June 25 (12pm anywhere on Earth) by creating an issue through our github repo [template](https://github.com/ohbm/osr2023/issues/1).**<br> <br>
+**You can request to hold such a session until June 25 (12pm anywhere on Earth) by creating an issue through our github repo [template](https://github.com/ohbm/osr2023/issues/1){:target="_blank"}.**<br> <br>
 After this date, the sessions will be reviewed based on their timeliness and interest to the open science audience by the OSR team and we will notify everyone of their assigned sessions in early July. <br> 
 </p>
 {::options parse_block_html="false" /}
