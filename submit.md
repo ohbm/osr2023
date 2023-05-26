@@ -5,7 +5,8 @@ title: Submit
 
 <div id="submission"></div>
 <br>
-### Self-nominations OPEN !!! 
+# Submissions NOW OPEN !!!
+This year, you can **self-nominate** as a speakers for one of our **panel discussions** and/or submit your own **emergent session**. 
 {::options parse_block_html="true" /}
 <p align="justify">
   Before starting your submission make sure you are familiar with the [OSR formats](/formats.md){:target="_blank"}.
@@ -13,7 +14,7 @@ title: Submit
 {::options parse_block_html="false" /}
 {::options parse_block_html="true" /}
 
-## Panel Self-Nomination Submissions 
+## Panel Discussion Self-Nominations 
 
 {::options parse_block_html="false" /}
 {::options parse_block_html="true" /}
