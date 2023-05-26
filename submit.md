@@ -6,25 +6,25 @@ title: Submit
 <div id="submission"></div>
 <br>
 # Submissions NOW OPEN !!!
-This year, you can **self-nominate** as a speakers for one of our **panel discussions** and/or submit your own **emergent session**. 
+
+{::options parse_block_html="false" /}
 {::options parse_block_html="true" /}
+
+This year, you can **self-nominate** as a speakers for one of our **panel discussions** and/or submit your own **emergent session**. 
+
 <p align="justify">
-  Before starting your submission make sure you are familiar with the [OSR formats](/formats.md){:target="_blank"}.
+  Before starting your submission make sure you are familiar with the [OSR formats](/formats.md).
 </p>
 
 <p align="justify">
   We are also always looking for volunteers to help us with the organisation of the OSR activities. If you are interested to join is, please, fill in this [form](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAMAAC9pqdJUNkFPS1UxWDRNNTNFQkhVTk00TVZWTEM0OS4u). <br>
   You can find more info on volunteering opportunities [gere](https://ohbm.github.io/osr2023/opportunities/) or by contacting us through e-mail: ohbmopenscience@gmail.com
 </p>
-{::options parse_block_html="false" /}
-{::options parse_block_html="true" /}
 
 ## Panel Discussion Self-Nominations 
 
-{::options parse_block_html="false" /}
-{::options parse_block_html="true" /}
 <p align="justify">
-  PANEL session pitch here!
+**Panel Sessions** are discussions amongst selected speakers and OSR attendees about various relevant topics, spanning across all aspects of open science practices.
 </p>
 <p align="justify">
 You can self-nominate as a speaker for the following **hybrid panel discussions**: <br> 
