@@ -17,7 +17,7 @@ This year, you can **self-nominate** as a speakers for one of our **panel discus
 </p>
 
 <p align="justify">
-  We are also always looking for volunteers to help us with the organisation of the OSR activities. If you are interested to join is, please, fill in this [form](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAMAAC9pqdJUNkFPS1UxWDRNNTNFQkhVTk00TVZWTEM0OS4u). <br>
+  We are also always **looking for volunteers** to help us with the organisation of the OSR activities. If you are interested to join is, please, fill in this [form](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAMAAC9pqdJUNkFPS1UxWDRNNTNFQkhVTk00TVZWTEM0OS4u) <br>
   You can find more info on volunteering opportunities [gere](https://ohbm.github.io/osr2023/opportunities/) or by contacting us through e-mail: ohbmopenscience@gmail.com
 </p>
 
@@ -34,7 +34,7 @@ You can self-nominate as a speaker for the following **hybrid panel discussions*
 **10:30 GMT-4 July 25, 2023** (Tuesday): Topic 4: Shareable resources in neuroimaging <br>
 **10:30 GMT-4 July 36, 2023** (Wednesday): Topic 5: Large open data repositories: sustainability and global implications of reuse <br><br>
  
-**You can request to hold such a session until June 25 (12pm anywhere on Earth) through this [form](https://forms.office.com/r/sWBzuATwDp).**<br> <br>
+**You can request to hold such a session until June 25 (12pm anywhere on Earth) through this [form](https://forms.office.com/r/sWBzuATwDp](https://forms.office.com/r/sWBzuATwDp).**<br> <br>
 After this date, the sessions will be reviewed based on their timeliness and interest to the open science audience by the OSR team and we will notify everyone of their assigned sessions in early July. <br> 
 </p>
 {::options parse_block_html="false" /}
