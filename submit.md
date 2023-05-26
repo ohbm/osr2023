@@ -35,7 +35,7 @@ You can self-nominate as a speaker for the following **hybrid panel discussions*
 **10:30 GMT-4 July 36, 2023** (Wednesday): Topic 5: Large open data repositories: sustainability and global implications of reuse <br><br>
  
 **You can request to hold such a session until June 25 (12pm anywhere on Earth) through this [form](https://forms.office.com/r/sWBzuATwDp]{:target="_blank"}.**<br> <br>
-After this date, the sessions will be reviewed based on their timeliness and interest to the open science audience by the OSR team and we will notify everyone of their assigned sessions in early July. <br> 
+After this date, the nominations will be reviewed by the OSR team based on the experience in the topic and we will notify succesfull self-nominees in early July. <br> 
 </p>
 {::options parse_block_html="false" /}
 
