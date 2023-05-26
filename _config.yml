@@ -33,8 +33,9 @@ navbar-links:
     - Panels: "panel"
     - Emergent Sessions: "emergent"
     - Table Talks: "tabletalk"
-    - Educational: "educational"
     - Symposium: "symposium"
+    - Educational: "educational"
+
   Register: "register"
   Volunteering: 
     - Opportunities: "opportunities"
