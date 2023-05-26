@@ -24,7 +24,7 @@ This year, you can **self-nominate** as a speakers for one of our **panel discus
 ## Panel Discussion Self-Nominations 
 
 <p align="justify">
-**Panel Sessions** are discussions amongst selected speakers and OSR attendees about various relevant topics, spanning across all aspects of open science practices.
+**Panel Sessions** are moderated discussions amongst selected speakers and OSR attendees about various relevant topics, spanning across all aspects of open science practices.
 </p>
 <p align="justify">
 You can self-nominate as a speaker for the following **hybrid panel discussions**: <br> 
@@ -34,8 +34,8 @@ You can self-nominate as a speaker for the following **hybrid panel discussions*
 **10:30 GMT-4 July 25, 2023** (Tuesday): Topic 4: Shareable resources in neuroimaging <br>
 **10:30 GMT-4 July 36, 2023** (Wednesday): Topic 5: Large open data repositories: sustainability and global implications of reuse <br><br>
  
-**You can request to hold such a session until June 25 (12pm anywhere on Earth) through this [form](https://forms.office.com/r/sWBzuATwDp){:target="_blank"}.**<br> <br>
-After this date, the nominations will be reviewed by the OSR team based on the experience in the topic and we will notify succesfull self-nominees in early July. <br> 
+**You can self-nominate as a panelist until June 25 (12pm anywhere on Earth) through this [form](https://forms.office.com/r/sWBzuATwDp){:target="_blank"}.**<br> <br>
+After this date, the nominations will be reviewed by the OSR team based on the experience in the topic and a diversity of speakers, and we will notify the self-nominees in early July. <br> 
 </p>
 {::options parse_block_html="false" /}
 
@@ -44,7 +44,7 @@ After this date, the nominations will be reviewed by the OSR team based on the e
 {::options parse_block_html="false" /}
 {::options parse_block_html="true" /}
 <p align="justify">
-  **Emergent sessions** are live discussions among a small group of panel members, mediated by a host. The discussions may cover more advanced topics related to open-science or EDI (Equality, Diversity and Inclusion) issues.
+  **Emergent sessions** are live discussions among a small group of panel members, mediated by a host and open to audience of the OSR. The discussions may cover more advanced topics related to open-science or EDI (Equality, Diversity and Inclusion) issues.
 </p>
 <p align="justify">
 During the OSR attendees can hold **hybrid emergent sessions**. <br> 
