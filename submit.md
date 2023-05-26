@@ -17,8 +17,8 @@ This year, you can **self-nominate** as a speakers for one of our **panel discus
 </p>
 
 <p align="justify">
-  We are also always **looking for volunteers** to help us with the organisation of the OSR activities. If you are interested to join is, please, fill in this [form](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAMAAC9pqdJUNkFPS1UxWDRNNTNFQkhVTk00TVZWTEM0OS4u) <br>
-  You can find more info on volunteering opportunities [gere](https://ohbm.github.io/osr2023/opportunities/) or by contacting us through e-mail: ohbmopenscience@gmail.com
+  We are also always **looking for volunteers** to help us with the organisation of the OSR activities. If you are interested to join is, please, fill in this [form](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAMAAC9pqdJUNkFPS1UxWDRNNTNFQkhVTk00TVZWTEM0OS4u) <br><br>
+  You can find more info on volunteering opportunities [here](https://ohbm.github.io/osr2023/opportunities/) or by contacting us through e-mail: ohbmopenscience@gmail.com
 </p>
 
 ## Panel Discussion Self-Nominations 
