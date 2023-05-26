@@ -5,11 +5,19 @@ title: Submit
 
 <div id="submission"></div>
 <br>
-## Emergent Session Submissions
+### Self-nominations OPEN !!! 
 {::options parse_block_html="true" /}
 <p align="justify">
   Before starting your submission make sure you are familiar with the [OSR formats](/formats.md){:target="_blank"}.
 </p>
+{::options parse_block_html="false" /}
+{::options parse_block_html="true" /}
+
+## Panel Self-Nomination Submissions 
+PITCH AND LINK HERE!!!
+
+## Emergent Session Submissions
+
 {::options parse_block_html="false" /}
 {::options parse_block_html="true" /}
 <p align="justify">
@@ -24,7 +32,7 @@ This year we offer **5 slots**:<br>
 **8.00-9.00 (GMT -4) July 25** (Tuesday): OSR: Emergent Session #4 <br>
 **14.45-15.45 (GMT -4) July 25** (Tuesday): OSR: Emergent Session #5 <br>
 <br> 
-You can request to hold such a session until June 25 (12pm anywhere on Earth) by creating an issue through our github repo: [template](https://github.com/ohbm/osr2023/issues/1).<br> 
+**You can request to hold such a session until June 25 (12pm anywhere on Earth) by creating an issue through our github repo: [template](https://github.com/ohbm/osr2023/issues/1).**<br> <br>
 After this date, the sessions will be reviewed based on their timeliness and interest to the open science audience by the OSR team and we will notify everyone of their assigned sessions in early July. <br> 
 </p>
 {::options parse_block_html="false" /}
