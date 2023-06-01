@@ -167,7 +167,7 @@ GMT-4
             <tr>
                 <td>10:30-11:30</td>
                 <td>
-                    <div>OSR Panel 4: Open Data Governance and Infrastructure - Sharable Resources in Neuroimaging</div>
+                    <div>OSR Panel 4: Open Data Governance and Infrastructure</div>
                     <div><a href="https://www.crowdcast.io" target="_blank">Watch on Crowdcast</a></div>
                 </td>
             </tr>
