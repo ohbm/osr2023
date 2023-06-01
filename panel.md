@@ -137,7 +137,7 @@ document.getElementById("open-code-panel").innerHTML = displayPanel("Open Code")
 </html>
 
 
-## Topic 4: Shareable resources in neuroimaging
+## Topic 4: Open Data Governance and Infrastructure
 ### <a href="https://www.crowdcast.io" target="_blank">Watch on Crowdcast</a> 
 When: 10:30 GMT-4 | July 25, 2023 (Tuesday) <br/>
 <!-- <a href="https://add.eventable.com/events/629a28543ef85c3ac00e5e83/629a4b4210e33846f6e40e62/" data-event="629a4b4210e33846f6e40e62" class="eventable-link" target="_blank" data-key="629a28543ef85c3ac00e5e83" data-style="1">Add to Calendar</a><br/> -->
