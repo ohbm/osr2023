@@ -34,7 +34,7 @@ You can self-nominate as a speaker for the following **hybrid panel discussions*
 **10:30 GMT-4 July 25, 2023** (Tuesday): Topic 4: Open Data Governance and Infrastructure <br>
 **10:30 GMT-4 July 26, 2023** (Wednesday): Topic 5: Large open data repositories: sustainability and global implications of reuse <br><br>
  
-**You can self-nominate as a panelist until June 25 (12pm anywhere on Earth) through this [form](https://forms.office.com/r/sWBzuATwDp){:target="_blank"}.**<br> <br>
+**You can self-nominate as a panelist until July 2 (12pm anywhere on Earth) through this [form](https://forms.office.com/r/sWBzuATwDp){:target="_blank"}.**<br> <br>
 After this date, the nominations will be reviewed by the OSR team based on the experience in the topic and a diversity of speakers, and we will notify the self-nominees in early July. <br> 
 </p>
 {::options parse_block_html="false" /}
