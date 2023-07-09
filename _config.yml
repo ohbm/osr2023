@@ -27,7 +27,7 @@ navbar-links:
     - Team: "volunteers"
     #- Sponsors: "sponsors"
   Program:
-    - Self-Nominations: "submit"
+    #- Self-Nominations: "submit"
     - Schedule: "schedule"
     #- Schedule: "schedule-PLACEHOLDER"
     - Panels: "panel"
