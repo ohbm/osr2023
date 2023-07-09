@@ -1,6 +1,6 @@
 ---
 layout: page
-title: OHBM 2023 Open Science Symposium: Sustainability through success stories
+title: Open Science Symposium
 ---
 
 ## OHBM 2023 Open Science Symposium: Sustainability through success stories 
