@@ -3,7 +3,7 @@ layout: page
 title: OHBM 2023 Open Science Symposium: Sustainability through success stories
 ---
 
-## We are also organisng a symposium during the OHBM 2023! 
+## OHBM 2023 Open Science Symposium: Sustainability through success stories 
 ### WHEN: 8.00 (GMT-4) July 25 (Tuesday)
 
 <br>
