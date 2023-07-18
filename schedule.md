@@ -152,7 +152,7 @@ GMT-4
             <tr>
                 <td>8:00-9:00</td>
                 <td>
-                    <div>OSR: Emergent session #4</div>
+                    <div>OSR: Emergent session #4: Enabling federated analysis on large datasets with COINSTAC Vaults</div>
                     <div><a href="https://www.crowdcast.io" target="_blank">Watch on Crowdcast</a></div>
 <!--                     <a href="https://add.eventable.com/events/629a28543ef85c3ac00e5e83/629a4b4210e33846f6e40e62/" class="eventable-link" target="_blank" data-key="629a28543ef85c3ac00e5e83" data-event="629a4b4210e33846f6e40e62" data-style="1">Add to Calendar</a> -->
                 </td>
