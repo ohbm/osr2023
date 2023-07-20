@@ -17,7 +17,7 @@ title: Emergent Sessions
 
 ### [Emergent Session 3: Discuss ideas for longitudinal simulated datasets for interplay of brain, behavior, and cognition](https://github.com/ohbm/osr2023/issues/5)
 #### 14.45 (GMT-4) July 24 (Monday)
-[Join on Crowdcast]([https://www.crowdcast.io/os-sig](https://www.crowdcast.io/e/osr-2023-emergent-3)
+[Join on Crowdcast](https://www.crowdcast.io/e/osr-2023-emergent-3)
 
 ---
 
