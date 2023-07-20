@@ -62,36 +62,35 @@ GMT-4
                 <td>8:00-9:00</td>
                 <td>
                     <div>OSR Panel 1: Telehealth as a tool for open data research and sharing</div>
-                    <div><a href="https://www.crowdcast.io/" target="_blank">Join on Crowdcast</a></div>
+                    <div><a href="https://www.crowdcast.io/e/panel-1-telehealth" target="_blank">Join on Crowdcast</a></div>
                 </td>
             </tr>
             <tr>
                 <td>10:30-11:30</td>
                 <td>
                     <div><a href="https://github.com/ohbm/osr2023/issues/4">OSR: Emergent Session #1: BIDS townhall</a></div>
-                    <div><a href="https://www.crowdcast.io/" target="_blank">Join on Crowdcast</a></div>
+                    <div><a href="https://www.crowdcast.io/e/osr-2023-emergent-1" target="_blank">Join on Crowdcast</a></div>
                 </td>
             </tr>
             <tr>
                 <td>11:30-12:15</td>
                 <td>
                     <div>OSR Table Topic Discussions 1: Telehealth as a tool for open data research and sharing in neurosciences</div>
-                    <div><a href="https://www.crowdcast.io/" target="_blank">Join on Crowdcast</a></div>
+                    <div><a href="https://www.crowdcast.io/e/osr-table-telehealth" target="_blank">Join on Crowdcast</a></div>
                 </td>
             </tr>
             <tr>
                 <td>14:15-15:30</td>
                 <td>
                     <div>OSR Panel 2: Evolution of open publishing (To do or not to do?/Lessons learnt)</div>
-                    <div><a href="https://www.crowdcast.io/" target="_blank">Join on Crowdcast</a></div>
+                    <div><a href="https://www.crowdcast.io/e/panel-2-evolution-of" target="_blank">Join on Crowdcast</a></div>
                 </td>
             </tr>
             <tr>
                 <td>16:45-17:30</td>
                 <td>
                     <div>OSR Table Topic Discussions 2: Evolution of open publishing (To do or not to do?/Lessons learnt)</div>
-                    <div><a href="https://www.crowdcast.io/" target="_blank">Join on Crowdcast</a></div>
-<!--                     <a href="https://add.eventable.com/events/629a28543ef85c3ac00e5e83/629a4a43a7c9374f60d948fd/" data-event="629a4a43a7c9374f60d948fd" class="eventable-link" target="_blank" data-key="629a28543ef85c3ac00e5e83" data-style="1">Add to Calendar</a> -->
+                    <div><a href="https://www.crowdcast.io/e/osr-table-evolution-of" target="_blank">Join on Crowdcast</a></div>
                 </td>
             </tr>
         </table>
@@ -111,29 +110,28 @@ GMT-4
                 <td>8:00-9:00</td>
                 <td>
                     <div>OSR Panel 3: Standardization of code (tips)</div>
-                    <div><a href="https://www.crowdcast.io" target="_blank">Join on Crowdcast</a></div>
-<!--                     <a href="https://add.eventable.com/events/629a28543ef85c3ac00e5e83/629a4b4210e33846f6e40e62/" class="eventable-link" target="_blank" data-key="629a28543ef85c3ac00e5e83" data-event="629a4b4210e33846f6e40e62" data-style="1">Add to Calendar</a> -->
+                    <div><a href="https://www.crowdcast.io/e/panel-3-standardization" target="_blank">Join on Crowdcast</a></div>
                 </td>
             </tr>
             <tr>
                 <td>10:30-11:30</td>
                 <td>
                     <div><a href="https://github.com/ohbm/osr2023/issues/6">OSR: Emergent session #2: Developing a community-driven standard file format for brain tractography</a></div>
-                    <div><a href="https://www.crowdcast.io" target="_blank">Join on Crowdcast</a></div>
+                    <div><a href="https://www.crowdcast.io/e/osr-2023-emergent-2" target="_blank">Join on Crowdcast</a></div>
                 </td>
             </tr>
             <tr>
                 <td>12:15-13:00</td>
                 <td>
                     <div>OSR Table Topic Discussions 3: Standardization of code (tips)</div>
-                    <div><a href="https://www.crowdcast.io/" target="_blank">Join on Crowdcast</a></div>
+                    <div><a href="https://www.crowdcast.io/e/osr-table-standardization" target="_blank">Join on Crowdcast</a></div>
                 </td>
             </tr>
             <tr>
                 <td>14:45-15:45</td>
                 <td>
                     <div><a href="https://github.com/ohbm/osr2023/issues/5">OSR: Emergent session #3: Discuss ideas for longitudinal simulated datasets for interplay of brain, behavior, and cognition</a></div>
-                    <div><a href="https://www.crowdcast.io" target="_blank">Join on Crowdcast</a></div>
+                    <div><a href="https://www.crowdcast.io/e/osr-2023-emergent-3" target="_blank">Join on Crowdcast</a></div>
                 </td>
             </tr>
         </table>
@@ -153,36 +151,34 @@ GMT-4
                 <td>8:00-9:00</td>
                 <td>
                     <div><a href="https://github.com/ohbm/osr2023/issues/8">OSR: Emergent session #4: Enabling federated analysis on large datasets with COINSTAC Vaults</a></div>
-                    <div><a href="https://www.crowdcast.io" target="_blank">Join on Crowdcast</a></div>
-<!--                     <a href="https://add.eventable.com/events/629a28543ef85c3ac00e5e83/629a4b4210e33846f6e40e62/" class="eventable-link" target="_blank" data-key="629a28543ef85c3ac00e5e83" data-event="629a4b4210e33846f6e40e62" data-style="1">Add to Calendar</a> -->
+                    <div><a href="https://www.crowdcast.io/e/osr-2023-emergent-4" target="_blank">Join on Crowdcast</a></div>
                 </td>
             </tr>
             <tr>
                 <td>8:00-9:15</td>
                 <td>
                     <div>Morning Symposia: Open Science - sustainability through success stories</div>
-                    <div><a href="https://www.crowdcast.io" target="_blank">Join on Crowdcast</a></div>
                 </td>
             </tr>
             <tr>
                 <td>10:30-11:30</td>
                 <td>
                     <div>OSR Panel 4: Open Data Governance and Infrastructure</div>
-                    <div><a href="https://www.crowdcast.io" target="_blank">Join on Crowdcast</a></div>
+                    <div><a href="https://www.crowdcast.io/e/panel-4-data-governance" target="_blank">Join on Crowdcast</a></div>
                 </td>
             </tr>
             <tr>
                 <td>11:45-12:45</td>
                 <td>
                     <div>OSR: Table Talk #4: Open Data Governance and Infrastructure - Sharable Resources in Neuroimaging</div>
-                    <div><a href="https://www.crowdcast.io" target="_blank">Join on Crowdcast</a></div>
+                    <div><a href="https://www.crowdcast.io/e/osr-table-data-governance" target="_blank">Join on Crowdcast</a></div>
                 </td>
             </tr>
             <tr>
-                <td>14:45-15:45</td>
+                <td>14:45-16:15</td>
                 <td>
-                    <div><a href="https://github.com/ohbm/osr2023/issues/3">OSR: Emergent session #5: Physiopy open meeting: physiology community practices</a></div>
-                    <div><a href="https://www.crowdcast.io" target="_blank">Join on Crowdcast</a></div>
+                    <div><a href="https://github.com/ohbm/osr2023/issues/3">OSR: Emergent session #5: Physiopy open meeting: physiology community practices + Challenges for small collaborative software projects </a></div>
+                    <div><a href="https://www.crowdcast.io/e/osr-2023-emergent-5" target="_blank">Join on Crowdcast</a></div>
                 </td>
             </tr>
         </table>
@@ -202,15 +198,14 @@ GMT-4
                 <td>10:30-11:30</td>
                 <td>
                     <div>OSR Panel 5: Community-driven topic</div>
-                    <div><a href="https://www.crowdcast.io" target="_blank">Join on Crowdcast</a></div>
+                    <div><a href="https://www.crowdcast.io/e/panel-5-data-reuse" target="_blank">Join on Crowdcast</a></div>
                 </td>
             </tr>
             <tr>
                 <td>11:45-12:45</td>
                 <td>
                     <div>OSR: Table Topic Discussions #5: Open Science Room: Community-driven topic</div>
-                    <div><a href="https://www.crowdcast.io" target="_blank">Join on Crowdcast</a></div>
-<!--                     <a href="https://add.eventable.com/events/629a28543ef85c3ac00e5e83/629a4ba20de33e392ef7ff06/" class="eventable-link" target="_blank" data-key="629a28543ef85c3ac00e5e83" data-event="629a4ba20de33e392ef7ff06" data-style="1">Add to Calendar</a> -->
+                    <div><a href="https://www.crowdcast.io/e/osr-table-data-reuse" target="_blank">Join on Crowdcast</a></div>
                 </td>
             </tr>
             
@@ -220,7 +215,6 @@ GMT-4
 </div>
 
 <div class="schedule-leave-space-before-footer">
-<!--     <a href="https://calendar.google.com/calendar/u/0?cid=MjQydjZtZGFpcWQydWM0YzVlNDcxazA2Nm9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ" target="_blank">CLICK HERE to add the OSR schedule to your Google calendar!</a> -->
 </div>
 
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://plugins.eventable.com/eventable.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script', 'eventable-script');</script>
