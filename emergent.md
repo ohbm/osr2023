@@ -46,7 +46,8 @@ title: Emergent Sessions
 
 ---
 
-### Emergent Session 5: Physiopy, tedana, and neurokit present: (cross-)community open meeting "physiology community practices" and "challenges for small collaborative software projects"
+### Emergent Session 5: Cross-community open meeting 
+### Physiopy, tedana, and neurokit: Physiology community practices + Challenges for small collaborative software projects
 #### 14.45 (GMT-4) July 25 (Tuesday)
 [Join on Crowdcast](https://www.crowdcast.io/e/osr-2023-emergent-5)
 
