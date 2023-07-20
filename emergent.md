@@ -27,7 +27,7 @@ title: Emergent Sessions
 
 ---
 
-### [Emergent Session 5: Physiopy open meeting: physiology community practices](https://github.com/ohbm/osr2023/issues/3)
+### [Emergent Session 5: Physiopy open meeting: physiology community practices + Challenges for small collaborative software projects](https://github.com/ohbm/osr2023/issues/3)
 #### 14.45 (GMT-4) July 25 (Tuesday)
 [Join on Crowdcast](https://www.crowdcast.io/e/osr-2023-emergent-5)
 
