@@ -53,8 +53,10 @@ title: Emergent Sessions
 
 <p>With the spread of open science practices, new ways of collaborating on scientific projects are taking root. One of these are international, cross-lab communities that gather around community practices, documentation, and software development. While there are great examples of large, stable international collaborations, consortia, and community-developed projects (e.g. BIDS, nipreps, The Touring Way), methods development often happens in smaller projects united by a specialized need. This emergent session is dedicated to these smaller realities.
  
-<p>Note that differently from other emergent sessions, this session is 1h30' long.
-<p>Part 1: Physiopy open meeting: physiology community practices
+<p>Note that differently from other emergent sessions, this session is 1h30min long.
+ 
+#### Part 1: Physiopy open meeting: physiology community practices
+
 <p>Physiopy is a community that develops solutions to improve the use of physiological signals (e.g. respiratory and cardiac related signals) in functional neuroimaging. Part of this effort is dedicated to compiling community practices on how to record, clean, and use physiological data. Throughout the year, they hold community practice meetings, where they discuss what could be the "best" (or better, the "common") way to deal with physiological data in neuroimaging.
 <p>In this emergent session, they want to invite experts and newbies alike to join one of such meetings, that will be structured as a debate on topics like:
 
@@ -66,7 +68,8 @@ title: Emergent Sessions
    
 <p>Come and help them think about a problem as an international community (vs. as a single lab/team), engage in new perspectives on physiological issues, and give feedback on how to improve the community effort in a user-oriented way!
 
-<p>Part 2: Challenges for small collaborative software projects
+#### Part 2: Challenges for small collaborative software projects
+
 <p>Smaller, international, software-developing communities face  distinct challenges of running open neuroimaging software projects with a small number of part-time contributors, often rotating throughout the life of the projects themselves, that are not anyone's primarily work time responsibility.
 <p>Join the tedana community, the physiopy community, and the NeuroKit project to discuss successes and challenges regarding a few situations smaller communities incur such as:
  - Getting started: What did it take to get a new small project off the ground? Was it the work of one person or did it start with a group deciding they'd collaborate on an unmet need?
