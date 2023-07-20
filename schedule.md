@@ -61,35 +61,35 @@ GMT-4
             <tr>
                 <td>8:00-9:00</td>
                 <td>
-                    <div>Panel 1: Telehealth as a tool for open data research and sharing</div>
+                    <div>Panel: Telehealth as a tool for open data research and sharing</div>
                     <div><a href="https://www.crowdcast.io/e/panel-1-telehealth" target="_blank">Join on Crowdcast</a></div>
                 </td>
             </tr>
             <tr>
                 <td>10:30-11:30</td>
                 <td>
-                    <div><a href="https://github.com/ohbm/osr2023/issues/4">Emergent Session #1: BIDS townhall</a></div>
+                    <div><a href="https://github.com/ohbm/osr2023/issues/4">Emergent Session: BIDS Townhall</a></div>
                     <div><a href="https://www.crowdcast.io/e/osr-2023-emergent-1" target="_blank">Join on Crowdcast</a></div>
                 </td>
             </tr>
             <tr>
                 <td>11:30-12:15</td>
                 <td>
-                    <div>Table Topic Discussions 1: Telehealth as a tool for open data research and sharing in neurosciences</div>
+                    <div>Table Topic Discussion: Telehealth as a tool for open data research and sharing in neurosciences</div>
                     <div><a href="https://www.crowdcast.io/e/osr-table-telehealth" target="_blank">Join on Crowdcast</a></div>
                 </td>
             </tr>
             <tr>
                 <td>14:15-15:30</td>
                 <td>
-                    <div>Panel 2: Evolution of open publishing (To do or not to do?/Lessons learnt)</div>
+                    <div>Panel: Evolution of Open Publishing (To do or not to do? Lessons learnt!)</div>
                     <div><a href="https://www.crowdcast.io/e/panel-2-evolution-of" target="_blank">Join on Crowdcast</a></div>
                 </td>
             </tr>
             <tr>
                 <td>16:45-17:30</td>
                 <td>
-                    <div>Table Topic Discussions 2: Evolution of open publishing (To do or not to do?/Lessons learnt)</div>
+                    <div>Table Topic Discussion: Evolution of Open Publishing</div>
                     <div><a href="https://www.crowdcast.io/e/osr-table-evolution-of" target="_blank">Join on Crowdcast</a></div>
                 </td>
             </tr>
@@ -109,28 +109,28 @@ GMT-4
             <tr>
                 <td>8:00-9:00</td>
                 <td>
-                    <div>OSR Panel 3: Standardization of code (tips)</div>
+                    <div>Panel: Standardization of Code (tips)</div>
                     <div><a href="https://www.crowdcast.io/e/panel-3-standardization" target="_blank">Join on Crowdcast</a></div>
                 </td>
             </tr>
             <tr>
                 <td>10:30-11:30</td>
                 <td>
-                    <div><a href="https://github.com/ohbm/osr2023/issues/6">Emergent session #2: Developing a community-driven standard file format for brain tractography</a></div>
+                    <div><a href="https://github.com/ohbm/osr2023/issues/6">Emergent Session: Developing a community-driven standard file format for brain tractography</a></div>
                     <div><a href="https://www.crowdcast.io/e/osr-2023-emergent-2" target="_blank">Join on Crowdcast</a></div>
                 </td>
             </tr>
             <tr>
                 <td>12:15-13:00</td>
                 <td>
-                    <div>Table Topic Discussions 3: Standardization of code (tips)</div>
+                    <div>Table Topic Discussion: Standardization of Code</div>
                     <div><a href="https://www.crowdcast.io/e/osr-table-standardization" target="_blank">Join on Crowdcast</a></div>
                 </td>
             </tr>
             <tr>
                 <td>14:45-15:45</td>
                 <td>
-                    <div><a href="https://github.com/ohbm/osr2023/issues/5">Emergent session #3: Discuss ideas for longitudinal simulated datasets for interplay of brain, behavior, and cognition</a></div>
+                    <div><a href="https://github.com/ohbm/osr2023/issues/5">Emergent Session: Discuss ideas for longitudinal simulated datasets for interplay of brain, behavior, and cognition</a></div>
                     <div><a href="https://www.crowdcast.io/e/osr-2023-emergent-3" target="_blank">Join on Crowdcast</a></div>
                 </td>
             </tr>
@@ -150,7 +150,7 @@ GMT-4
             <tr>
                 <td>8:00-9:00</td>
                 <td>
-                    <div><a href="https://github.com/ohbm/osr2023/issues/8">Emergent session #4: Enabling federated analysis on large datasets with COINSTAC Vaults</a></div>
+                    <div><a href="https://github.com/ohbm/osr2023/issues/8">Emergent Session: Enabling federated analysis on large datasets with COINSTAC Vaults</a></div>
                     <div><a href="https://www.crowdcast.io/e/osr-2023-emergent-4" target="_blank">Join on Crowdcast</a></div>
                 </td>
             </tr>
@@ -163,21 +163,21 @@ GMT-4
             <tr>
                 <td>10:30-11:30</td>
                 <td>
-                    <div>Panel 4: Open Data Governance and Infrastructure</div>
+                    <div>Panel: Open Data Governance and Infrastructure</div>
                     <div><a href="https://www.crowdcast.io/e/panel-4-data-governance" target="_blank">Join on Crowdcast</a></div>
                 </td>
             </tr>
             <tr>
                 <td>11:45-12:45</td>
                 <td>
-                    <div>Table Talk #4: Open Data Governance and Infrastructure - Sharable Resources in Neuroimaging</div>
+                    <div>Table Topic Discussion: Open Data Governance and Infrastructure - Sharable Resources in Neuroimaging</div>
                     <div><a href="https://www.crowdcast.io/e/osr-table-data-governance" target="_blank">Join on Crowdcast</a></div>
                 </td>
             </tr>
             <tr>
                 <td>14:45-16:15</td>
                 <td>
-                    <div><a href="https://github.com/ohbm/osr2023/issues/3">OSR: Emergent session #5: Physiopy open meeting: physiology community practices + Challenges for small collaborative software projects </a></div>
+                    <div><a href="https://github.com/ohbm/osr2023/issues/3">Emergent Session: Physiopy open meeting: physiology community practices + Challenges for small collaborative software projects </a></div>
                     <div><a href="https://www.crowdcast.io/e/osr-2023-emergent-5" target="_blank">Join on Crowdcast</a></div>
                 </td>
             </tr>
@@ -197,14 +197,14 @@ GMT-4
             <tr>
                 <td>10:30-11:30</td>
                 <td>
-                    <div>Panel 5: Large open data repositories: sustainability and global implications of reuse</div>
+                    <div>Panel: Large open data repositories: sustainability and global implications of reuse</div>
                     <div><a href="https://www.crowdcast.io/e/panel-5-data-reuse" target="_blank">Join on Crowdcast</a></div>
                 </td>
             </tr>
             <tr>
                 <td>11:45-12:45</td>
                 <td>
-                    <div>Table Topic Discussions #5: Large open data repositories: sustainability and global implications of reuse</div>
+                    <div>Table Topic Discussion: Large open data repositories: sustainability and global implications of reuse</div>
                     <div><a href="https://www.crowdcast.io/e/osr-table-data-reuse" target="_blank">Join on Crowdcast</a></div>
                 </td>
             </tr>
