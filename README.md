@@ -16,17 +16,17 @@ We are organizing, among other events, the Open Science Room at the <a href="htt
 
 ### Get involved
 
-All information is available on <a href="https://ohbm.github.io/osr2022" target="_blank">our website</a>.
+All information is available on <a href="https://ohbm.github.io/osr2023" target="_blank">our website</a>.
 
 ### Contact us
 
-Feel free to <a href="https://ohbm.github.io/osr2021/contact/" target="_blank">reach out to us</a>!
+Feel free to <a href="https://ohbm.github.io/osr2023/contact/" target="_blank">reach out to us</a>!
 
 
 ---
 
 ### Credit
-The [OSR website](https://ohbm.github.io/osr2022) was built using the [Beautiful Jekyll](https://deanattali.com/beautiful-jekyll/) theme by [Dean Attali](https://deanattali.com/).
+The [OSR website](https://ohbm.github.io/osr2023) was built using the [Beautiful Jekyll](https://deanattali.com/beautiful-jekyll/) theme by [Dean Attali](https://deanattali.com/).
 
 
 #### Instructions for building website (these must be run prior to uploading onto GH)
