@@ -68,7 +68,7 @@ GMT-4
             <tr>
                 <td>10:30-11:30</td>
                 <td>
-                    <div><a href="https://github.com/ohbm/osr2023/issues/4">Emergent Session: BIDS Townhall</a></div>
+                    <div>Emergent Session: BIDS Townhall</a></div>
                     <div><a href="https://www.crowdcast.io/e/osr-2023-emergent-1" target="_blank">Join on Crowdcast</a></div>
                 </td>
             </tr>
@@ -116,7 +116,7 @@ GMT-4
             <tr>
                 <td>10:30-11:30</td>
                 <td>
-                    <div><a href="https://github.com/ohbm/osr2023/issues/6">Emergent Session: Developing a community-driven standard file format for brain tractography</a></div>
+                    <div>Emergent Session: Developing a community-driven standard file format for brain tractography</a></div>
                     <div><a href="https://www.crowdcast.io/e/osr-2023-emergent-2" target="_blank">Join on Crowdcast</a></div>
                 </td>
             </tr>
@@ -130,7 +130,7 @@ GMT-4
             <tr>
                 <td>14:45-15:45</td>
                 <td>
-                    <div><a href="https://github.com/ohbm/osr2023/issues/5">Emergent Session: Discuss ideas for longitudinal simulated datasets for interplay of brain, behavior, and cognition</a></div>
+                    <div>Emergent Session: Discuss ideas for longitudinal simulated datasets for interplay of brain, behavior, and cognition</a></div>
                     <div><a href="https://www.crowdcast.io/e/osr-2023-emergent-3" target="_blank">Join on Crowdcast</a></div>
                 </td>
             </tr>
@@ -150,7 +150,7 @@ GMT-4
             <tr>
                 <td>8:00-9:00</td>
                 <td>
-                    <div><a href="https://github.com/ohbm/osr2023/issues/8">Emergent Session: Enabling federated analysis on large datasets with COINSTAC Vaults</a></div>
+                    <div>Emergent Session: Enabling federated analysis on large datasets with COINSTAC Vaults</a></div>
                     <div><a href="https://www.crowdcast.io/e/osr-2023-emergent-4" target="_blank">Join on Crowdcast</a></div>
                 </td>
             </tr>
@@ -177,7 +177,7 @@ GMT-4
             <tr>
                 <td>14:45-16:15</td>
                 <td>
-                    <div><a href="https://github.com/ohbm/osr2023/issues/3">Emergent Session: Physiopy open meeting: physiology community practices + Challenges for small collaborative software projects </a></div>
+                    <div>Emergent Session: Physiopy open meeting: physiology community practices + Challenges for small collaborative software projects </a></div>
                     <div><a href="https://www.crowdcast.io/e/osr-2023-emergent-5" target="_blank">Join on Crowdcast</a></div>
                 </td>
             </tr>
