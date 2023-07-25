@@ -175,6 +175,14 @@ GMT-4
                 </td>
             </tr>
             <tr>
+                <td>14:00-14:30</td>
+                <td>
+                    <div>Off Schedule Session: Mathworks</div>
+                    <div><a href="https://www.crowdcast.io/c/osr-mathworks" target="_blank">Join on Crowdcast</a></div>
+                </td>
+            </tr>
+            
+            <tr>
                 <td>14:45-16:15</td>
                 <td>
                     <div><a href="https://ohbm.github.io/osr2023/emergent/" target="_blank">Emergent Session:</a> Physiopy open meeting: physiology community practices + Challenges for small collaborative software projects</div>
